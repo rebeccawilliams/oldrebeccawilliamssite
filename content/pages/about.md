@@ -34,7 +34,7 @@ sections:
           - url: 'https://linkedin.co/in/rebeccaannwilliams'
             style: link
             has_icon: false
-            icon: arrow-left
+            icon: arrow-right
             icon_position: right
             new_window: false
             no_follow: false
