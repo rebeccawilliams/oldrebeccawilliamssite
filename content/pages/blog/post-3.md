@@ -17,7 +17,7 @@ excerpt: >-
   dici possunt in hanc sententiam, sed non necesse est. Putabam equidem satis,
   inquit, me dixisse.
 thumb_image: images/caring-sage.gif
-thumb_image_alt: Post 3 placeholder image
+thumb_image_alt: Cyber city gif
 image: images/smallcybercity.gif
 image_alt: Post 3 placeholder image
 image_position: top
