@@ -1,5 +1,5 @@
 ---
-title: Sunlight Foundation Posts
+title: Sunlight Foundation Archive
 subtitle: >-
   Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil quieti
   videre, nihil tranquilli potest.
