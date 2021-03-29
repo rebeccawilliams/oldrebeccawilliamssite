@@ -64,7 +64,7 @@ sections:
         media_width: fifty
         subtitle: Weekly Newsletter
       - title: Civic Tech Book Club
-        subtitle: Virtual book club on civics/technology.
+        subtitle: Virtual book club with a critical lens on civic technologies
         content: >
           The group was created in 2015 by Forest Gregg, Rebecca Ackerman, and
           Rebecca Williams (members of the “civic tech” community) who lived far
