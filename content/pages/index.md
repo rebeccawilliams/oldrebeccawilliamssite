@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Rebecca Williams
 sections:
   - type: hero_section
     title: Rebecca Williams
