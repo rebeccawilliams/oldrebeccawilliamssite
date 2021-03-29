@@ -40,16 +40,6 @@ sections:
             no_follow: false
             type: action
             label: Connect on LinkedIn
-      - title: Section Title Three
-        subtitle: 'Donec nisl ligula, cursus id molestie vel. '
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
-        image: images/about-1.jpg
-        image_alt: Happy co-workers
-        media_position: right
-        media_width: fifty
 seo:
   title: About
   description: This is the about us page
