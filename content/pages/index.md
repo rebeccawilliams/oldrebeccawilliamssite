@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Rebecca Williams
-    subtitle: information policy
+    subtitle: information policy x power
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
