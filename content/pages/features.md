@@ -116,8 +116,6 @@ sections:
       - title: Hackers Aren't the Only Ones Defending Your Right to Federal Data
         subtitle: lorem-ipsum
         title_align: left
-        content: |
-          *
         content_align: left
         actions: []
         actions_align: left
