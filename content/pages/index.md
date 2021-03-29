@@ -80,7 +80,7 @@ sections:
     align: center
     background_color: secondary
   - type: blog_feed_section
-    title: Recent Writing
+    title: Writing
     subtitle: Read Recent
     actions:
       - label: View All
