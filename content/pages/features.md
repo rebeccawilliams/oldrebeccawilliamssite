@@ -89,7 +89,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/the-verge-vector-logo.png
-      - title: lorem-ipsum
+      - title: How Legal Hackers Are Changing The Legal Industry
         subtitle: lorem-ipsum
         title_align: left
         content: >-
