@@ -113,7 +113,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/forbes logo.png
-      - title: lorem-ipsum
+      - title: Hackers Aren't the Only Ones Defending Your Right to Federal Data
         subtitle: lorem-ipsum
         title_align: left
         content: >-
