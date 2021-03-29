@@ -9,7 +9,7 @@ sections:
       ligula, cursus id molestie vel.
     actions:
       - label: Contact
-        url: /features
+        url: /contact
         style: secondary
     image: images/kind-turmeric.jpg
     image_alt: Hero section placeholder image
