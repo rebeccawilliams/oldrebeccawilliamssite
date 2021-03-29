@@ -73,7 +73,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-            label: Open Data from Within (2016)
+            label: Open Data from Within Gov (2016)
         actions_align: left
         actions_width: auto
         image_alt: lorem-ipsum
