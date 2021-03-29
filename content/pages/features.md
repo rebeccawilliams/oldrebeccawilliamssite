@@ -78,7 +78,7 @@ sections:
               The Verge: Unemployment Checks Are Being Held Up by a Coding
               Language Almost Nobody Knows by Makena Kelly
             style: link
-            has_icon: false
+            has_icon: true
             icon: arrow-left
             icon_position: right
             new_window: false
