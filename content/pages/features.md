@@ -55,7 +55,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-          - label: lorem-ipsum
+          - label: An inside look at gov data making 1 (2018)
             url: >-
               https://web.archive.org/web/20201022215006/https://www.ire.org/events-and-training/event/3189/
             style: link
