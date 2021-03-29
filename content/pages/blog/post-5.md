@@ -14,7 +14,9 @@ thumb_image_alt: >-
   Screenshots from Nuclear Energy videos (2015) by Kurzgesagt via
   letstalkscience.ca
 image: images/pros_cons_nuclear_energy.png
-image_alt: Post 5 placeholder image
+image_alt: >-
+  Screenshots from Nuclear Energy videos (2015) by Kurzgesagt via
+  letstalkscience.ca
 image_position: right
 seo:
   title: Amet Nulla Facilisi Morbi Tempus
