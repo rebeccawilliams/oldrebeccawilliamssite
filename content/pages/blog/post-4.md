@@ -18,7 +18,7 @@ excerpt: >-
 thumb_image: images/whosestreets.png
 thumb_image_alt: Newsletter screenshot
 image: images/modern-eucalyptus.png
-image_alt: Post 4 placeholder image
+image_alt: Newsletter screenshot
 image_position: right
 seo:
   title: Vos Autem Cum Perspicuis Dubia Debeatis Illustrare
