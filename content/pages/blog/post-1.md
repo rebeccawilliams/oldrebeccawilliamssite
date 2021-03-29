@@ -1,5 +1,5 @@
 ---
-title: Sunlight Foundation Archive Posts
+title: Sunlight Foundation Archival Posts
 subtitle: >-
   Archival posts from 2013-2014 at the Sunlight Foundation related to open data
   policies and practices.
