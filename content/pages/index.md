@@ -30,13 +30,11 @@ sections:
         subtitle: >-
           Harvard Kennedy School’s Belfer Center for Science and International
           Affairs’ Technology and Public Purpose (TAPP) project
-        content: >+
-          I am spending the 2020-21 academic year researching harms related to
-          “smart city” technologies. The goals of this research are to support
-          people already doing related research and advocacy and to produce a
-          risk framework, assessment of current policies and practices, and set
-          of recommendations to prevent these harms.
-
+        content: >
+          The goals of this research are to support people already doing related
+          research and advocacy and to produce a risk framework, assessment of
+          current policies and practices, and set of recommendations to prevent
+          these harms.
         actions:
           - label: Learn More
             url: /style-guide
