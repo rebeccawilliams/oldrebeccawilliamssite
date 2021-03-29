@@ -49,9 +49,41 @@ seo:
       relativeUrl: true
 layout: post
 ---
+As part of Harvard Kennedy School’s Belfer Center for Science and International Affairs’ new [ Technology and Public Purpose](https://medium.com/r/?url=https%3A%2F%2Fwww.belfercenter.org%2Fproject%2Ftechnology-and-public-purpose) (TAPP) project, I am spending the 2020-21 academic year assessing risks to civil liberties posed by “smart city” technologies and developing recommended interventions. As part of this research, I will be regularly blogging updates on my thinking and overall project progress, as well as soliciting input. With this first post, I hope to introduce myself, describe the impetus for the project, and describe the evolving goals of the research.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non est ista, inquam, Piso, magna dissensio. Callipho ad virtutem nihil adiunxit nisi voluptatem, Diodorus vacuitatem doloris. Aut haec tibi, Torquate, sunt vituperanda aut patrocinium voluptatis repudiandum. Invidiosum nomen est, infame, suspectum. Dolor ergo, id est summum malum, metuetur semper, etiamsi non aderit; Duo Reges: constructio interrete. Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Quae fere omnia appellantur uno ingenii nomine, easque virtutes qui habent, ingeniosi vocantur. Ut aliquid scire se gaudeant?
+The background that I’ll bring to bear on this research is legal and city planning training, practitioner experience supporting a variety of 
+city management subjects such as energy policy, affordable housing, and code enforcement, and 7 years of experience as an advocate, consultant, 
+and civil servant developing various government data and IT policies (including many related to open access). My time spent [co-working with the now-defunct technology team](https://github.com/openplans/history-of) of [OpenPlans](https://www.openplans.org/) (an organization dedicated to collaborative and participatory community tools) and participating in DIY hackathons will also surely serve this research as a reminder of what is possible with technology development via grassroots efforts.
 
-Quis est, qui non oderit libidinosam, protervam adolescentiam? Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam equidem satis, inquit, me dixisse. Quid igitur, inquit, eos responsuros putas? Age, inquies, ista parva sunt. Negabat igitur ullam esse artem, quae ipsa a se proficisceretur;
+The original inspiration for this research came from observing the thoughtful pushback by local [activists](https://www.blocksidewalk.ca/) and [scholars](https://some-thoughts.org/) to Sidewalk Labs’ flagship “smart city” project in Toronto and wanting to support it further. Prior to [the Sidewalk Toronto proposal](https://www.sidewalktoronto.ca/), my primary concern with “smart city” products had been that vendors may be pitching technological solutions to complex civic problems that 
+would ultimately under-deliver at the expense of the taxpayer. Sidewalk Toronto’s proposal however replaced concerns over “What if vendors can’t do what they claim?” with “What if they can?” Sidewalk Toronto’s proposal boasted an unprecedented number of data gathering tools and its parent company, Alphabet Inc., holds arguably one of the largest databases of personally identifiable information that has ever existed. 
+This big data capacity, coupled with the proposal’s large corporate footprint on a public square, raised new and urgent concerns of surveillance, equity, and democracy. While Sidewalk Labs was pitching “one of the world’s first smart cities” in Toronto, law enforcement agencies in the United States were under increased scrutiny for using new and invasive facial recognition technology without privacy 
+protections or oversight mechanisms in place and some local city councils had begun to ban the use of the technology outright. A 
+contribution to this policymaking was surely Georgetown Law’s [The Perpetual Line-Up: Unregulated  Facial Recognition Technology in America](https://www.perpetuallineup.org/sites/default/files/2016-12/The%20Perpetual%20Line-Up%20-%20Center%20on%20Privacy%20and%20Technology%20at%20Georgetown%20Law%20-%20121616.pdf),
+ which provided a comprehensive analysis of department’s related policies (or lack thereof) and a set of recommendations. I saw the need 
+for a similar analysis and set of recommendations for new and invasive “smart city” technologies like those pitched by Sidewalk Toronto and submitted the research proposal to the TAPP team.
 
-Cur ipse Pythagoras et Aegyptum lustravit et Persarum magos adiit? Ex ea difficultate illae fallaciloquae, ut ait Accius, malitiae natae sunt. Quorum sine causa fieri nihil putandum est. Sit enim idem caecus, debilis. Qui-vere falsone, quaerere mittimus-dicitur oculis se privasse; Intrandum est igitur in rerum naturam et penitus quid ea postulet pervidendum; Urgent tamen et nihil remittunt. Quae contraria sunt his, malane? Nihil acciderat ei, quod nollet, nisi quod anulum, quo delectabatur, in mari abiecerat. Atque his de rebus et splendida est eorum et illustris oratio. Haec para/doca illi, nos admirabilia dicamus. Non est ista, inquam, Piso, magna dissensio.
+Since originally pitching this research in January, global events and many conversations have helped me to refine my goals of the project, 
+which will likely continue to be refined as I go. The potential and panic of COVID-19 contract tracing apps have raised new questions and 
+examples of what acceptable surveillance looks like, while [the national Black Lives Matter protests](https://www.nytimes.com/interactive/2020/07/03/us/george-floyd-protests-crowd-size.html) have served as a reminder of how needed and at risk our right to protest freely is. One example of a risk to protest pertinent to this research was when [smart streetlight footage of protesters was shared with law enforcement in San Diego](https://www.voiceofsandiego.org/topics/government/police-used-smart-streetlight-footage-to-investigate-protesters/). This example made it clear, that while my intent was not to focus on the tech used by law enforcement agencies (there is already great work being done in this area) that I would have to examine all “smart city” tech as potentially being used by law enforcement in my examination of risks. Shortly thereafter San Diego paused use of their street light cameras until privacy concerns were addressed and since my proposal pitch, Sidewalk Labs has backed out of Toronto. In addition to Sidewalk 
+Toronto and San Diego, I have had conversations with experts and activists on other “smart city” projects that have received scrutiny, 
+such as [LinkNYC](https://www.link.nyc/), the [Mobility Data Specification](https://ladot.io/wp-content/uploads/2018/12/What-is-MDS-Cities.pdf), the [Port Covington TIF](https://pc.city/), and examined related [privacy policies](https://www.link.nyc/privacy-policy.html), and [data sharing policies](https://www.sandiego.gov/sites/default/files/police_department_procedure_on_streetlights_technology.pdf). I’ve also begun to examine suggested interventions such as [procurement strategies](https://monum.github.io/playbook/) and [data trusts](https://www.sciencedirect.com/science/article/abs/pii/S0736585320301155).
+
+These conversations and examples have helped me refine the goals of this research to focus less on the specific regulation of any one 
+specific “smart city” technology (the way the Perpetual Line Up had done with facial recognition technology), but instead to focus on larger 
+power structures in play with (1) a “Follow the Money” approach to how these technologies are being funded and procured (e.g. Public-Private 
+Partnerships, Federal Grants, vendor business-models) to examine their tensions with the public interest (2) a risk-framework that outlines harms that any one or collection of these technologies may create (e.g. discriminatory application, chilled freedom of assembly, corporate influence on the public spaces). The goals of this research are to:
+
+*   Provide added value by supporting people already doing related research and advocacy;
+
+*   Provide a landscape of potential risks “smart city” technologies may pose;
+
+*   Provide an assessment of current U.S. “smart city” practices and policies;
+
+*   Provide actionable tools and recommendations for the public, governments, and vendors to use to prevent these harms.
+
+If you have examples of any of the above or suggestions for where I should dig further, please do not hesitate to be in touch: <rebeccawilliams@hks.harvard.edu> 
+
+[*Orignally posted on The Perspectives on Public Purpose Blog hosted by Harvard 
+Kennedy School Belfer Center’s Technology and Public Purpose Project 
+(TAPP)*](https://www.belfercenter.org/publication/introducing-whose-streets-our-streets-developing-interventions-protect-civil-liberties)
