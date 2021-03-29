@@ -27,7 +27,7 @@ sections:
     title: Projects
     subtitle: Follow Current
     features:
-      - title: Technology and Public Purpose Project Resesearch
+      - title: Technology and Public Purpose Project Research
         subtitle: >-
           I am spending the 2020-21 academic year researching harms related to
           “smart city” technologies.
