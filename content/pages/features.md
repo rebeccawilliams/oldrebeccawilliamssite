@@ -74,7 +74,9 @@ sections:
         content_align: left
         actions:
           - label: Link
-            url: '#'
+            url: >-
+              The Verge: Unemployment Checks Are Being Held Up by a Coding
+              Language Almost Nobody Knows by Makena Kelly
             style: link
             has_icon: false
             icon: arrow-left
