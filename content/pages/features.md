@@ -13,7 +13,7 @@ sections:
         title_align: left
         content_align: left
         actions:
-          - label: 'Your Laws, Your Data: Making Government More Open '
+          - label: 'Your Laws, Your Data (2015)'
             url: 'https://schedule.sxsw.com/2015/events/event_IAP35484'
             style: primary
             has_icon: true
