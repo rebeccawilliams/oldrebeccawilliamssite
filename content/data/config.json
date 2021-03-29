@@ -12,6 +12,11 @@
         "has_primary_nav": true,
         "primary_nav_links": [
             {
+                "label": "About/CV",
+                "url": "/about",
+                "style": "link"
+            },
+            {
                 "label": "Speaking/Press",
                 "url": "/features",
                 "style": "link"
@@ -19,11 +24,6 @@
             {
                 "label": "Community",
                 "url": "/pricing",
-                "style": "link"
-            },
-            {
-                "label": "About/CV",
-                "url": "/about",
                 "style": "link"
             },
             {
