@@ -122,7 +122,7 @@ sections:
             url: >-
               https://www.wired.com/2017/05/hackers-arent-ones-defending-right-federal-data/
             style: primary
-            has_icon: false
+            has_icon: true
             icon: arrow-left
             icon_position: right
             new_window: false
