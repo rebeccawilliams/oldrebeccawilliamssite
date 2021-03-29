@@ -5,6 +5,7 @@ date: '2020-12-16'
 author: content/data/team/gustav-purpleson.yaml
 categories:
   - content/data/categories/category-apoc3kfww.json
+  - content/data/categories/general.yaml
 tags:
   - content/data/tags/stackbit.yaml
 excerpt: An Outline of Five "smart city" Harms and a Call for Feedback
