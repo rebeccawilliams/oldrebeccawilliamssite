@@ -16,7 +16,7 @@ excerpt: >-
 thumb_image: images/superb-kangaroo.jpg
 thumb_image_alt: Rebecca holding large image of computer
 image: images/usesthis.jpg
-image_alt: Post 2 placeholder image
+image_alt: Rebecca holding large image of computer
 image_position: left
 seo:
   title: 'Non Minor, Inquit, Voluptas Percipitur Ex Vilissimis'
