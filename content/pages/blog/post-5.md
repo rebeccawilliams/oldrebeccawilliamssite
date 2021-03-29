@@ -3,8 +3,7 @@ title: What's so Dangerous About Smart Cities Anyway?
 subtitle: An Outline of Five "smart city" Harms and a Call for Feedback
 date: '2020-12-16'
 author: content/data/team/gustav-purpleson.yaml
-categories:
-  - content/data/categories/tutorials.yaml
+categories: []
 tags:
   - content/data/tags/stackbit.yaml
 excerpt: An Outline of Five "smart city" Harms and a Call for Feedback
