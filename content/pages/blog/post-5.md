@@ -10,7 +10,9 @@ tags:
   - content/data/tags/stackbit.yaml
 excerpt: An Outline of Five "smart city" Harms and a Call for Feedback
 thumb_image: images/superb-paprika.png
-thumb_image_alt: Post 5 placeholder image
+thumb_image_alt: >-
+  Screenshots from Nuclear Energy videos (2015) by Kurzgesagt via
+  letstalkscience.ca
 image: images/pros_cons_nuclear_energy.png
 image_alt: Post 5 placeholder image
 image_position: right
