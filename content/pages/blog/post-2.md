@@ -11,7 +11,7 @@ categories:
 tags:
   - content/data/tags/jamstack.yaml
 excerpt: >-
-  åMy ironic but not "Uses This" interview detailing what technology I was
+  My ironic but not "Uses This" interview detailing what technology I was
   allowed to use a Federal (Tech) Policy Analyst.
 thumb_image: images/superb-kangaroo.jpg
 thumb_image_alt: Rebecca holding large image of computer
