@@ -47,10 +47,10 @@ sections:
         media_position: right
         media_width: fifty
       - title: Whose Streets? Our Streets! (Tech Edition)
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          As a companion to my TAPP research, with the help of Madeline Smith, I
+          collect weekly news related to public surveillance technology. Watch
+          us watch cities, the market, policy, and the watchers.
         actions:
           - label: Learn More
             url: /style-guide
