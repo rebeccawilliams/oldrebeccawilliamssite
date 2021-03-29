@@ -7,7 +7,6 @@ categories:
   - content/data/categories/tutorials.yaml
 tags:
   - content/data/tags/stackbit.yaml
-  - content/data/tags/netlify.yaml
 excerpt: An Outline of Five "smart city" Harms and a Call for Feedback
 thumb_image: images/classic/post-5.png
 thumb_image_alt: Post 5 placeholder image
