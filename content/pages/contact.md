@@ -13,7 +13,7 @@ sections:
     grid_items:
       - title: Contact
         title_align: center
-        content_align: right
+        content_align: center
         actions:
           - label: Email
             url: 'email-to:rebecca@rebeccawilliams.us'
