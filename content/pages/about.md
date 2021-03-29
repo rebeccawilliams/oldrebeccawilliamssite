@@ -8,7 +8,7 @@ sections:
     background_color: secondary
   - type: features_section
     features:
-      - title: Professional Biography
+      - title: Professional Biography and Headshot
         subtitle: Civic Technology and Information Policy Analyst
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
