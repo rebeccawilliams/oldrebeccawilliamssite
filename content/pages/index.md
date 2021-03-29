@@ -63,7 +63,7 @@ sections:
         media_position: left
         media_width: fifty
         subtitle: Weekly Newsletter
-      - title: The Big Title For the Feature
+      - title: Civic Tech Book Club
         subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
