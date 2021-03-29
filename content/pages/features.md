@@ -13,7 +13,7 @@ sections:
         title_align: left
         content_align: left
         actions:
-          - label: lorem-ipsum
+          - label: 'Your Laws, Your Data: Making Government More Open '
             url: '#'
             style: link
             has_icon: false
