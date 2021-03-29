@@ -3,7 +3,6 @@ title: Rebecca Williams
 sections:
   - type: hero_section
     title: Rebecca Williams
-    subtitle: information policy ∩ power
     content: >
       Rebecca Williams has been studying various government information access
       policies and schemes for the last eight years and she's been on the
