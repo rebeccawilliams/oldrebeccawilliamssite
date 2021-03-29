@@ -62,7 +62,9 @@ sections:
     subtitle: Featured
     actions: []
     grid_items:
-      - title: lorem-ipsum
+      - title: >-
+          Unemployment Checks Are Being Held Up by a Coding Language Almost
+          Nobody Knows
         subtitle: Makena Kelly
         title_align: left
         content: >
