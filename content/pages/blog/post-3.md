@@ -9,6 +9,7 @@ date: '2020-05-28'
 author: content/data/team/gustav-purpleson.yaml
 categories:
   - content/data/categories/general.yaml
+  - content/data/categories/category-apoc3kfww.json
 tags:
   - content/data/tags/stackbit.yaml
   - content/data/tags/jamstack.yaml
