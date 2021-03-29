@@ -31,8 +31,7 @@ sections:
         media_position: right
         media_width: fifty
         actions:
-          - label: lorem-ipsum
-            url: '#'
+          - url: '#'
             style: link
             has_icon: false
             icon: arrow-left
