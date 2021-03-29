@@ -10,7 +10,6 @@ categories:
   - content/data/categories/general.yaml
 tags:
   - content/data/tags/jamstack.yaml
-  - content/data/tags/netlify.yaml
 excerpt: >-
   Quae diligentissime contra Aristonem dicuntur a Chryippo. Videamus igitur
   sententias eorum, tum ad verba redeamus. Levatio igitur vitiorum magna.
