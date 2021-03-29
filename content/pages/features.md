@@ -73,7 +73,7 @@ sections:
           Kelly](https://www.theverge.com/2020/4/14/21219561/coronavirus-pandemic-unemployment-systems-cobol-legacy-software-infrastructure)
         content_align: left
         actions:
-          - label: lorem-ipsum
+          - label: Link
             url: '#'
             style: link
             has_icon: false
