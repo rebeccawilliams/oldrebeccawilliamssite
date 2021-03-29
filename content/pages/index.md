@@ -9,7 +9,7 @@ sections:
       longer. She is deeply curious about how new data/tech schemes double down
       on our worst injustices and upend how we think about things and she is
       also interested in oil painting, poetry, and being ridiculous. She has
-      lived along the Northeast Regional Amtrak line stop her whole life and
+      lived along the Northeast Regional Amtrak line her whole life and
       currently lives in Brooklyn with her dog, Hannah Arendt.
     actions:
       - label: Contact
