@@ -8,8 +8,8 @@ categories:
   - content/data/categories/tutorials.yaml
   - content/data/categories/general.yaml
 excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ea mala virtuti
-  magnitudine obruebantur. Duo Reges: constructio interrete.
+  Archival posts from 2013-2014 at the Sunlight Foundation related to open data
+  policies and practices.
 thumb_image: images/energetic-tomato.gif
 thumb_image_alt: Sunlight Foundation logo
 image: images/SunlightFoundation-logo.gif
