@@ -65,7 +65,8 @@ sections:
             new_window: false
             no_follow: false
             type: action
-          - url: '#'
+          - url: >-
+              https://web.archive.org/web/20201022215006/https://www.ire.org/events-and-training/event/3189/
             style: link
             has_icon: false
             icon: arrow-left
