@@ -5,6 +5,7 @@ date: '2020-11-23'
 author: content/data/team/dianne-ameter.yaml
 categories:
   - content/data/categories/category-apoc3kfww.json
+  - content/data/categories/general.yaml
 tags:
   - content/data/tags/jamstack.yaml
   - content/data/tags/sourcebit.yaml
