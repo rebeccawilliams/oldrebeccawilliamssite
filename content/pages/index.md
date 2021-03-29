@@ -81,7 +81,7 @@ sections:
     background_color: secondary
   - type: blog_feed_section
     title: Recent Writing
-    subtitle: Read My Recent
+    subtitle: 'Read '
     actions:
       - label: View All
         url: /blog
