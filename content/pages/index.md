@@ -34,8 +34,8 @@ sections:
         content: >
           My goals of this research are to support people already doing related
           research and advocacy and to produce a risk framework, assessment of
-          current policies and practices, and set of recommendations to prevent
-          these harms.
+          current policies and practices, and set of harm prevention
+          recommendations.
         actions:
           - label: Read More
             url: 'https://www.belfercenter.org/index.php/person/rebecca-williams'
