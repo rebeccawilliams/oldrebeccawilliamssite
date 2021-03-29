@@ -137,7 +137,7 @@
                 "new_window": true
             }
         ],
-        "content": "This Jamstack (DIY theme) website was created with Stackbit, Next.js, Git, and love. All content on this website is by Rebecca Williams and is licensed under a Creative Commons Attribution 4.0 International License. The views, thoughts, and opinions expressed on this site belong solely to Rebecca Williams, and do not necessarily represent her employers, organizations, or affiliates."
+        "content": "This Jamstack (DIY theme) website was created with Stackbit, Next.js, Git, and love. All content on this website is by Rebecca Williams and is licensed under a <a href=>Creative Commons Attribution 4.0 International License</a>. The views, thoughts, and opinions expressed on this site belong solely to Rebecca Williams, and do not necessarily represent her employers, organizations, or affiliates."
     },
     "domain": "https://newrebecca-11f60.netlify.app",
     "favicon": "images/fierce-whale.jpg"
