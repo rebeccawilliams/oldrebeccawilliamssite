@@ -27,7 +27,7 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-    grid_cols: four
+    grid_cols: three
     grid_gap_horiz: small
     grid_gap_vert: small
     enable_cards: true
