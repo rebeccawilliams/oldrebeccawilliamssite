@@ -48,7 +48,7 @@ sections:
           - label: An inside look at government data making
             url: >-
               https://web.archive.org/web/20200925010406/https://www.ire.org/events-and-training/event/3433/4401
-            style: link
+            style: primary
             has_icon: false
             icon: arrow-left
             icon_position: right
