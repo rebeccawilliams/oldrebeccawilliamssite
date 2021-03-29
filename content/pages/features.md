@@ -9,7 +9,7 @@ sections:
     actions: []
     grid_items:
       - title: SXSW
-        subtitle: lorem-ipsum
+        subtitle: South by Southwest
         title_align: left
         content: >-
           ## Lorem ipsum
