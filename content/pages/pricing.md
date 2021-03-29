@@ -10,7 +10,7 @@ sections:
   - type: grid_section
     title: 'You asked, we answered!'
     grid_items:
-      - title: Civic Tech Book Clube
+      - title: Civic Tech Book Club
         content: >
           Civic Tech Book Club is a virtual book club that meets sporadically
           to 
