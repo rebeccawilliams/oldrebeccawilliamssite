@@ -59,7 +59,7 @@ sections:
     background_image_repeat: no-repeat
     type: cta_section
   - title: Press
-    subtitle: lorem-ipsum
+    subtitle: Featured
     actions: []
     grid_items:
       - title: lorem-ipsum
