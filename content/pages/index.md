@@ -82,7 +82,7 @@ sections:
           the pandemic, the virtual group has taken on a new life and meets more
           frequently.
         actions:
-          - label: Learn More
+          - label: Join
             url: /style-guide
             style: primary
             has_icon: true
