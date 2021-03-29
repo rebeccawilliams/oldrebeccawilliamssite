@@ -19,7 +19,7 @@ thumb_image: images/whosestreets.png
 thumb_image_alt: Newsletter screenshot
 image: images/modern-eucalyptus.png
 image_alt: Newsletter screenshot
-image_position: right
+image_position: left
 seo:
   title: Vos Autem Cum Perspicuis Dubia Debeatis Illustrare
   description: 'Itaque hoc frequenter dici solet a vobis, non intellegere nos'
