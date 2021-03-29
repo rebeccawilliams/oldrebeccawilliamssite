@@ -38,7 +38,7 @@ sections:
           these harms.
         actions:
           - label: Read More
-            url: /style-guide
+            url: 'https://www.belfercenter.org/index.php/person/rebecca-williams'
             style: primary
             has_icon: true
             icon: arrow-right
