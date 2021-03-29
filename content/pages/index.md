@@ -63,7 +63,7 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: fifty
-        subtitle: Weekly Newsletter
+        subtitle: A weekly newsletter on public surveillance news.
       - title: Civic Tech Book Club
         subtitle: "A virtual book club with a critical lens on civics ∩\_ technology"
         content: >
