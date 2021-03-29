@@ -56,7 +56,8 @@ sections:
             no_follow: false
             type: action
           - label: lorem-ipsum
-            url: '#'
+            url: >-
+              https://web.archive.org/web/20201022215006/https://www.ire.org/events-and-training/event/3189/
             style: link
             has_icon: false
             icon: arrow-left
