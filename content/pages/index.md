@@ -65,7 +65,7 @@ sections:
         media_width: fifty
         subtitle: Weekly Newsletter
       - title: Civic Tech Book Club
-        subtitle: "A virtual book club with a critical lens on civics\_ technologies"
+        subtitle: "A virtual book club with a critical lens on civics ∩\_ technology"
         content: >
           CTBC was created in 2015 by Forest Gregg, Rebecca Ackerman, and
           Rebecca Williams (members of the “civic tech” community) who lived far
