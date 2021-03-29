@@ -63,7 +63,7 @@ sections:
           us watch cities, the market, policy, and the watchers.
         actions:
           - label: Subscribe
-            url: /style-guide
+            url: 'https://whosestreets.substack.com/'
             style: primary
             has_icon: true
             icon: arrow-right
