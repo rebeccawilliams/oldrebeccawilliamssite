@@ -45,7 +45,7 @@ sections:
         title_align: left
         content_align: left
         actions:
-          - label: lorem-ipsum
+          - label: An inside look at government data making
             url: '#'
             style: link
             has_icon: false
