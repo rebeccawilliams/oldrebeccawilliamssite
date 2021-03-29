@@ -1,5 +1,5 @@
 ---
-title: Sunlight Foundation Archive
+title: Sunlight Foundation Archive Posts
 subtitle: >-
   Blogposts from 2013-2015 at the Sunlight Foundation related to open access and
   open government policies and practices.
