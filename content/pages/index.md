@@ -64,7 +64,7 @@ sections:
         media_width: fifty
         subtitle: Weekly Newsletter
       - title: Civic Tech Book Club
-        subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
+        subtitle: Virtual book club on civics/technology.
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
