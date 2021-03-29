@@ -11,10 +11,31 @@ sections:
     title: 'You asked, we answered!'
     grid_items:
       - title: Civic Tech Book Clube
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Civic Tech Book Club is a virtual book club that meets sporadically
+          to 
+
+          discuss readings related to civics and technology. The group was
+          created
+           in 2015 by [Forest Gregg](https://github.com/fgregg), [Rebecca Ackerman](https://github.com/rcackerman), and [Rebecca Williams](https://github.com/rebeccawilliams)
+           (members of the “civic tech” community) who lived far apart from each 
+          other and wanted a space to discuss readings. Since the pandemic, the 
+
+          virtual group has taken on a new life and meets more frequently. The 
+
+          membership generally skews a bit more “civics” in background than 
+
+          “technology” and expands via word of mouth but all are welcome. Texts 
+
+          for discussion are organized through the listserv with members
+          joining 
+
+          virtually and informally at their convenience. Meetings are usually
+          3-6 
+
+          people. This website keeps an archive of readings for the group’s 
+
+          organization and in case it is helpful to others.
       - title: Sagittis vitae et leo duis ut diam?
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
