@@ -31,7 +31,7 @@ sections:
         media_position: right
         media_width: fifty
         actions:
-          - url: '#'
+          - url: 'https://linkedin.co/in/rebeccaannwilliams'
             style: link
             has_icon: false
             icon: arrow-left
