@@ -11,7 +11,7 @@ sections:
     background_color: none
   - type: grid_section
     grid_items:
-      - title: Other Queries
+      - title: Contact
         title_align: center
         content_align: center
         actions:
