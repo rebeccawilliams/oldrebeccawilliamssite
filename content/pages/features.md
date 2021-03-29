@@ -45,7 +45,7 @@ sections:
         title_align: left
         content_align: left
         actions:
-          - label: An inside look at government data making (201
+          - label: An inside look at government data making (2019)
             url: >-
               https://web.archive.org/web/20200925010406/https://www.ire.org/events-and-training/event/3433/4401
             style: primary
