@@ -21,7 +21,7 @@ thumb_image: images/caring-sage.gif
 thumb_image_alt: Cyber city gif
 image: images/smallcybercity.gif
 image_alt: Cyber city gif
-image_position: top
+image_position: left
 seo:
   title: Cur Ipse Pythagoras Et Aegyptum Lustravit
   description: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
