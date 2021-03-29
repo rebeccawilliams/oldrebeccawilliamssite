@@ -65,10 +65,12 @@ sections:
         subtitle: Weekly Newsletter
       - title: Civic Tech Book Club
         subtitle: Virtual book club on civics/technology.
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          The group was created in 2015 by Forest Gregg, Rebecca Ackerman, and
+          Rebecca Williams (members of the “civic tech” community) who lived far
+          apart from each other and wanted a space to discuss readings. Since
+          the pandemic, the virtual group has taken on a new life and meets more
+          frequently.
         actions:
           - label: Learn More
             url: /style-guide
