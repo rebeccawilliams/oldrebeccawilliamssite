@@ -24,7 +24,7 @@ sections:
             type: action
           - label: Fighting Crime with Data (2017)
             url: 'https://schedule.sxsw.com/2017/events/PP65197'
-            style: link
+            style: primary
             has_icon: true
             icon: arrow-right
             icon_position: right
