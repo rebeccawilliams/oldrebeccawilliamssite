@@ -14,7 +14,7 @@ sections:
       - label: Learn More
         url: /features
         style: secondary
-    image: images/head.png
+    image: images/graceful-lime.JPG
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
