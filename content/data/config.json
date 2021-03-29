@@ -124,15 +124,6 @@
                 "icon": "linkedin",
                 "icon_position": "center",
                 "new_window": true
-            },
-            {
-                "label": "Vimeo",
-                "url": "https://vimeo.com/",
-                "style": "link",
-                "has_icon": true,
-                "icon": "vimeo",
-                "icon_position": "center",
-                "new_window": true
             }
         ],
         "content": "This Jamstack website was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a> and powered by Next.js and Git. All content on this website is by by Rebecca Williams is licensed under a Creative Commons Attribution 4.0 International License. The views, thoughts, and opinions expressed on this site belong solely to Rebecca Williams, and do not necessarily represent her employers, organizations, or affiliates. "
