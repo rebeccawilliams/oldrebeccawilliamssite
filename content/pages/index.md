@@ -23,7 +23,6 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-    subtitle: Hello
   - type: features_section
     title: Projects
     subtitle: Follow Current
