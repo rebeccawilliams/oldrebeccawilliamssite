@@ -90,7 +90,7 @@ sections:
         type: grid_item
         image: images/the-verge-vector-logo.png
       - title: How Legal Hackers Are Changing The Legal Industry
-        subtitle: lorem-ipsum
+        subtitle: Valentin Pivovarov
         title_align: left
         content: >-
           ## Lorem ipsum
