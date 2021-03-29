@@ -3,7 +3,7 @@ title: Subscribe to the Whose Streets? Newsletter
 subtitle: >-
   Negat esse eam, inquit, propter se expetendam. Ergo, si semel tristior
   effectus est, hilara vita amissa est.
-date: '2020-01-30'
+date: '2020-11-23'
 author: content/data/team/dianne-ameter.yaml
 categories:
   - content/data/categories/tutorials.yaml
