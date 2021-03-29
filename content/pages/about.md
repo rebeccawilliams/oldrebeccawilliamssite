@@ -39,6 +39,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
+            label: Connect on LinkedIn
       - title: Section Title Two
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
