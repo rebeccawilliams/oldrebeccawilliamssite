@@ -49,7 +49,7 @@ sections:
             url: >-
               https://web.archive.org/web/20200925010406/https://www.ire.org/events-and-training/event/3433/4401
             style: primary
-            has_icon: false
+            has_icon: true
             icon: arrow-left
             icon_position: right
             new_window: false
