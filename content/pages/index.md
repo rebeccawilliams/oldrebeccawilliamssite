@@ -28,7 +28,7 @@ sections:
           I am spending the 2020-21 academic year researching harms related to
           “smart city” technologies.
         content: >
-          The goals of this research are to support people already doing related
+          My goals of this research are to support people already doing related
           research and advocacy and to produce a risk framework, assessment of
           current policies and practices, and set of recommendations to prevent
           these harms.
