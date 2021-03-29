@@ -3,7 +3,7 @@ title: Pricing
 sections:
   - type: hero_section
     title: Organizing/Community
-    subtitle: Optional hero section subtitle
+    subtitle: Groups I've gathered/been a part of
     align: center
     padding_top: large
     padding_bottom: small
