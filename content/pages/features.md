@@ -63,7 +63,7 @@ sections:
     actions: []
     grid_items:
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
+        subtitle: Makena Kelly
         title_align: left
         content: >
           [The Verge: Unemployment Checks Are Being Held Up by a Coding Language
