@@ -22,7 +22,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-          - label: Fighting Crime with Data in the US and Abroad
+          - label: Fighting Crime with Data (2017)
             url: 'https://schedule.sxsw.com/2017/events/PP65197'
             style: link
             has_icon: false
