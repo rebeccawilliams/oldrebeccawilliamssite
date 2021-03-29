@@ -4,9 +4,14 @@ sections:
   - type: hero_section
     title: Rebecca Williams
     subtitle: information policy ∩ power
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: >
+      Rebecca Williams has been studying various government information access
+      policies and schemes for the last eight years and she's been on the
+      internet for much longer. She is deeply curious about how new data/tech
+      doubles down on our worst injustices and upends how we think about things
+      and she is also interested in oil painting, poetry, and laying in the
+      grass. She has lived along the Northeast Regional Amtrak line her whole
+      life but currently lives in Brooklyn with her dog, Hannah Arendt.
     actions:
       - label: Contact
         url: /contact
