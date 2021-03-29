@@ -97,7 +97,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-  - title: Confer
+  - title: Conferences
     subtitle: lorem-ipsum
     actions: []
     grid_items: []
