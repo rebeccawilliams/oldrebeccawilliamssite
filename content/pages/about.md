@@ -10,10 +10,22 @@ sections:
     features:
       - title: Professional Biography and Headshot
         subtitle: Civic Technology and Information Policy Analyst
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          **Rebecca Williams** is a Fellow with Belfer Center's Technology and
+          Public Purpose Project where she is researching threats 
+
+          to civil liberties posed by "smart city" technologies. Rebecca has
+          previously worked on data policy and management at the local,
+          federal, 
+
+          and international level for the White House Office of Management and
+          Budget’s Office of the Federal Chief Information Officer, Johns
+          Hopkins 
+
+          University’s Center for Government Excellence, General Services
+          Administration’s Data.gov, and the Sunlight Foundation. She holds a
+          B.A.
+           in Communication from the University of Massachusetts Amherst and a J.D. from Western New England University School of Law.
         image: images/superb-tulip.png
         image_alt: People in conversation in the office lounge area
         media_position: right
