@@ -37,7 +37,7 @@ sections:
           current policies and practices, and set of recommendations to prevent
           these harms.
         actions:
-          - label: 'Read '
+          - label: Read More
             url: /style-guide
             style: primary
             has_icon: true
