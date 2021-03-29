@@ -95,7 +95,8 @@ sections:
         content_align: left
         actions:
           - label: Story
-            url: '#'
+            url: >-
+              https://www.forbes.com/sites/valentinpivovarov/2018/11/07/legalhackers/?sh=7afd30a95d82
             style: link
             has_icon: false
             icon: arrow-left
