@@ -40,7 +40,7 @@ sections:
             no_follow: false
             type: action
             label: Connect on LinkedIn
-  - title: lorem-ipsum
+  - title: Resume
     content: >-
       ## Lorem ipsum
 
