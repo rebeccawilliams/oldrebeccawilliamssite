@@ -12,9 +12,10 @@ tags:
   - content/data/tags/jamstack.yaml
   - content/data/tags/sourcebit.yaml
 excerpt: >-
-  Itaque hoc frequenter dici solet a vobis, non intellegere nos, quam dicat
-  Epicurus voluptatem. Sin kakan malitiam dixisses, ad aliud nos unum certum
-  vitium consuetudo Latina traduceret.
+  To support Rebecca Williams’ research assessing risks to civil liberties posed
+  by “smart city” technologies, Rebecca and Madeleine Smith are documenting
+  trends in the surveillance of public space with a companion newsletter on
+  substack.
 thumb_image: images/whosestreets.png
 thumb_image_alt: Newsletter screenshot
 image: images/modern-eucalyptus.png
