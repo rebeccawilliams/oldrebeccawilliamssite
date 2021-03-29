@@ -43,5 +43,7 @@ seo:
       relativeUrl: true
 layout: post
 date: '2014-08-25'
+tags:
+  - content/data/tags/tag-ilndbwr3b.json
 ---
 I certainly "cut my teeth" at the Sunlight Foundation (RIP) and have often been associated with org even though I was only there a short time. While there from 2013-2014, I worked on the [Open Data Policy Guidelines (2.0)](https://opendatapolicyhub.sunlightfoundation.com/guidelines/), [tracking open data policies](https://sunlightfoundation.com/policy/opendatamap/), the [U.S. City Open Data Census](http://us-city.census.okfn.org/), and [wrote on various gaps related to open data](https://sunlightfoundation.com/author/rwilliams/). 
