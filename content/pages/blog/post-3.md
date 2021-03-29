@@ -1,8 +1,6 @@
 ---
 title: 'Introducing: Whose Streets? Our Streets!'
-subtitle: >-
-  Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam
-  equidem satis, inquit, me dixisse.
+subtitle: Developing Interventions to Protect Civil Liberties in a 'Smart City'
 date: '2020-10-21'
 author: content/data/team/gustav-purpleson.yaml
 categories:
