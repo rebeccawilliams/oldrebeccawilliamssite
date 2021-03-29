@@ -1,7 +1,5 @@
 ---
-title: >-
-  Introducing: Whose Streets? Our Streets! Developing Interventions to Protect
-  Civil Liberties in a 'Smart City'
+title: 'Introducing: Whose Streets? Our Streets!'
 subtitle: >-
   Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam
   equidem satis, inquit, me dixisse.
