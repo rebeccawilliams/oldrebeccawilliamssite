@@ -121,7 +121,7 @@ sections:
           - label: Story
             url: >-
               https://www.wired.com/2017/05/hackers-arent-ones-defending-right-federal-data/
-            style: link
+            style: primary
             has_icon: false
             icon: arrow-left
             icon_position: right
