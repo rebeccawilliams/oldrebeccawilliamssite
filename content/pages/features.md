@@ -41,7 +41,7 @@ sections:
         type: grid_item
         image: images/General_SXSW.0.jpg
       - title: NICAR
-        subtitle: lorem-ipsum
+        subtitle: National Institute for Computer-Assisted Reporting
         title_align: left
         content: >-
           ## Lorem ipsum
