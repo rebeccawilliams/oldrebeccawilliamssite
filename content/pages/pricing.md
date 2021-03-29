@@ -36,7 +36,7 @@ sections:
           people. This website keeps an archive of readings for the group’s 
 
           organization and in case it is helpful to others.
-      - title: Sagittis vitae et leo duis ut diam?
+      - title: DC Legal Hackers
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
