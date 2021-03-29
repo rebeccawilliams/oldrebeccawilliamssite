@@ -62,7 +62,7 @@ sections:
           collect weekly news related to public surveillance technology. Watch
           us watch cities, the market, policy, and the watchers.
         actions:
-          - label: Learn More
+          - label: Subscribe
             url: /style-guide
             style: primary
             has_icon: true
