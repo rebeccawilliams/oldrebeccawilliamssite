@@ -1,8 +1,6 @@
 ---
 title: Subscribe to the Whose Streets? Newsletter
-subtitle: >-
-  Negat esse eam, inquit, propter se expetendam. Ergo, si semel tristior
-  effectus est, hilara vita amissa est.
+subtitle: Documenting trends in the surveillance of public space.
 date: '2020-11-23'
 author: content/data/team/dianne-ameter.yaml
 categories:
