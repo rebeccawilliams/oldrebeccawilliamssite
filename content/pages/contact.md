@@ -15,7 +15,7 @@ sections:
         title_align: center
         content_align: center
         actions:
-          - label: Get Support
+          - label: Email
             url: /general-enquiries
             style: primary
             has_icon: true
