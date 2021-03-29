@@ -13,7 +13,7 @@ excerpt: >-
 thumb_image: images/energetic-tomato.gif
 thumb_image_alt: Sunlight Foundation logo
 image: images/SunlightFoundation-logo.gif
-image_alt: Post 1 placeholder image
+image_alt: Sunlight Foundation logo
 image_position: right
 seo:
   title: Utrum Igitur Tibi Litteram Videor An Totas Paginas
