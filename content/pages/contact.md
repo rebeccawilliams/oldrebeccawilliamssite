@@ -31,7 +31,7 @@ sections:
     grid_gap_horiz: small
     grid_gap_vert: small
     enable_cards: true
-    align: right
+    align: center
     padding_top: large
     padding_bottom: large
     background_color: primary
