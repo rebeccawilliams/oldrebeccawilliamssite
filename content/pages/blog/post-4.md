@@ -4,7 +4,6 @@ subtitle: Documenting trends in the surveillance of public space.
 date: '2020-11-23'
 author: content/data/team/dianne-ameter.yaml
 categories:
-  - content/data/categories/tutorials.yaml
   - content/data/categories/category-apoc3kfww.json
 tags:
   - content/data/tags/jamstack.yaml
