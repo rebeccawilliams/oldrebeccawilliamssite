@@ -1,8 +1,8 @@
 ---
 title: Sunlight Foundation Archive Posts
 subtitle: >-
-  Posts from 2013-2014 at the Sunlight Foundation related to open access and
-  open government policies and practices.
+  Archival posts from 2013-2014 at the Sunlight Foundation related to open data
+  policies and practices.
 date: '2020-04-16'
 author: content/data/team/dianne-ameter.yaml
 categories:
