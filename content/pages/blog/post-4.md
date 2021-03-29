@@ -48,12 +48,18 @@ seo:
       relativeUrl: true
 layout: post
 ---
+To support [Rebecca Williams](https://rebeccawilliams.us/)’ research [assessing risks to civil liberties posed by “smart city” technologies](https://www.belfercenter.org/person/rebecca-williams/publication), Rebecca and [Madeleine Smith](https://www.linkedin.com/public-profile/in/madeleinewsmith) are documenting trends in the surveillance of public space with a companion newsletter on substack.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Teneo, inquit, finem illi videri nihil dolere. Quid est enim aliud esse versutum. Age, inquies, ista parva sunt. Verum hoc idem saepe faciamus. Atque ab his initiis profecti omnium virtutum et originem et progressionem persecuti sunt. Duo Reges: constructio interrete. Itaque eos id agere, ut a se dolores, morbos, debilitates repellant. Estne, quaeso, inquam, sitienti in bibendo voluptas? Iam in altera philosophiae parte. Quem Tiberina descensio festo illo die tanto gaudio affecit, quanto L.
+The goals of this newsletter are to situate “smart city” technology in the broader context of expanding surveillance of public space and to 
+observe holistically how markets influence policy (and vice versa) over time, track trends, and include updates on emerging stories, such as the San Diego streetlight camera use on protestors, public pushback, and policy updates.
 
-- Restinguet citius, si ardentem acceperit.
-- Te enim iudicem aequum puto, modo quae dicat ille bene noris.
-- Quid, quod homines infima fortuna, nulla spe rerum gerendarum, opifices denique delectantur historia?
-- Quo minus animus a se ipse dissidens secumque discordans gustare partem ullam liquidae voluptatis et liberae potest.
+The *Whose Streets? Our Streets! (Tech Edition)* weekly newsletter curates global news in surveillance of public spaces with *City Watch*, related market news with *Market Watch*, policy news with* Policy Watch*, and lastly instances of reverse surveillance with* Watching the Watchers Watch*. The newsletter will also include updates on the “smart city” research and ways to engage as they arise.
 
-**Quippe: habes enim a rhetoribus;** Vos autem cum perspicuis dubia debeatis illustrare, dubiis perspicua conamini tollere. Hoc dixerit potius Ennius: Nimium boni est, cui nihil est mali. Sic consequentibus vestris sublatis prima tolluntur. Negat esse eam, inquit, propter se expetendam. Ergo, si semel tristior effectus est, hilara vita amissa est.
+Ultimately tracking these examples and broader trends will inform “smart city” interventions and harm prevention tactics for the public, 
+governments, and vendors. This newsletter may also be of interest to anyone studying urban planning, privacy law, facial recognition technology, etc.
+
+Check out [current issues](http://whosestreets.substack.com), [subscribe](https://whosestreets.substack.com/), [spread the word](https://whosestreets.substack.com/?utm_source=substack\&utm_medium=email\&utm_content=share\&action=share), and send us tips and special issue ideas: [rebeccawilliams.hks.harvard.edu](mailto:rebeccawilliams@hks.harvard.edu).
+
+[*Orignally posted on The Perspectives on Public Purpose Blog hosted by Harvard 
+Kennedy School Belfer Center’s Technology and Public Purpose Project 
+(TAPP)*](https://www.belfercenter.org/index.php/publication/subscribe-whose-streets-newsletter)
