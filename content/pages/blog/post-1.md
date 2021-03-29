@@ -1,8 +1,8 @@
 ---
 title: Sunlight Foundation Archive
 subtitle: >-
-  Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil quieti
-  videre, nihil tranquilli potest.
+  Blogposts from 2013-2015 at the Sunlight Foundation related to open access and
+  open government policies and practices.
 date: '2020-04-16'
 author: content/data/team/dianne-ameter.yaml
 categories:
