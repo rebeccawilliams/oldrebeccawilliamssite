@@ -38,18 +38,6 @@ sections:
         image_alt: Happy co-workers
         media_position: right
         media_width: fifty
-  - type: cta_section
-    title: This is a Call to Action
-    content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
-    actions:
-      - label: Compare Plans
-        url: /pricing
-        style: primary
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: primary
 seo:
   title: About
   description: This is the about us page
