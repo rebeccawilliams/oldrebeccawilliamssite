@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Rebecca Williams
-    subtitle: 'art, community, Information Policy'
+    subtitle: 'art, community, information Policy'
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
