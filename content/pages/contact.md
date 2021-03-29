@@ -16,7 +16,7 @@ sections:
         content_align: center
         actions:
           - label: Email
-            url: /general-enquiries
+            url: 'email-to:rebecca@rebeccawilliams'
             style: primary
             has_icon: true
             icon: arrow-right
