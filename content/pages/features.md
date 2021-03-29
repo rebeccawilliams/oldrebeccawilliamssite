@@ -46,7 +46,8 @@ sections:
         content_align: left
         actions:
           - label: An inside look at government data making
-            url: '#'
+            url: >-
+              https://web.archive.org/web/20200925010406/https://www.ire.org/events-and-training/event/3433/4401
             style: link
             has_icon: false
             icon: arrow-left
