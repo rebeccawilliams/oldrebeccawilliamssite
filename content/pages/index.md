@@ -83,7 +83,7 @@ sections:
           frequently.
         actions:
           - label: Join
-            url: /style-guide
+            url: 'https://civictechbook.club'
             style: primary
             has_icon: true
             icon: arrow-right
