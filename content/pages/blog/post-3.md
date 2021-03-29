@@ -15,7 +15,7 @@ excerpt: >-
   inquit, me dixisse.
 thumb_image: images/caring-sage.gif
 thumb_image_alt: Cyber city gif
-image: images/smallcybercity.gif
+image: images/cybercity.gif
 image_alt: Cyber city gif
 image_position: left
 seo:
