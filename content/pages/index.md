@@ -8,7 +8,7 @@ sections:
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
     actions:
-      - label: Learn More
+      - label: Contact
         url: /features
         style: secondary
     image: images/kind-turmeric.jpg
