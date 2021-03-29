@@ -19,7 +19,7 @@ excerpt: >-
 thumb_image: images/caring-sage.gif
 thumb_image_alt: Cyber city gif
 image: images/smallcybercity.gif
-image_alt: Post 3 placeholder image
+image_alt: Cyber city gif
 image_position: top
 seo:
   title: Cur Ipse Pythagoras Et Aegyptum Lustravit
