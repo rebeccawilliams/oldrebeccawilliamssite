@@ -67,10 +67,6 @@ sections:
           Nobody Knows
         subtitle: Makena Kelly
         title_align: left
-        content: >
-          [The Verge: Unemployment Checks Are Being Held Up by a Coding Language
-          Almost Nobody Knows by Makena
-          Kelly](https://www.theverge.com/2020/4/14/21219561/coronavirus-pandemic-unemployment-systems-cobol-legacy-software-infrastructure)
         content_align: left
         actions:
           - label: Link
