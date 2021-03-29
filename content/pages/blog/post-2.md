@@ -11,8 +11,8 @@ categories:
 tags:
   - content/data/tags/jamstack.yaml
 excerpt: >-
-  Quae diligentissime contra Aristonem dicuntur a Chryippo. Videamus igitur
-  sententias eorum, tum ad verba redeamus. Levatio igitur vitiorum magna.
+  åMy ironic but not "Uses This" interview detailing what technology I was
+  allowed to use a Federal (Tech) Policy Analyst.
 thumb_image: images/superb-kangaroo.jpg
 thumb_image_alt: Rebecca holding large image of computer
 image: images/usesthis.jpg
