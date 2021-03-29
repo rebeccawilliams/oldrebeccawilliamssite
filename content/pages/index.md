@@ -29,8 +29,8 @@ sections:
     features:
       - title: Technology and Public Purpose Project Research
         subtitle: >-
-          I am spending the 2020-21 academic year researching harms related to
-          “smart city” technologies.
+          Research related to "smart city" emerging technology harms &
+          prevention tactics.
         content: >
           My goals of this research are to support people already doing related
           research and advocacy and to produce a risk framework, assessment of
