@@ -1,8 +1,8 @@
 ---
 title: What a Federal Policy Analyst Uses
 subtitle: >-
-  My ironic but no "Uses This" interview detailing what technology I was allowed
-  to use a Federal (Tech) Policy Analyst.
+  My ironic but not "Uses This" interview detailing what technology I was
+  allowed to use a Federal (Tech) Policy Analyst.
 date: '2020-10-15'
 author: content/data/team/hilary-ouse.yaml
 categories:
