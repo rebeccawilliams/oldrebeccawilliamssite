@@ -17,6 +17,11 @@
                 "style": "link"
             },
             {
+                "label": "Blog",
+                "url": "/blog",
+                "style": "link"
+            },
+            {
                 "label": "Speaking/Press",
                 "url": "/features",
                 "style": "link"
@@ -24,11 +29,6 @@
             {
                 "label": "Community",
                 "url": "/pricing",
-                "style": "link"
-            },
-            {
-                "label": "Blog",
-                "url": "/blog",
                 "style": "link"
             },
             {
