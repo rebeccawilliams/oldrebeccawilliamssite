@@ -23,7 +23,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: features_section
-    title: Current Projects
+    title: Projects
     subtitle: Follow Current
     features:
       - title: The Big Title For the Feature
