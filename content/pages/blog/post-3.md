@@ -9,10 +9,7 @@ categories:
 tags:
   - content/data/tags/stackbit.yaml
   - content/data/tags/jamstack.yaml
-excerpt: >-
-  Quis est, qui non oderit libidinosam, protervam adolescentiam? Innumerabilia
-  dici possunt in hanc sententiam, sed non necesse est. Putabam equidem satis,
-  inquit, me dixisse.
+excerpt: Developing Interventions to Protect Civil Liberties in a 'Smart City'
 thumb_image: images/caring-sage.gif
 thumb_image_alt: Cyber city gif
 image: images/cybercity.gif
