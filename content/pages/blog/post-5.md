@@ -8,10 +8,7 @@ categories:
 tags:
   - content/data/tags/stackbit.yaml
   - content/data/tags/netlify.yaml
-excerpt: >-
-  Estne, quaeso, inquam, sitienti in bibendo voluptas? Iam in altera
-  philosophiae parte. Quem Tiberina descensio festo illo die tanto gaudio
-  affecit, quanto.
+excerpt: An Outline of Five "smart city" Harms and a Call for Feedback
 thumb_image: images/classic/post-5.png
 thumb_image_alt: Post 5 placeholder image
 image: images/pros_cons_nuclear_energy.png
