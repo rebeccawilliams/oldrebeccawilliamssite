@@ -29,7 +29,7 @@ sections:
         image_has_padding: true
     grid_cols: two
     grid_gap_horiz: medium
-    grid_gap_vert: medium
+    grid_gap_vert: small
     enable_cards: true
     align: center
     padding_top: large
