@@ -5,7 +5,7 @@ title: >-
 subtitle: >-
   Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam
   equidem satis, inquit, me dixisse.
-date: '2020-05-28'
+date: '2020-01-28'
 author: content/data/team/gustav-purpleson.yaml
 categories:
   - content/data/categories/general.yaml
