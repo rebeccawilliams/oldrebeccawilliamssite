@@ -93,7 +93,7 @@ sections:
 
           - dolor sit amet
         actions:
-          - label: lorem-ipsum
+          - label: 'See '
             url: '#'
             style: link
             has_icon: false
