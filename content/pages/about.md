@@ -79,7 +79,7 @@ sections:
   - title: Resume
     subtitle: Curriculum Vitae
     features:
-      - title: lorem-ipsum
+      - title: Resume
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
