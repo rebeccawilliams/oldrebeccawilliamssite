@@ -100,6 +100,8 @@ sections:
         align: center
         type: feature
         image: images/2021 - Rebecca Williams Resume-2.png
+        content: |
+          ![](/images/2021%20-%20Rebecca%20Williams%20Resume-2.png)
     feature_padding_vert: medium
     align: center
     padding_top: medium
