@@ -10,7 +10,7 @@ categories:
 excerpt: >-
   Archival posts from 2013-2014 at the Sunlight Foundation related to open data
   policies and practices.
-thumb_image: images/energetic-tomato.gif
+thumb_image: images/Sunlight-site.png
 thumb_image_alt: Sunlight Foundation logo
 image: images/SunlightFoundation-logo.gif
 image_alt: Sunlight Foundation logo
