@@ -8,7 +8,7 @@ sections:
     background_color: secondary
   - type: features_section
     features:
-      - title: Professional Biography and Headshot
+      - title: Biography and Headshot
         subtitle: Civic Technology and Information Policy Analyst
         content: >
           **Rebecca Williams** is a Fellow with Belfer Center's Technology and
