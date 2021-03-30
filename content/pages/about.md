@@ -99,7 +99,7 @@ sections:
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
         media_position: top
         media_width: fifty
-        align: left
+        align: center
         type: feature
         image: images/2021 - Rebecca Williams Resume-2.png
     feature_padding_vert: medium
