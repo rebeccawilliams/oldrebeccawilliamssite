@@ -80,7 +80,6 @@ sections:
     subtitle: Curriculum Vitae
     features:
       - title: Resume
-        subtitle: See Below
         actions:
           - label: LinkedIn
             url: '#'
