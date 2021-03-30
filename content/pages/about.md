@@ -77,7 +77,7 @@ sections:
     background_image_repeat: no-repeat
     type: form_section
   - title: Resume
-    subtitle: lorem-ipsum
+    subtitle: Cirriculm Vitae
     features:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
