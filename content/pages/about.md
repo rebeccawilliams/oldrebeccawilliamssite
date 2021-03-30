@@ -56,7 +56,6 @@ sections:
     background_image_repeat: no-repeat
     type: cta_section
   - title: Resume
-    subtitle: lorem-ipsum
     title_align: left
     content_align: left
     form_position: bottom
