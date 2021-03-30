@@ -101,6 +101,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
+        image: images/2021 - Rebecca Williams Resume-2.png
     feature_padding_vert: medium
     align: center
     padding_top: medium
