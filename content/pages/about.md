@@ -93,7 +93,7 @@ sections:
 
           - dolor sit amet
         actions:
-          - label: 'See '
+          - label: LinkedIn
             url: '#'
             style: link
             has_icon: false
