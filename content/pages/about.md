@@ -94,7 +94,7 @@ sections:
             url: '#'
             style: primary
             has_icon: true
-            icon: arrow-left
+            icon: arrow-right
             icon_position: right
             new_window: false
             no_follow: false
