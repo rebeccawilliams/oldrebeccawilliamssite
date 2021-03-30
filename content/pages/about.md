@@ -32,21 +32,6 @@ sections:
         media_width: fifty
         actions: []
   - title: Resume
-    content: "#### Work Experience\n\n**Technology & Public Purpose Fellow**, *Harvard Kennedy School, Belfer Center* \n\n8/2020 - Present\_\n\n**Policy Analyst,** White House OMB Office of the Federal CIO\n\n9/2017 - 8/2020; 6/2015-1/2016\n\n***Senior Analyst**,* Johns Hopkins University, Center for Government Excellence\n\n2/2016-9/2017\n\n**IT Specialist**, General Services Administration, Data.gov\n\n8/2014 - 6/2015\n\n**Policy Analyst,** Sunlight Foundation, Municipal Transparency Program\n\n4/2013-8/2014\n\n**Research Assistant**, Energy Policy, Regional Plan Association\n\n1/2011-1/2012\n\n**Public Interest Extern**, *City of Springfield, Massachusetts Legal Department*\n\n1/2009-5/2009\n\n**Paralegal**, *Massachusetts Fair Housing Center*\n\n9/2007-5/2008\n\n#### Awards\n\n**Federal 100**, 2019\n\n**Fastcase 50**, 2014\n\n**ABA 10 Women to Watch in Legal Tech**, 2014\n\n#### Teaching\n\n**Guest Lecturer**, Data, Digital + Social Impact Seminar: Balancing Data Use with Data Privacy\nGeorgetown University, Fall 2019\n\n**Guest Lecturer**, GW Law 6351: Reading Group (Open Government Data)\nGeorge Washington University School of Law, Spring 2018\n\n**Instructor,** Government Analytics 470.90: Performance Analytics - Tools & Techniques\nJohns Hopkins University, Spring 2017\n\n**Guest Lecturer**, Project-Based Practicum: Civ Tech: Digital Tools and Access to Justice\nGeorgetown Law School, Spring 2015\n\n**Teaching Assistant**, Environmental Design 205: “Dynamics of Human Habitations”\nUniversity of Massachusetts, Spring 2009\n\n#### Education\n\n**J.D.** Western New England Law School, 2009 (Participated in Joint Non-degree Study of Regional Planning at University of Massachusetts, 2008-2010)\n\n**B.A.** Communication, University of Massachusetts, 2004\n"
-    actions: []
-    actions_position: bottom
-    actions_width: fourty
-    align: left
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: cta_section
-  - title: Resume
     title_align: left
     content_align: left
     form_position: bottom
