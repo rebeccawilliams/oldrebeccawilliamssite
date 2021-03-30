@@ -15,7 +15,7 @@ sections:
       - label: Contact
         url: /contact
         style: secondary
-    image: images/IMG_1103 2.jpg
+    image: images/headshot.jpg
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
