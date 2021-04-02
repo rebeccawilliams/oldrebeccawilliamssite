@@ -21,7 +21,7 @@ sections:
         image_alt: Civic Tech Book Club screenshot
         subtitle: "A virtual book club with a critical lens on civics ∩\_ technology."
         actions:
-          - label: lorem-ipsum
+          - label: Join/Read
             url: '#'
             style: link
             has_icon: false
