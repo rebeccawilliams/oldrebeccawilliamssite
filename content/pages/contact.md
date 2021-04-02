@@ -53,7 +53,7 @@ sections:
     form_width: sixty
     form_layout: stacked
     enable_card: true
-    form_id: lorem-ipsum
+    form_id: contact
     form_action: lorem-ipsum
     form_fields: []
     submit_label: lorem-ipsum
