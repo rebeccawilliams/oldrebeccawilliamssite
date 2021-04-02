@@ -51,7 +51,8 @@ sections:
         name: Email me
         label: Email me
         default_value: lorem-ipsum
-        options: []
+        options:
+          - lorem-ipsum
         is_required: false
         type: form_field
     submit_label: lorem-ipsum
