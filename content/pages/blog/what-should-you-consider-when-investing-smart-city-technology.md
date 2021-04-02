@@ -46,95 +46,229 @@ author: content/data/team/gustav-purpleson.yaml
 thumb_image: images/superb-paprika.png
 image: images/pros_cons_nuclear_energy.png
 ---
-The Belfer Center, home of the Technology and Public Purpose (TAPP) project, was originally created to analyze dangers posed by nuclear
-technology. When people ask about my TAPP fellowship, I usually say that I am doing the same analysis, but for “smart cities.” Even for folks
-not particularly concerned or interested in “smart cities” this usually sounds spicy enough to pique their interest or at least succinctly
-explain what I am up to. In this blog post, I’ll provide an update on what “smart city” technology I am considering and some of the potential harms its misuse introduces.
+In this blogpost, [Technology and Public Purpose](https://www.belfercenter.org/project/technology-and-public-purpose) Fellows Liz Sisson and Rebecca Williams team up to propose how governments and 
+investors alike can consider public purpose in their “smart city” technology investments. In counting “smart cities” final days, [City Monitor](https://citymonitor.ai/government/why-youll-be-hearing-a-lot-less-about-smart-cities) summarizes the term quite well:  
 
-### What “Smart City” Technology?
+> “Smart cities surfaced as a concept more than 20 years ago and served as an umbrella term to describe a large and varied set of emerging  technologies that seemed destined to help metros operate more efficiently. The internet of things for municipalities has to date included everything from simple sensors that allow transportation engineers to track cycle lane usage to full-blown smart-city operations centres that brought to mind scenes from Minority Report.” 
 
-The goal of my research is not to examine any one “smart city” technology (which is [an expanding and nebulous list](https://en.wikipedia.org/wiki/Smart_city#Technologies)), but rather the tension between increased state data collection to improve civic services and the risks that collection creates. (In this
-way smart city technology is representative of many public data governance issues to come). The “smart city” themed projects that
-inspired this research ([LinkNYC](https://www.ny1.com/nyc/all-boroughs/politics/2019/05/09/linknyc-kiosks-surveillance-questions-about-cameras-recording-kiosks-also-losing-money), [Los Angeles’ Mobility Data Specification](https://www.theverge.com/2020/6/8/21284490/aclu-ladot-mds-lawsuit-scooter-tracking-uber), [San Diego Smart ](https://www.vice.com/en/article/z3vn83/streetlight-spy-cameras-have-led-to-a-massive-privacy-backlash-in-san-diego)[Streetlights](https://www.vice.com/en/article/z3vn83/streetlight-spy-cameras-have-led-to-a-massive-privacy-backlash-in-san-diego), and [Sidewalk Toronto](https://privacyinternational.org/examples-abuse/1933/city-toronto-deal-sidewalk-labs-sparks-public-protests)) all involved different technologies and civic aims but aroused similar public concerns regarding unprecedented data collection and how that
-data would be used. While each project surely had nuanced trade-offs, what level of care was not being taken by local governments (and their partner vendors) across these projects to provoke public outcry?
+Rather than addressing “smart city” product risks to serving the overall public good, this post will cover “smart city” business risks to serving the overall public good. Specifically this post outlines how governments and investors can approach “smart city” procurement, 
+business models, and long-term value creation with public purpose in mind. For as long as the term still exists, anyway.
 
-The examination of harms that “smart city” technology might contribute to cannot be examined in a vacuum. The issues raised by these
-projects are certainly related to the broader Big Tech and privacy regulation debate, but are distinguished from them in that one cannot
-individually consent or opt-out of their neighborhood. Further, “smart city” technology is increasingly implicated in growing state
-surveillance capabilities (in the U.S. and abroad), but related policy discussions can miss their role if they focus exclusively on [technologies managed by law enforcement agencies](https://www.eff.org/issues/street-level-surveillance) or only consider current uses in the United States.
+### Procurement Considerations 
 
-Rather than focusing on a specific technology, how do these technologies, in context with everything else that is happening in the
-world, potentially contribute to harm? How are “smart city” projects [considering harms of further surveilling public spaces](https://some-thoughts.org/robinson.html)? Are relevant “smart city” projects in current [surveillance policy](https://digitalcommons.law.scu.edu/chtlj/vol36/iss5/2/) discussions? What constituencies are prioritized when deciding if the collective utility of new “smart city” data collection is worth the risks? How can the U.S. Federal Government and U.S. based vendors be responsible global actors given these variable environments?
+#### For Government  
 
-### Potential Harms of Smart City Technology
+There are many considerations governments must face when procuring goods or services to fulfill government missions and varied policies and 
+procedures to maintain ethical standards and achieve performance goals. Below are a few key “smart city” related considerations that are not 
+meant to be exhaustive nor replace [outcome-based contracting](https://2020state.results4america.org/state-standard-of-excellence/contracting-for-outcomes.html), [human-centered design](https://derisking-guide.18f.gov/federal-field-guide/basic-principles/#user-centered-design), or other [participatory purchasing](https://link.springer.com/article/10.1007/s11187-020-00414-z) best practices. 
 
-While some parties will dismiss potential harms of “smart city” technology as alarmist or premature, I see these repeated instances of
-public pushback as intrinsically legitimate. The widespread implementation of new technologies that ultimately collect personal data throughout public spaces is uncharted territory. I was recently reminded by a colleague that nuclear risks advocates were similarly
-considered to be extremists before Chernobyl, but were ultimately correct in being fearful of a worst-case scenario. Moreover, thoughtful regulation and management of these technologies must be applied to protect against the potential harms (outlined below), and we must forward plan for the worst-case scenarios of mis-using/mismanagement “smart city” technology in order to safeguard our democracy.
+**Listen to the Public For Procurement Priorities Not Salespeople.** The public should never be surprised by their governments use of novel 
+technologies. In addition to consistent proactive public consultation to set government priorities, including related procurement decisions, 
+governments can stave off surprises by rejecting unsolicited “smarty city” sales pitches, the so-called “solutions in search for a problem.” 
+The Boston Smart City Playbook affirms this sentiment in [Play 1: Stop sending sales people](https://monum.github.io/playbook/#play1). Governments must ensure they are in the driver seat leading with desired outcomes demanded by the public going into any procurement, technology or otherwise. Government-led efforts do not preclude innovation as demonstrated by NASA’s [intentional efforts in 2005 to strategically incentivise a commercial space market](https://historycollection.jsc.nasa.gov/JSCHistoryPortal/history/oral_histories/C3PO/ShotwellGE/ShotwellGE\_1-15-13.htm).  
 
-In the spirit of these common public concerns, I have started to outline broad categories of harms that might arise from deploying “smart city” technology. The intent of this framework is for it to evolve into an assessment tool for current practices and guide for future considerations of deploying  “smart city“ technology.
+*Key Questions  *
 
-#### 1. Lack of Community Input
+*   *What outcome has the public demanded? Has the public weighed in how technology should be a part of achieving that outcome or not?*
 
-A first-order issue is does the community where “smart city” technology will be deployed want it? To know the answer to this question means ongoing engagement with a community and robust dialogue about types of data collection, how that might contribute to the collective
-good, and all the trade-offs involved. Given the other possible harms involved (see below), projects should not be pursued at all unless the community is on board for an articulated outcome. Challenges for community input on “smart city” technology include ensuring that
-approval is informed (perhaps via trusted experts and intermediaries) and identifying the appropriate level of approval (e.g. neighborhood v.
-city, majority v. unanimous). Examples like [Sidewalk Lab’s poor public reception (procedurally as well as substantively) to their ](https://ir.lawnet.fordham.edu/cgi/viewcontent.cgi?article=5628\&context=flr)[Master Innovation and Development Plan](https://ir.lawnet.fordham.edu/cgi/viewcontent.cgi?article=5628\&context=flr) highlight the need for this dialogue to take place before the procurement process takes place. Cities like Boston and Seattle have attempted to systematize community input on “smart city” tech with a [Boston Smart City Playbook](https://monum.github.io/playbook/) (which highlights the need for right-tech versus high-tech approaches to civic problem solving) and [Surveillance Impact Report](https://www.seattle.gov/tech/initiatives/privacy/surveillance-technologies/about-surveillance-) processes (which highlights the need for public comment, working group, and council approval of new surveillance technologies).
+*   *Does the solicitation reflect those desired outcomes and dictate discrete ways commercial technology may support those outcomes?*
 
-#### 2. Erosion of Privacy and 4th Amendment Protections
+**Foster Procurement Transparency and Engagement.**
+Public consultation should not end after outcome determination but continue throughout procurement and implementation. This is democractic, achievable, and many governments are already doing it. Procurement transparency facilitates accountability and enables engagement. 
+Governments should employ best practices, such as [Sunlight Foundation's Policy Guidelines for Municipal Contracting](https://sunlightfoundation.com/procurement/opendataguidelines/) and standards provided by the [Open Contracting Partnership](https://www.open-contracting.org/implement/lift/). Transparent processes can also help city council members, executive leadership, and counterpart agencies be better aware of collective benefits and risks arising from disperse procurements. To the extent possible, governments should work to extend these transparency efforts to the subcontractor level which are of particular interest relating to data privacy policies and technology performance. Governments should go beyond posting procurement information and data online, but ensure the public can observe what range of responses governments are considering. Examples of this include Boston’s New Urban Mechanics’ [Beta Blocks](https://www.boston.gov/departments/new-urban-mechanics/beta-blocks) program which posted a broad “Smart City” [Request for Information (RFI)](https://www.boston.gov/sites/default/files/embed/file/2017-04/smartcityrfiupdated4.24.17.pdf) in 2017 and [publicly posted the 100+ responses online](http://drive.google.com/drive/folders/0B_QckxNE_FoENlB6RzM5T2VDSlE) and the U.S. Department of Transportation’s 2015 call for “Smart City '' grantee proposals and [publicly posted the 78 responses online](https://www.transportation.gov/smartcity/visionstatements/index). Beyond broadcasting proposal responses and procurement activity, 
+governments should provide context and facilitate feedback loops related to novel technologies as [Amsterdam](https://algoritmeregister.amsterdam.nl/) and [Helsinki](https://ai.hel.fi/) have done for AI, and [Seattle](https://www.seattle.gov/tech/initiatives/privacy/surveillance-technologies) has done for “surveillance technologies.” 
 
-While community input is a first-order issue to deploying “smart city” technology, the rest of these harms are not delineated in any
-sequential or ranked order. As technology development moves faster than law, there is a trend of technology expanding possible searches by law
-enforcement, and that expansion being challenged in court as a violation of our Fourth Amendment protection from unreasonable searches and seizures. While an individual’s actions or movements in public spaces have historically fallen outside the scope of Fourth Amendment protections, recent case law has inspired some legal scholars, such as Andrew Ferguson, to examine how digital may be considered differently.
-In [“Structural Sensor Surveillance” 106 Iowa L. Rev. 47 (2020)](https://ilr.law.uiowa.edu/print/volume-106/structural-sensor-surveillance/) Ferguson considers how automated, continuous, aggregated, long-term
-acquisition of personal data with “smart city” sensors may trigger Fourth Amendment scrutiny under current Supreme Court doctrine. Separate from Fourth Amendment protections, as a matter of public policy, one may consider other harms that may occur from an erosion of privacy
-including social detriment and a loss of liberty. How are “smart city” technology contracts construing their [privacy policies](https://www.eff.org/deeplinks/2017/09/linknyc-improves-privacy-policy-yet-problems-remain)? Lastly, as “smart city” technology collects more and more data that can be used to re-identify people, the cybersecurity of any information
-collected becomes an integral aspect of overall privacy protections. A data breach could lead to re-identifying someone and causing threats to
-their safety and wellbeing or economic loss.
+*Key Questions *
 
-#### 3. Chilling of 1st Amendment Rights
+*   *Is our procurement process legible to the public? *
 
-In the U.S. the first amendment protects the five freedoms of speech, religion, press, assembly, and the right to petition (protest)
-the government. The surveillance imposed by “smart city” could have a chilling effect on community members feeling comfortable participating
-in these protected activities for fear of harassment or retaliation by the state. As more instances of filming protestors are documented (such
-as in [San Diego streetlight cameras](https://www.voiceofsandiego.org/topics/government/police-used-smart-streetlight-footage-to-investigate-protesters/), [Miami University](https://www.voiceofsandiego.org/topics/government/police-used-smart-streetlight-footage-to-investigate-protesters/), [Hong Kong](https://www.nytimes.com/2019/07/26/technology/hong-kong-protests-facial-recognition-surveillance.html)) one could reasonably anticipate to be filmed and identified in public space. If [public space becomes a place where one fears punishment](https://www-jstor-org.ezp-prod1.hul.harvard.edu/stable/pdf/41426920.pdf?refreqid=excelsior%3A9bf6bcf37caa21d52b3c663494968f17), how will that affect collective action and political movements?
+*   *Do we know what other agencies are procuring? Do we understand the subcontractor services being utilized here?  *
 
-#### 4. Discrimination / Oppression
+*   *Can the public provide feedback on novel technology use before, during, and after procurement?  *
 
-Because “smart city” tech is applied to a given neighborhood, it shares the potential for discrimination rife in urban planning and
-public safety history and also a new power of extending those inequities to the digital worlds term that many have coined as “[digital redlining](https://en.wikipedia.org/wiki/Digital_redlining)”.
-Potential harms that flow from disproportionate use or disparate community impact include loss of opportunity, economic loss, and social
-determinants (dignitary harms, constraints of bias). Cities, such as [Baltimore and DC](https://cnsmaryland.org/2020/11/19/police-cameras-disproportionately-surveil-nonwhite-areas-of-dc-and-baltimore-cns-finds/), have closed-circuit television (CCTV) installed in in majority nonwhite areas, on average than in majority-white neighborhoods. Detroit has come under scrutiny by local activists for using facial recognition
-technology in [public housing](https://www.nytimes.com/2019/09/24/us/politics/facial-recognition-technology-housing.html), spurring [the introduction of Federal legislation](https://www.congress.gov/bill/116th-congress/house-bill/4008/text?r=11\&s=1) to prohibit “the use of biometric recognition technology in certain
-federally assisted dwelling units.” These biases compound as data collection from strategically placed “smart city” and other surveillance technology increasingly inform policy decisions such as predictive policing. Seattle’s surveillance law requires [Equity Impact Assessment reporting](https://www.seattle.gov/tech/initiatives/privacy/surveillance-technologies/additional-surveillance-reports) as part of their surveillance technology review process, but to date, the city has articulated an inexpertise in measuring this impact other than examining how it comes up in the public comment.
+*   *Can the public engage with implementation through user testing and other feedback mechanisms? *
 
-#### 5. Loss of Accountable Government
+#### For Investors  
 
-Lastly, as governments continue to outsource technology services to private vendors the vendors at play [take on a quasi-government function](https://www.resite.org/stories/bianca-wylie-on-the-critical-design-process-of-democracy-in-smart-cities) without many of the accountability measures built into government functions such as public records access, public auditors, or consequences for elected officials if services do not meet community members expectations. Moreover, if care is not taken with data
-governance, community members may be further vulnerable to corporate influence via “surveillance capitalism.” As a“smart city” must be
-considered as a potential extension of police surveillance and its biases, it must also be considered as a potential extension of corporate
-surveillance. At what point does a single corporation have “vertical integration” (in terms of personal data) of a whole neighborhood? This
-corporate influence (via data, and sheer size of these vendors) was central to [Sidewalk Toronto criticism](https://ir.lawnet.fordham.edu/cgi/viewcontent.cgi?article=5628\&context=flr), [Amazon HQ2 criticism](https://www.forbes.com/sites/victoriapavlova/2018/11/08/in-amazons-competition-for-hq2-was-data-the-ultimate-goal/?sh=12e3d37bd039), and [Port Covington criticism](http://data.baltimoresun.com/news/port-covington/). For the data aspect, some cities have retained data rights in their contacts (e.g. [GovEx’s Data Ownership and Usage Terms](https://labs.centerforgov.org/data-governance/data-ownership/)) or “open standards” ([Mobility Data Specification](https://www.openmobilityfoundation.org/about-mds/)) for access to data collected by the private sector but this [raises new questions](https://triangulator.org/blog/local-power-digital-policing/)
-of what data the vendor be collecting and managing and what data should governments be collecting and managing. Namely, does this collection
-protect individuals, and is the collection [fit for its purpose](https://journals.sagepub.com/doi/10.1177/016555159502100204)? Ultimately data collected for the purposes of consumer payment is more
-granular than what is needed for collective city planning and very different from data collected for the purposes of law enforcement. In
-addition to these fitness for purpose considerations, [many alternatives](https://foundation.mozilla.org/en/initiatives/data-futures/data-for-empowerment/#10-data-governance-approaches-explored) to data governance have emerged as potential approaches to navigating data spaces that must consider [individual and collective purposes](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3727562), as well as competing individual, corporate, and public interests. How
-is data access explicitly or implicitly included in “smart city” vendor business models or contracts? (i.e. Is part of the bargain that the
-vendor retains data as a good in exchange for the hardware they provide?) Where no or less money is exchanged, how is data access
-considered in public-private partnerships and other test bed scenarios?
+Depending on the patience of the VC, the word procurement can be seen as an opportunity or a risk. There is standard advice for startups selling to 
+the government: if possible, avoid RFP processes; if applicable, price slightly under procurement thresholds so decision-making can be sped up consider being a subcontractor; or offer free pilots to illustrate value-add while waiting on a full contract. These pieces of advice can lead to sales, but “cutting corners” might be harmful to the public.  
 
-### Research Next Steps
+**Assess Team Experience. **When a startup (or venture-backed vendor) plans to sell to the government, the VC should assess the team to make sure there are people at the company who understand the intricacies of selling to the government. To be successful in selling to the government, the process takes experience, time, and money. Because government sales mean tax dollars will be directly or indirectly used to procure, the sales or business development team needs to have a deep understanding of the relationship building that goes into B2G and respect the processes in place. In addition to business development and sales, VCs should also assess the team to ensure there are product, policy or engineering people at the startup that have experience making government-related or public-facing technology.;
 
-The final output goals of this Whose Streets? Our Streets! (Tech Edition) the research project is to provide some high-level recommendations for
-governments, the public, and vendors to prevent these harms. The immediate next steps for this project include further refining this set
-of harms and collecting examples of current “smart city” tech use and policy. Questions for readers:
+*Key Questions *
 
-*   Do these harm categories resonate?
+*   *Have members of the startups’ team sold to the government before? *
 
-*   What’s missing?
+*   *Have members of the startups’ team developed B2G products before?  *
 
-*   What current or imagined prevention tactics, including [avoiding or postponing ](https://www.aclum.org/en/campaigns/press-pause-face-surveillance)the use[ of certain technologies outright](https://www.aclum.org/en/campaigns/press-pause-face-surveillance), should be considered?
+**Carry Out Fair and Equitable Processes. **For VCs who want to center public purpose in their startup investments, 
+instead of encouraging startups to avoid procurement altogether or overemphasize free pilots, startups should prioritize contracts with governments who have fair, transparent and equitable processes. In theory, free pilots allow the government to test the effectiveness of a planned solution on a smaller scale but are not always sustainable for startups and do not always require the needed process to reduce harms. 
+Sometimes it is worth startups pursuing sales in smaller-sized cities, instead of devoting countless hours to agencies with big names but tortuous processes. Responding to arduous RFPs or navigating procurement rules takes time, but those processes are in place to ensure public purpose. Those processes also prevent time-wasting activity, where one startup can spend years piloting technology and adjusting the product to fit the pilots’ criteria but never actually securing a contract.  
 
-Please send feedback to <rebeccawilliams@hks.harvard.edu> by January 31, 2021.
+*   *How can the startup ensure procurement corners don’t have to be cut to sell successfully? *
 
-[*Originally posted on The Perspectives on Public Purpose Blog hosted by Harvard Kennedy School Belfer Center’s Technology and Public Purpose Project (TAPP)*](https://www.belfercenter.org/publication/whats-so-dangerous-about-smart-cities-anyway)
+*   *How can the startup make sure they are bringing experienced and patient B2G investors on to their cap table?* 
+    	
+
+**Conduct Stakeholder Analysis.** Often the decision-maker in the government is not the same person as the user or the public who is ultimately impacted by the technology. Startups should ensure they have engaged with all stakeholders, not just government customers, in their product development and sales. It will help prevent public pushback and will build a better business. VCs should encourage their startups to engage with people and communities outside of their customers and users. There are groups like [NYC’s The Grid](https://urbantechnyc.com/programs/grid/) who will facilitate conversations between startups and members of the community.  
+
+*Key Questions *
+
+*   *How is the startup getting feedback from all stakeholders, not just those with buying power? *
+
+*   *Which members of the public actually benefit or have access to the product/service?  *
+
+     
+
+### Business Model Considerations 
+
+#### For Government  
+
+Governments struggle to get things done on limited budgets, budget cycle constraints, and time consuming procurement processes, but this is no excuse for accepting business relationships  that do not have public purpose in mind. To serve public purpose, governments must remain resolute and ensure they purchase from or partner with entities that do not have a hidden business agenda that may not serve the public’s best interest.  
+
+**Examine Public-Private Partnerships and “Free” Products for Hidden Agendas.** Public-private partnerships can be executed with public purpose in mind, but too often governments engage in public-private partnerships without public input or public risks in mind. Much like the adage about social media platforms, "if you're not paying for the product, you are the product” governments must consider if they are not paying for the 
+service, is the public the product? When governments are offered unsolicited “free” services from vendors or groups, they should be 
+examined and tailored to meet outcomes demanded by the public. Governments should avoid taking any PPP or “free” service 
+without substantively negotiating terms (just because it is free doesn’t mean you have to take it) and analyzing how this affects immediate 
+outcomes and long-term financing. Moreover, since partnership relationships often bypass traditional procurement accountability 
+processes, extra care should be taken by governments to ensure ethical standards are maintained and conflicts of interest are proactively disclosed. 
+
+*Key Questions *
+
+*   *Has the public demanded a specific outcome related with this public-private partnership or “free” service?  *
+
+*   *Is the public meaningfully insulated from risk resulting from this partnership? Can the government and public hold this partner accountable? *
+
+*   *Does accepting this “free” product have long-term costs? If a service is provided as a “freemium”, can the government afford the full price of the offer after the free period has expired?) *
+
+*   *Are there conflicts with accepting this partnership? Does this company or organization have legislative interests in play? *
+
+     
+
+**Evaluate Enterprise “Add Ons” With More Scrutiny.** There are situations where a vendor a government already procures from 
+develops additional services that are of use to achieve outcomes demanded by the public. However, vendors also actively try to “up-sell” 
+governments into enterprise services, add-ons, and complementary features. These additional items can often be included without a new 
+procurement process and are often presented at offered at a discount or “bundle” rate. Because of the psychological bias associated with these sales tactics and the lack of procurement review governments should approach these additions with heightened scrutiny. Telecom and utility 
+companies in particular have made efforts to add  “smart city” software offerings to their traditional hardware offerings with mixed performance
+ results (see [Cisco’s recent retreat from the “smart city” market](https://www.wsj.com/articles/cisco-turns-off-lights-on-smart-city-push-11609178895)) and should not be assumed to be a better deal on their face. Lastly, 
+with technology add-ons, governments may be adding more and more expensive (and risky) technology to solve problems that could have been addressed with other means. 
+
+*Key Questions *
+
+*   *Does this enterprise expansion, add-on, or complementary feature solve a problem articulated as priority by the public? *
+
+*   *Does this enterprise expansion, add-on, or complementary feature make you more beholden to one company going forward? *
+
+*   *Has the public asked for a  technological service to address this problem?*
+
+*   *Would we procure this if it was not a “deal” or easy to add under an existing contract*
+
+**Protect Public Data Rights. **Many of the product risks posed by “smart city” technology derive from exploiting personal data collection. At a minimum, governments must have procurement staff and attorneys on hand who are well-versed in data licensing, governance, technical standards, and privacy negotiation. Governments should [retain data rights](https://labs.centerforgov.org/data-governance/data-ownership/) in contracts firmly to consider subcontractors and third-party 
+relationships as well. In this vein, governments should be wary of subscription services that only provide public data under a temporary 
+license. In this growing data-driven world, governments should also aim to have full-time[ staff and governance bodies](https://fpf.org/smart-cities-resources/) dedicated to these issues such as Privacy Officials, Commissions, and Advisory Bodies. Vendors of “smart city” technology should not be collecting personal data of the public for their secondary commercial means (such as big data analytics, adtech, or data sales), but rather should be explicit in any secondary data uses (if any) and primarily focus on providing outcome-tailored hardware or software services to government’. 
+
+*Key Questions *
+
+*   *Do you have a standard privacy policy in place for technology purchases that minimizes personal data collection? Do you have a policy to minimize storage and abstain from intergovernmental data sharing without a warrant? *
+
+*   *Does the company retain data rights? Does the technology use an open standard so data can be easily ported to future vendors? (See more below).*
+
+     
+
+#### For Investors  
+
+Will this startup make money? It’s always the golden question from an investor. From a public purpose perspective, there are some models more than others that reduce harms and allows for sustainable business growth. 
+
+**Avoid Free Pilots:** As stated earlier, free pilots are not a sustainable way to build a business or to preserve public purpose. Sometimes proving traction to investors and other customers from free pilots is considered a “decent” signal, but VCs should consider what free actually means.  Often, when something is free, it does not follow a complete process. There is not always an understanding of data ownership, public input, or time for the 
+government to properly assess the implications of the technology. That could be detrimental to the company’s reputation and bottom line in thelong run. 
+
+*Key Questions *
+
+*   *Is the startup relying on unpaid pilots to indicate traction?  *
+
+*   *How high are the customer acquisition costs or public risk factors when using free pilots? *
+
+**Probe Any Data Licensing or Selling:** Any
+ exchange of data or advertising for revenue is tricky, but especially 
+in a B2G sales context. There are plenty of companies who make money off
+ of selling user data, but when you have access to the general publics’ 
+data (identifiable or not), a startup has the responsibility to make the
+ public aware of their data being sold and if they should have access to
+ the rewards of monetizing it. 
+
+> “Monetizing user data 
+> was the model suggested to us frequently by many VCs—selling user data 
+> or email addresses—but we decided against it and prioritized user 
+> privacy and user control of their own data, which is why we ended up 
+> pursuing an enterprise model.”
+
+*Key Questions *
+
+*   *How much of the startup’s business model relies on selling the public’s data? *
+
+*   *Does the public know their data is being used or being monetized?  *
+
+**Ensure the Public Benefits from Corporate Partnerships:** With
+B2G startups, it could be inappropriate to bring in corporate interests. The corporations are most likely sponsoring for brand awareness or access to data, so who really benefits: corporate shareholders or the general public? There’s massive reputational risk and possible confusion from the public, like in the cases of [Starbucks involved in voting](https://www.democracy.works/tools-for-voters) or [Google involved in building a city in Toronto](https://www.sidewalklabs.com/). 
+
+*Key Questions *
+
+*   *Do the startup and corporation have the same definition of success? *
+
+*   *Are there other aspects of the corporation that undermine/contradict the impact of their current efforts or partnerships?  *
+
+**Examine the B2B Parallels:** Startups recognizing the lag that could happen with B2G sales will develop a B2B business model or product parallel. This is smart for revenue and traction purposes but startups and VCs should ensure they are careful to not assume what works in B2B will work in B2G. Selling to businesses versus selling to any level of government means different considerations for data ownership, user feedback and stakeholder awareness. A startup selling to the Department of Defense versus Disney cannot treat a B2B and B2G offering as one in the same.  
+
+*Key Questions *
+
+*   *What is the startups’ revenue split between B2G and B2B?  *
+
+*   *How are the startups' key offerings different depending on their customers (government or business)? *
+
+### Long-term Value Creation Considerations 
+
+#### For Government  
+
+Vendors will come and go, but governments have a much longer timeline. Government stewards must consider long-term effects of their “smart 
+city” investments. Does this choice set us up for better choices? Borrowing from [indigenous design principles](https://umanitoba.ca/admin/vp_admin/media/IPDP_Handout.pdf), governments must embrace a “seven generations view” meaning “look seven generations forward and seven generations back, while being rooted in our present generation.” 
+
+**First, Do No Harm; Facilitate Safe “Pilots”.** Because emerging technologies are novel and risks are inherently unknown, governments should not jump into using technologies that have not been proven. As governments embark on novel use of emerging technologies, governments should design pilots that examine efficacy, public appreciation, and safety. Extra care must be taken to protect and get feedback from vulnerable people in these endeavors.  
+
+*Key Questions *
+
+*   *Are we deploying this pilot with consent? Are we deploying this pilot equitably? *
+
+*   *If this pilot does not work for our most vulnerable people, are we prepared to walk away? *
+
+*   *What are the known pros and cons of this technology? How has it worked and not worked elsewhere? *
+
+*   *What long-term financial decisions will be made because of this investment?*
+
+**Use Open Standards.** To ensure long-term value for your government, you will not want to beholden to one “smart city” technology provider. During any purchase or partnership ensure that the related data (if any) that is portable to future investments.. Similar to the Protect Public Data Rights recommendation above, which focuses on legal access to information, open standards help ensure long-term technical access to 
+information. Additionally, open standards often provide opportunities to be in dialogue with other public purpose focused entities that help your government understand a wider spectrum of data uses, and risks.  
+
+*Key Questions *
+
+*   *Can we leave this contract and still access this data? Can we port this data into a new service easily? *
+
+*   *Am I in dialogue with other public purpose communities on the best technical standards for managing this data? *
+
+     
+
+#### For Investors  
+
+Long term value creation for smart city technology is not just about pure profitability but also ensuring a startup is solving a real problem experienced in cities in exchange for money.  
+
+Create long term value for the public and for business. Companies are IPOing and raising millions from VCs without turning a profit or signaling sustainable growth indicated by consumers, businesses or governments paying for their product or service at full price. For public purpose, this also 
+means evaluating value and problem-solving in the long term (>10 years) and in an equitable way. VCs should compare startups to existing 
+solutions in the market to understand if the technology provides incremental (small dent in problem), fundamental (problem mostly solved) or transformative change (problem eliminated or a brand new movement) and assess how that level of change will impact the public-- jobs, the economy, the environment, human rights, security, and privacy. 
+
+*Key Questions *
+
+*   *How long will it take for this company to be profitable? *
+
+*   *Are they subsidizing the real cost of their services to beat out competition?  *
+
+For more on Venture Capital and Public Purpose, follow [Liz’s research.](https://www.belfercenter.org/index.php/person/liz-sisson) For more on threats to civil liberties posed by "smart city" technologies follow [Rebecca’s research](https://www.belfercenter.org/index.php/person/rebecca-williams).  
+
+Special thanks to [Kevin Webb](https://kevinwebb.io/about/) for his input on this blogpost.  
