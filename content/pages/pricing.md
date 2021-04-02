@@ -15,6 +15,16 @@ sections:
         image: images/fabulous-kangaroo.png
         image_alt: Civic Tech Book Club screenshot
         subtitle: "A virtual book club with a critical lens on civics ∩\_ technology."
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
       - title: DC Legal Hackers
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
