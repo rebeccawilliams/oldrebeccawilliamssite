@@ -25,10 +25,14 @@ sections:
             no_follow: false
             type: action
       - title: DC Legal Hackers
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          DC Legal Hackers explore and develop creative solutions to some of the
+          most  pressing issues at the intersection of technology and law
+          through 
+
+          Meetups, conferences, workshops, and hackathons. We spot issues and
+          opportunities where technology can improve and inform the practice of
+          law and where law can adapt to rapidly changing technology. 
         subtitle: 2013-2020 (Co-organizer)
     grid_cols: two
     grid_gap_horiz: medium
