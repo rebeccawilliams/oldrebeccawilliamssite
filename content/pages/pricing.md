@@ -3,7 +3,7 @@ title: Pricing
 sections:
   - type: hero_section
     title: Community Groups
-    subtitle: Groups I've gathered/been a part of
+    subtitle: Gro
     align: center
     padding_top: large
     padding_bottom: small
