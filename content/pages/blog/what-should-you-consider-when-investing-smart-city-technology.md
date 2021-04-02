@@ -78,9 +78,9 @@ governments should provide context and facilitate feedback loops related to nove
 
 *   *Is our procurement process legible to the public?*
 
-*   *Do we know what other agencies are procuring? Do we understand the subcontractor services being utilized here? *
+*   *Do we know what other agencies are procuring? Do we understand the subcontractor services being utilized here?*
 
-*   *Can the public provide feedback on novel technology use before, during, and after procurement? *
+*   *Can the public provide feedback on novel technology use before, during, and after procurement?*
 
 *   *Can the public engage with implementation through user testing and other feedback mechanisms?*
 
@@ -97,7 +97,7 @@ the government: if possible, avoid RFP processes; if applicable, price slightly 
 
 *   *Have members of the startups’ team developed B2G products before?*
 
-**Carry Out Fair and Equitable Processes. **For VCs who want to center public purpose in their startup investments,
+**Carry Out Fair and Equitable Processes.**For VCs who want to center public purpose in their startup investments,
 instead of encouraging startups to avoid procurement altogether or overemphasize free pilots, startups should prioritize contracts with governments who have fair, transparent, and equitable processes. In theory, free pilots allow the government to test the effectiveness of a planned solution on a smaller scale but are not always sustainable for startups and do not always require the needed process to reduce harms.
 Sometimes it is worth startups pursuing sales in smaller-sized cities, instead of devoting countless hours to agencies with big names but tortuous processes. Responding to arduous RFPs or navigating procurement rules takes time, but those processes are in place to ensure public purpose. Those processes also prevent time-wasting activity, where one startup can spend years piloting technology and adjusting the product to fit the pilots’ criteria but never actually securing a contract.  
 
@@ -105,15 +105,14 @@ Sometimes it is worth startups pursuing sales in smaller-sized cities, instead o
 
 *   *How can the startup ensure procurement corners don’t have to be cut to sell successfully?*
 
-*   *How can the startup make sure they are bringing experienced and patient B2G investors on to their cap table? *
+*   *How can the startup make sure they are bringing experienced and patient B2G investors on to their cap table?*
 
 **Conduct Stakeholder Analysis.** Often the decision-maker in the government is not the same person as the user or the public who is ultimately impacted by the technology. Startups should ensure they have engaged with all stakeholders, not just government customers, in their product development and sales. It will help prevent public pushback and will build a better business. VCs should encourage their startups to engage with people and communities outside of their customers and users. There are groups like [NYC’s The Grid](https://urbantechnyc.com/programs/grid/) who will facilitate conversations between startups and members of the community.  
 
 *Key Questions*
 
 *   *How is the startup getting feedback from all stakeholders, not just those with buying power?*
-
-*Which members of the public actually benefit or have access to the product/service?*
+*   *Which members of the public actually benefit or have access to the product/service?*
 
 ### Business Model Considerations 
 
@@ -235,8 +234,6 @@ information. Additionally, open standards often provide opportunities to be in d
 *   *Can we leave this contract and still access this data? Can we port this data into a new service easily?*
 
 *   *Am I in dialogue with other public purpose communities on the best technical standards for managing this data?*
-
-     
 
 #### For Investors  
 
