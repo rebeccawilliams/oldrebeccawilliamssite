@@ -58,7 +58,7 @@ sections:
         is_required: true
         type: form_field
     submit_label: Email
-    align_vert: top
+    align_vert: middle
     padding_top: medium
     padding_bottom: medium
     has_border: false
