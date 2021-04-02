@@ -3,7 +3,7 @@ title: Pricing
 sections:
   - type: hero_section
     title: Community Groups
-    subtitle: Gro
+    subtitle: Organized to learn about tech/society issues together
     align: center
     padding_top: large
     padding_bottom: small
