@@ -34,7 +34,7 @@ sections:
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
           euismod lacinia.
-        subtitle: 2013-2020 (co-
+        subtitle: 2013-2020 (co-organizer)
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
