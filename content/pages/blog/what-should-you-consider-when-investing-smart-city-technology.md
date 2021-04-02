@@ -44,7 +44,7 @@ layout: post
 author: content/data/team/gustav-purpleson.yaml
 thumb_image: images/superb-paprika.png
 image: images/popp_15.png
-date: '2021-02-02'
+date: '2021-02-26'
 ---
 In this blogpost, [Technology and Public Purpose](https://www.belfercenter.org/project/technology-and-public-purpose) Fellows Liz Sisson and Rebecca Williams team up to propose how governments and
 investors alike can consider public purpose in their “smart city” technology investments. In counting “smart cities” final days, [City Monitor](https://citymonitor.ai/government/why-youll-be-hearing-a-lot-less-about-smart-cities) summarizes the term quite well:  
