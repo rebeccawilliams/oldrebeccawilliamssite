@@ -67,7 +67,7 @@ technologies. In addition to consistent proactive public consultation to set gov
 governments can stave off surprises by rejecting unsolicited “smarty city” sales pitches, the so-called “solutions in search for a problem.”
 The Boston Smart City Playbook affirms this sentiment in [Play 1: Stop sending sales people](https://monum.github.io/playbook/#play1). Governments must ensure they are in the driver's seat leading with desired outcomes demanded by the public going into any procurement, technology or otherwise. Government-led efforts do not preclude innovation as demonstrated by NASA’s [intentional efforts in 2005 to strategically incentivise a commercial space market](https://historycollection.jsc.nasa.gov/JSCHistoryPortal/history/oral_histories/C3PO/ShotwellGE/ShotwellGE\_1-15-13.htm).  
 
-*Key Questions  *
+\*Key Questions  \*
 
 *   *What outcome has the public demanded? Has the public weighed in how technology should be a part of achieving that outcome or not?*
 
@@ -78,7 +78,7 @@ Public consultation should not end after outcome determination but continue thro
 Governments should employ best practices, such as [Sunlight Foundation's Policy Guidelines for Municipal Contracting](https://sunlightfoundation.com/procurement/opendataguidelines/) and standards provided by the [Open Contracting Partnership](https://www.open-contracting.org/implement/lift/). Transparent processes can also help city council members, executive leadership, and counterpart agencies be better aware of collective benefits and risks arising from disperse procurements. To the extent possible, governments should work to extend these transparency efforts to the subcontractor level which are of particular interest relating to data privacy policies and technology performance. Governments should go beyond posting procurement information and data online, but ensure the public can observe what range of responses governments are considering. Examples of this include Boston’s New Urban Mechanics’ [Beta Blocks](https://www.boston.gov/departments/new-urban-mechanics/beta-blocks) program which posted a broad “Smart City” [Request for Information (RFI)](https://www.boston.gov/sites/default/files/embed/file/2017-04/smartcityrfiupdated4.24.17.pdf) in 2017 and [publicly posted the 100+ responses online](http://drive.google.com/drive/folders/0B_QckxNE_FoENlB6RzM5T2VDSlE) and the U.S. Department of Transportation’s 2015 call for “Smart City '' grantee proposals and [publicly posted the 78 responses online](https://www.transportation.gov/smartcity/visionstatements/index). Beyond broadcasting proposal responses and procurement activity,
 governments should provide context and facilitate feedback loops related to novel technologies as [Amsterdam](https://algoritmeregister.amsterdam.nl/) and [Helsinki](https://ai.hel.fi/) have done for AI, and [Seattle](https://www.seattle.gov/tech/initiatives/privacy/surveillance-technologies) has done for “surveillance technologies.” 
 
-\*Key Questions \*
+*Key Questions*
 
 *   \*Is our procurement process legible to the public? \*
 
