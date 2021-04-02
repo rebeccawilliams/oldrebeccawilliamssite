@@ -1,5 +1,5 @@
 ---
-title: What's so Dangerous About Smart Cities Anyway?
+title: What Should You Consider When Investing In “Smart City” Technology?
 subtitle: An Outline of Five "Smart City" Harms and a Call for Feedback
 date: '2020-12-16'
 categories:
