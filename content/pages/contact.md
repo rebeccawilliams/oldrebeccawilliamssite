@@ -37,17 +37,8 @@ sections:
     background_color: primary
   - title: Contact
     title_align: center
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: |
+      Send me an email.
     content_align: center
     form_position: top
     form_width: sixty
