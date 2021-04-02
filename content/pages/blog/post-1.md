@@ -3,7 +3,6 @@ title: Sunlight Foundation Archival Posts
 subtitle: >-
   Archival posts from 2013-2014 at the Sunlight Foundation related to open data
   policies and practices.
-author: content/data/team/dianne-ameter.yaml
 categories:
   - content/data/categories/tutorials.yaml
   - content/data/categories/general.yaml
