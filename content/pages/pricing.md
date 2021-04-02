@@ -14,6 +14,7 @@ sections:
         content: |
           Civic Tech Book Club is a virtual book club that meets sporadically to
           discuss readings related to civics and technology
+        image: images/fabulous-kangaroo.png
       - title: DC Legal Hackers
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
