@@ -2,7 +2,6 @@
 title: 'Introducing: Whose Streets? Our Streets!'
 subtitle: Developing Interventions to Protect Civil Liberties in a 'Smart City'
 date: '2020-10-21'
-author: content/data/team/gustav-purpleson.yaml
 categories:
   - content/data/categories/general.yaml
   - content/data/categories/category-apoc3kfww.json
