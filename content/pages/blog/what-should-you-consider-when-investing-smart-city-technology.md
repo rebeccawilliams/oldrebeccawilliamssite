@@ -8,7 +8,7 @@ tags:
   - content/data/tags/stackbit.yaml
 excerpt: An Outline of Five "smart city" Harms and a Call for Feedback
 thumb_image_alt: TAPP thumbnail
-image_alt: 'TAPP '
+image_alt: TAPP thumbnail
 image_position: right
 seo:
   title: Amet Nulla Facilisi Morbi Tempus
