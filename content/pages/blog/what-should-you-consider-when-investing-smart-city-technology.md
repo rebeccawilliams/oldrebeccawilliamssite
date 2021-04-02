@@ -38,7 +38,6 @@ seo:
       value: images/classic/post-5.png
       relativeUrl: true
 layout: post
-author: content/data/team/gustav-purpleson.yaml
 thumb_image: images/purple-moon.png
 image: images/popp_15.png
 date: '2021-02-26'
