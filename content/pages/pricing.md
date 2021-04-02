@@ -22,7 +22,7 @@ sections:
         subtitle: "A virtual book club with a critical lens on civics ∩\_ technology."
         actions:
           - label: Join/Read
-            url: '#'
+            url: 'https://civictech'
             style: link
             has_icon: false
             icon: arrow-left
