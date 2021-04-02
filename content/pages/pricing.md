@@ -30,7 +30,7 @@ sections:
           policymakers that meet to discuss and hack on legal tech and tech
           policy.
         subtitle: 2013-2020 (Co-organizer)
-        image: images/Screen Shot 2021-04-02 at 12.19.16 AM.png
+        image: images/index.png
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
