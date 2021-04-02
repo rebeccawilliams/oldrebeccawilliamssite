@@ -2,7 +2,6 @@
 title: Subscribe to the Whose Streets? Newsletter
 subtitle: Documenting trends in the surveillance of public space.
 date: '2020-11-23'
-author: content/data/team/dianne-ameter.yaml
 categories:
   - content/data/categories/category-apoc3kfww.json
   - content/data/categories/general.yaml
