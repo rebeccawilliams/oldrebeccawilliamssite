@@ -97,7 +97,7 @@ the government: if possible, avoid RFP processes; if applicable, price slightly 
 
 *   *Have members of the startups’ team developed B2G products before?*
 
-**Carry Out Fair and Equitable Processes.**For VCs who want to center public purpose in their startup investments,
+\*\*Carry Out Fair and Equitable Processes.\*\*For VCs who want to center public purpose in their startup investments,
 instead of encouraging startups to avoid procurement altogether or overemphasize free pilots, startups should prioritize contracts with governments who have fair, transparent, and equitable processes. In theory, free pilots allow the government to test the effectiveness of a planned solution on a smaller scale but are not always sustainable for startups and do not always require the needed process to reduce harms.
 Sometimes it is worth startups pursuing sales in smaller-sized cities, instead of devoting countless hours to agencies with big names but tortuous processes. Responding to arduous RFPs or navigating procurement rules takes time, but those processes are in place to ensure public purpose. Those processes also prevent time-wasting activity, where one startup can spend years piloting technology and adjusting the product to fit the pilots’ criteria but never actually securing a contract.  
 
@@ -136,8 +136,6 @@ processes, extra care should be taken by governments to ensure ethical standar
 *   *Does accepting this “free” product have long-term costs? If a service is provided as a “freemium”, can the government afford the full price of the offer after the free period has expired?)*
 
 *   *Are there conflicts with accepting this partnership? Does this company or organization have legislative interests in play?*
-
-     
 
 **Evaluate Enterprise “Add Ons” With More Scrutiny.** There are situations where a vendor a government already procures from
 develops additional services that are of use to achieve outcomes demanded by the public. However, vendors also actively try to “up-sell”
@@ -239,7 +237,7 @@ information. Additionally, open standards often provide opportunities to be in d
 
 Long term value creation for smart city technology is not just about pure profitability but also ensuring a startup is solving a real problem experienced in cities in exchange for money.  
 
-Create long term value for the public and for business. Companies are IPOing and raising millions from VCs without turning a profit or signaling sustainable growth indicated by consumers, businesses or governments paying for their product or service at full price. For public purpose, this also
+**Create long term value for the public and for business. **Companies are IPOing and raising millions from VCs without turning a profit or signaling sustainable growth indicated by consumers, businesses or governments paying for their product or service at full price. For public purpose, this also
 means evaluating value and problem-solving in the long term (>10 years) and in an equitable way. VCs should compare startups to existing
 solutions in the market to understand if the technology provides incremental (small dent in problem), fundamental (problem mostly solved) or transformative change (problem eliminated or a brand new movement) and assess how that level of change will impact the public-- jobs, the economy, the environment, human rights, security, and privacy. 
 
