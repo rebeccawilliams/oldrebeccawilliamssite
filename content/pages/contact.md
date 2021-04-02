@@ -53,7 +53,7 @@ sections:
         default_value: lorem-ipsum
         options:
           - Name
-          - lorem-ipsum
+          - Email
         is_required: false
         type: form_field
     submit_label: lorem-ipsum
