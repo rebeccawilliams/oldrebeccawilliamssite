@@ -2,7 +2,7 @@
 title: Pricing
 sections:
   - type: hero_section
-    title: Organizing/Community
+    title: Community Leanring
     subtitle: Groups I've gathered/been a part of
     align: center
     padding_top: large
