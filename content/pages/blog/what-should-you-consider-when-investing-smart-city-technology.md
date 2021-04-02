@@ -1,7 +1,6 @@
 ---
 title: What Should You Consider When Investing In “Smart City” Technology?
 subtitle: "In this blogpost,\_Technology and Public Purpose\_Fellows\_Liz\n Sisson\_and\_Rebecca Williams\_team up to propose how governments and \ninvestors alike can consider public purpose in their “smart city” \ntechnology investments."
-date: '2020-12-16'
 categories:
   - content/data/categories/category-apoc3kfww.json
   - content/data/categories/general.yaml
