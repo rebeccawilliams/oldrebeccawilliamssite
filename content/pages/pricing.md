@@ -34,6 +34,7 @@ sections:
           opportunities where technology can improve and inform the practice of
           law and where law can adapt to rapidly changing technology. 
         subtitle: 2013-2020 (Co-organizer)
+        image: images/lhc-logo-white-440x144.png
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
