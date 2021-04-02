@@ -6,6 +6,7 @@ categories:
   - content/data/categories/general.yaml
 tags:
   - content/data/tags/stackbit.yaml
+  - content/data/tags/tag-7nio5sd1u.json
 excerpt: An Outline of Five "smart city" Harms and a Call for Feedback
 thumb_image_alt: TAPP thumbnail
 image_alt: TAPP thumbnail
