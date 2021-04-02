@@ -36,7 +36,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - title: Contact
-    title_align: left
+    title_align: center
     content: >-
       ## Lorem ipsum
 
