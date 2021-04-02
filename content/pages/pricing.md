@@ -23,7 +23,7 @@ sections:
         actions:
           - label: Join/Read
             url: 'https://civictechbook.club'
-            style: link
+            style: primary
             has_icon: true
             icon: arrow-left
             icon_position: right
