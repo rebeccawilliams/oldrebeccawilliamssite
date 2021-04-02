@@ -8,7 +8,7 @@ sections:
     padding_top: large
     padding_bottom: small
   - type: grid_section
-    title: Groups I've helped o
+    title: 'Community '
     grid_items:
       - title: Civic Tech Book Club
         content: >
