@@ -17,7 +17,7 @@ sections:
           who lived far apart from each other and wanted a space to discuss
           readings. Since the pandemic, the virtual group has taken on a new
           life and meets more frequently.
-        image: images/fabulous-kangaroo.png
+        image: images/fabulous-crane.png
         image_alt: Civic Tech Book Club screenshot
         subtitle: "A virtual book club with a critical lens on civics ∩\_ technology."
         actions:
