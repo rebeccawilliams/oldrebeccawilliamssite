@@ -18,7 +18,7 @@ sections:
           life and meets more frequently.
         image: images/knowledgeable-mahogany.png
         image_alt: Civic Tech Book Club screenshot
-        subtitle: "A virtual book club with a critical lens on civics ∩\_ technology."
+        subtitle: 2015-present (Organizer)
         actions:
           - label: Join/Read
             url: 'https://civictechbook.club'
