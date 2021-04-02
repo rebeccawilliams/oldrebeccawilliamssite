@@ -4,7 +4,6 @@ subtitle: >-
   åMy ironic but not "Uses This" interview detailing what technology I was
   allowed to use a Federal (Tech) Policy Analyst.
 date: '2020-10-15'
-author: content/data/team/hilary-ouse.yaml
 categories:
   - content/data/categories/news.yaml
   - content/data/categories/general.yaml
