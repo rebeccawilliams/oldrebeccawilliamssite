@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: Community Groups
 sections:
   - type: hero_section
     title: Community Groups
@@ -48,17 +48,17 @@ sections:
     has_border: false
     background_color: secondary
 seo:
-  title: Pricing
-  description: This is the pricing page
+  title: Community Groups
+  description: This is the community groups page
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Pricing
+      value: Community groups
       keyName: property
     - name: 'og:description'
-      value: This is the pricing page
+      value: This is the community groups page
       keyName: property
     - name: 'og:image'
       value: images/about-3.jpg
@@ -67,9 +67,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Pricing
+      value: Community Groups
     - name: 'twitter:description'
-      value: This is the pricing page
+      value: This is the community groups page
     - name: 'twitter:image'
       value: images/about-3.jpg
       relativeUrl: true
