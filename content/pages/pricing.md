@@ -26,13 +26,9 @@ sections:
             type: action
       - title: DC Legal Hackers
         content: >
-          DC Legal Hackers explore and develop creative solutions to some of the
-          most  pressing issues at the intersection of technology and law
-          through 
-
-          Meetups, conferences, workshops, and hackathons. We spot issues and
-          opportunities where technology can improve and inform the practice of
-          law and where law can adapt to rapidly changing technology. 
+          DC Legal Hackers is meetup group of 1700+ technologists, lawyers, and
+          policymakers that meet to discuss and hack on legal tech and tech
+          policy.
         subtitle: 2013-2020 (Co-organizer)
         image: images/lhc-logo-white-440x144.png
     grid_cols: two
