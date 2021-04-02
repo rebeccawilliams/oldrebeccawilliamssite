@@ -2,7 +2,7 @@
 title: Pricing
 sections:
   - type: hero_section
-    title: Community Leanring
+    title: Community Learning
     subtitle: Groups I've gathered/been a part of
     align: center
     padding_top: large
