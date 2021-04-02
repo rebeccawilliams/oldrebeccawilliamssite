@@ -49,7 +49,7 @@ sections:
     form_fields:
       - input_type: text
         name: Email me
-        label: lorem-ipsum
+        label: Email me
         default_value: lorem-ipsum
         options: []
         is_required: false
