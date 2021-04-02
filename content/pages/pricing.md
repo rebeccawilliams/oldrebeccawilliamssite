@@ -10,12 +10,7 @@ sections:
   - type: grid_section
     grid_items:
       - title: Civic Tech Book Club
-        content: >
-          Civic Tech Book Club was created in 2015 by Forest Gregg, Rebecca
-          Ackerman, and Rebecca Williams (members of the “civic tech” community)
-          who lived far apart from each other and wanted a space to discuss
-          readings. Since the pandemic, the virtual group has taken on a new
-          life and meets more frequently.
+        content: "A virtual book club with a critical lens on civics ∩\_ technology.\n\nCivic Tech Book Club was created in 2015 by Forest Gregg, Rebecca Ackerman, and Rebecca Williams (members of the “civic tech” community) who lived far apart from each other and wanted a space to discuss readings. Since the pandemic, the virtual group has taken on a new life and meets more frequently.\n"
         image: images/knowledgeable-mahogany.png
         image_alt: Civic Tech Book Club screenshot
         subtitle: 2015-present (Organizer)
