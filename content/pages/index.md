@@ -4,12 +4,10 @@ sections:
   - type: hero_section
     title: Rebecca Williams
     content: >
-      Rebecca Williams has been studying various government information access
-      policies for the last eight years and she's been on the internet for much
-      longer. She is deeply curious about how new data/tech schemes double down
-      on our worst injustices and upend how we think about things and she is
-      also interested in oil painting, poetry, and being ridiculous. She has
-      lived along the Northeast Regional Amtrak line her whole life and
+      Rebecca Williams is deeply curious about how new data/tech schemes double
+      down on our worst injustices and upend how we think about things and she
+      is also interested in oil painting, poetry, and laying in the grass. She
+      has lived along the Northeast Regional Amtrak line her whole life and
       currently lives in Brooklyn with her dog, Hannah Arendt.
     actions:
       - label: Contact
