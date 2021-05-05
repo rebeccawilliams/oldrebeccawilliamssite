@@ -10,7 +10,7 @@ sections:
       Regional Amtrak line her whole life and currently lives in Brooklyn with
       her dog, Hannah Arendt.
     actions:
-      - label: Learn More
+      - label: Contact
         url: /contact
         style: secondary
     image: images/rebecca.png
