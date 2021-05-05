@@ -26,7 +26,7 @@ sections:
         has_icon: true
         icon: arrow-left
         icon_position: right
-        new_window: false
+        new_window: true
         no_follow: false
         type: action
     actions_position: bottom
