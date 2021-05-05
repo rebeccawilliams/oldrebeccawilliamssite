@@ -67,17 +67,10 @@ sections:
     background_image_repeat: no-repeat
     type: form_section
   - title: Stay in Touch
-    content: >-
-      ## Lorem ipsum
+    content: |
+      ## On Social 
 
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      dfgfd
     actions: []
     actions_position: bottom
     actions_width: fourty
