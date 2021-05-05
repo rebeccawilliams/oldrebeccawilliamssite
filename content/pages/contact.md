@@ -68,9 +68,7 @@ sections:
     type: form_section
   - title: Stay in Touch
     content: |
-      ## On Social 
-
-      dfgfd
+      ### On Social
     actions:
       - url: 'https://www.twitter.com/internetrebecca'
         style: link
