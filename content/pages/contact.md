@@ -14,7 +14,7 @@ sections:
     form_width: fifty
     form_layout: inline
     enable_card: true
-    form_id: Submit
+    form_id: Request Type
     form_action: 'mailto:rebecca@rebeccawilliams,us'
     form_fields:
       - input_type: email
