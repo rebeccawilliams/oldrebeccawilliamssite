@@ -46,7 +46,7 @@ sections:
           - Speaking
           - Research and Writing
           - Consultancy
-          - lorem-ipsum
+          - Other
         is_required: true
         type: form_field
       - input_type: textarea
