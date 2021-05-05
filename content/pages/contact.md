@@ -36,7 +36,7 @@ sections:
         options: []
         is_required: false
         type: form_field
-      - input_type: textarea
+      - input_type: select
         name: Request Type
         label: Request Type
         options:
