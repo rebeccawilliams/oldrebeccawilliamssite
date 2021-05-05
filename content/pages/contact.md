@@ -12,7 +12,7 @@ sections:
     content_align: left
     form_position: bottom
     form_width: fifty
-    form_layout: inline
+    form_layout: stacked
     enable_card: true
     form_id: Submit
     form_action: Submit
