@@ -72,8 +72,7 @@ sections:
 
       dfgfd
     actions:
-      - label: lorem-ipsum
-        url: '#'
+      - url: '#'
         style: link
         has_icon: true
         icon: twitter
