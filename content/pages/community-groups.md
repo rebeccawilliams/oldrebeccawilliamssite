@@ -48,6 +48,7 @@ sections:
     has_border: false
     background_color: secondary
     title: Organized to learn about tech x society issues together
+    subtitle: Organized to learn about tech x society issues together
 seo:
   title: Community Groups
   description: This is the community groups page
