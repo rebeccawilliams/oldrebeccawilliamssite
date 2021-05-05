@@ -40,7 +40,7 @@ sections:
         type: action
       - label: lorem-ipsum
         url: '#'
-        style: link
+        style: secondary
         has_icon: true
         icon: instagram
         icon_position: right
