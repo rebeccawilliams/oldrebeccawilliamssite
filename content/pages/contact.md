@@ -38,7 +38,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - url: '#'
+      - url: 'https://www.instagram.com/hannaharendtthedog/'
         style: secondary
         has_icon: true
         icon: instagram
