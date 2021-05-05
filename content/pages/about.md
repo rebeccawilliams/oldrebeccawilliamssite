@@ -3,7 +3,6 @@ title: About
 sections:
   - type: hero_section
     title: About
-    subtitle: For appearances and inquiries
     align: center
     background_color: secondary
   - type: features_section
