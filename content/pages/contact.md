@@ -32,7 +32,7 @@ sections:
         is_required: true
         type: form_field
       - input_type: select
-        name: Request Type
+        name: Regard
         label: Request Type
         options:
           - Press
