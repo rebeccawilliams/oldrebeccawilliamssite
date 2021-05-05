@@ -13,7 +13,7 @@ sections:
     form_id: contact
     form_action: contact
     form_fields:
-      - input_type: text
+      - input_type: email
         name: Email me
         label: Email me
         default_value: lorem-ipsum
