@@ -13,8 +13,7 @@ sections:
         new_window: true
         no_follow: false
         type: action
-      - label: lorem-ipsum
-        url: 'https://www.linkedin.com/in/rebeccaannwilliams/'
+      - url: 'https://www.linkedin.com/in/rebeccaannwilliams/'
         style: secondary
         has_icon: true
         icon: linkedin
