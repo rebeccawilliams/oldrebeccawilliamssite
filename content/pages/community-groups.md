@@ -47,7 +47,6 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: secondary
-    title: Organized to learn about tech x society issues together
     subtitle: Organized to learn about tech x society issues together
 seo:
   title: Community Groups
