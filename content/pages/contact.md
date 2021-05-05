@@ -9,7 +9,7 @@ sections:
 
       *   Press
       *   Speaking
-      *   Research or Writing
+      *   Research and Writing
       *   Consultancy
     content_align: left
     form_position: top
