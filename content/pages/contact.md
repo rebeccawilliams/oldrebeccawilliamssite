@@ -15,7 +15,7 @@ sections:
     form_layout: inline
     enable_card: false
     form_id: Submit
-    form_action: Submit
+    form_action: 'mailto:rebecca@rebeccawilliams,us'
     form_fields:
       - input_type: email
         name: Email
