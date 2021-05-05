@@ -44,7 +44,7 @@ sections:
         options:
           - Press
           - Speaking
-          - Research/Writing/Con
+          - Research/Writing
           - Other
         is_required: true
         type: form_field
