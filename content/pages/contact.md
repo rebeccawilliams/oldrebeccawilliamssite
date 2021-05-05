@@ -42,7 +42,7 @@ sections:
         options:
           - Press
           - Speaking
-          - lorem-ipsum
+          - Research/Writing
         is_required: false
         type: form_field
     submit_label: Submit
