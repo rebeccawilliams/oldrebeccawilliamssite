@@ -7,6 +7,7 @@ sections:
     align: center
     padding_top: large
     padding_bottom: small
+    background_color: primary
   - type: grid_section
     grid_items:
       - title: Civic Tech Book Club
