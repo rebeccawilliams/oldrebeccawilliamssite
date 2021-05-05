@@ -13,7 +13,7 @@ sections:
     form_position: top
     form_width: fifty
     form_layout: inline
-    enable_card: false
+    enable_card: true
     form_id: Submit
     form_action: 'mailto:rebecca@rebeccawilliams,us'
     form_fields:
