@@ -24,7 +24,7 @@ sections:
       - url: 'https://github.com/rebeccawilliams/'
         style: secondary
         has_icon: true
-        icon: arrow-left
+        icon: github
         icon_position: right
         new_window: true
         no_follow: false
