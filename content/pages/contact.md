@@ -6,7 +6,7 @@ sections:
       ### On Social
     actions:
       - url: 'https://www.twitter.com/internetrebecca'
-        style: primary
+        style: secondary
         has_icon: true
         icon: twitter
         icon_position: right
