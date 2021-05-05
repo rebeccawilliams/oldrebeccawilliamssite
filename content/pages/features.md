@@ -2,7 +2,7 @@
 title: Features
 sections:
   - type: hero_section
-    title: Speaking/Press
+    title: Speaking & Press
     background_color: primary
   - title: Conferences
     subtitle: Featured
