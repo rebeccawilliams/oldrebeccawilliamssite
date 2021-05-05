@@ -5,9 +5,7 @@ sections:
     subtitle: Get in Touch
     title_align: center
     content: |
-      ## Guidelines
-
-      Please do not hestiate to get in touch regarding: 
+      Please do not hestiate to get in touch regarding:
 
       *   Press
       *   Speaking
