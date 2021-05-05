@@ -16,7 +16,7 @@ sections:
       - input_type: email
         name: Your Email
         label: Your Email
-        default_value: hello
+        default_value: you@email.com
         options:
           - Name
           - Email
