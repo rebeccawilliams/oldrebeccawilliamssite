@@ -6,7 +6,7 @@ sections:
     align: center
     padding_top: medium
     padding_bottom: none
-    background_color: none
+    background_color: primary
   - type: blog_feed_section
     blog_feed_cols: three
     enable_cards: true
