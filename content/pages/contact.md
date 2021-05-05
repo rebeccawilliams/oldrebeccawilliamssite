@@ -1,63 +1,6 @@
 ---
 title: Contact
 sections:
-  - title: Stay in Touch
-    content: |
-      ### On Social
-    actions:
-      - url: 'https://www.twitter.com/internetrebecca'
-        style: secondary
-        has_icon: true
-        icon: twitter
-        icon_position: right
-        new_window: true
-        no_follow: false
-        type: action
-      - url: 'https://www.instagram.com/hannaharendtthedog/'
-        style: secondary
-        has_icon: true
-        icon: instagram
-        icon_position: right
-        new_window: false
-        no_follow: false
-        type: action
-      - url: 'https://www.linkedin.com/in/rebeccaannwilliams/'
-        style: secondary
-        has_icon: true
-        icon: linkedin
-        icon_position: right
-        new_window: true
-        no_follow: false
-        type: action
-      - url: 'https://github.com/rebeccawilliams/'
-        style: secondary
-        has_icon: true
-        icon: github
-        icon_position: right
-        new_window: true
-        no_follow: false
-        type: action
-      - label: PGP Key
-        url: 'https://keybase.io/RebeccaWilliams/key.asc'
-        style: secondary
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
-        type: action
-    actions_position: bottom
-    actions_width: fourty
-    align: left
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: secondary
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: cta_section
   - title: Contact
     subtitle: Get in Touch
     title_align: center
@@ -123,6 +66,63 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: form_section
+  - title: Stay in Touch
+    content: |
+      ### On Social
+    actions:
+      - url: 'https://www.twitter.com/internetrebecca'
+        style: secondary
+        has_icon: true
+        icon: twitter
+        icon_position: right
+        new_window: true
+        no_follow: false
+        type: action
+      - url: 'https://www.instagram.com/hannaharendtthedog/'
+        style: secondary
+        has_icon: true
+        icon: instagram
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
+      - url: 'https://www.linkedin.com/in/rebeccaannwilliams/'
+        style: secondary
+        has_icon: true
+        icon: linkedin
+        icon_position: right
+        new_window: true
+        no_follow: false
+        type: action
+      - url: 'https://github.com/rebeccawilliams/'
+        style: secondary
+        has_icon: true
+        icon: github
+        icon_position: right
+        new_window: true
+        no_follow: false
+        type: action
+      - label: PGP Key
+        url: 'https://keybase.io/RebeccaWilliams/key.asc'
+        style: secondary
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
+    actions_position: bottom
+    actions_width: fourty
+    align: left
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: secondary
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: cta_section
 seo:
   title: Contact
   description: This is the contact page
