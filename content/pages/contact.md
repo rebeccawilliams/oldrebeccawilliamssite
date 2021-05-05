@@ -16,7 +16,7 @@ sections:
     form_width: fifty
     form_layout: inline
     enable_card: true
-    form_id: Contact
+    form_id: email
     form_action: email
     form_fields:
       - input_type: email
