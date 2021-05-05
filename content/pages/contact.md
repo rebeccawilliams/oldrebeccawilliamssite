@@ -15,7 +15,7 @@ sections:
     form_fields:
       - input_type: email
         name: Your Email
-        label: Email me
+        label: Your E
         default_value: lorem-ipsum
         options:
           - Name
