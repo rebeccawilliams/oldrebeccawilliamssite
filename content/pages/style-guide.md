@@ -125,7 +125,7 @@ This is [an example](http://example.com) link.
       <tr>
         <td>Footer content</td>
         <td>Footer content</td>
-    <td>Footer content</td>
+      <td>Footer content</td>
     <td>Footer content</td>
       </tr>
     </tfoot>
