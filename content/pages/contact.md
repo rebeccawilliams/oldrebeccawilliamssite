@@ -4,7 +4,7 @@ sections:
   - title: Contact
     title_align: center
     content: |
-      Send me an email.
+      Or just send an email to: rebecca@rebeccawilliams.us
     content_align: center
     form_position: top
     form_width: sixty
