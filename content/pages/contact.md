@@ -21,6 +21,7 @@ sections:
           - Name
           - Email
           - Request
+          - lorem-ipsum
         is_required: true
         type: form_field
     submit_label: Email
