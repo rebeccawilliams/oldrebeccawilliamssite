@@ -13,7 +13,6 @@ sections:
         new_window: false
         no_follow: false
         type: action
-        label: Twitter
     actions_position: bottom
     actions_width: fourty
     align: left
