@@ -27,7 +27,7 @@ sections:
           - Request
           - lorem-ipsum
           - Where are you?
-        is_required: true
+        is_required: false
         type: form_field
     submit_label: Submit
     align_vert: top
