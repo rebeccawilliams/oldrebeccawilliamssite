@@ -36,7 +36,7 @@ sections:
     background_image_repeat: no-repeat
     type: form_section
     subtitle: Have a question? Be in touch.
-  - title: lorem-ipsum
+  - title: Contact
     subtitle: lorem-ipsum
     title_align: left
     content: >-
