@@ -1,14 +1,6 @@
 ---
 title: Contact
 sections:
-  - type: hero_section
-    title: Contact
-    subtitle: Have a question? Send me an email and I will be in touch soon.
-    align: center
-    padding_top: small
-    padding_bottom: small
-    has_border: true
-    background_color: none
   - type: grid_section
     grid_items:
       - title: Contact
