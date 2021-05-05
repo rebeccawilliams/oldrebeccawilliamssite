@@ -31,7 +31,7 @@ sections:
         type: action
       - label: PGP (Keybase)
         url: 'https://keybase.io/RebeccaWilliams/key.asc'
-        style: link
+        style: secondary
         has_icon: false
         icon: arrow-left
         icon_position: right
