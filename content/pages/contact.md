@@ -33,7 +33,7 @@ sections:
         type: form_field
       - input_type: select
         name: Subject
-        label: Request Type
+        label: Subject
         options:
           - Press
           - Speaking
