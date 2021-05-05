@@ -14,7 +14,7 @@ sections:
         no_follow: false
         type: action
       - label: lorem-ipsum
-        url: '#'
+        url: 'https://www.linkedin.com/in/rebeccaannwilliams/'
         style: link
         has_icon: true
         icon: linkedin
