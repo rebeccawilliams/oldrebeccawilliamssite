@@ -32,38 +32,7 @@ sections:
         actions: []
   - title: Resume
     subtitle: Curriculum Vitae
-    features:
-      - title: Resume
-        actions:
-          - label: Download PDF
-            url: '#'
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
-          - label: LinkedIn
-            url: '#'
-            style: primary
-            has_icon: true
-            icon: linkedin
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
-        image_alt: resume
-        video_embed_html: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        media_position: top
-        media_width: fifty
-        align: center
-        type: feature
-        image: images/2021 - Rebecca Williams Resume-2.png
-        content: |
-          ![](/images/2021%20-%20Rebecca%20Williams%20Resume-2.png)
+    features: []
     feature_padding_vert: medium
     align: center
     padding_top: medium
