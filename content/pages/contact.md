@@ -37,7 +37,7 @@ sections:
         is_required: false
         type: form_field
       - input_type: text
-        name: 'Press, Speaking, Consultant'
+        name: 'Press, Speaking, Consultancy, '
         label: Request Type
         default_value: lorem-ipsum
         options: []
