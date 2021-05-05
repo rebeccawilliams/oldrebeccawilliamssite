@@ -42,6 +42,7 @@ sections:
         options:
           - Press
           - Speaking
+          - lorem-ipsum
         is_required: false
         type: form_field
     submit_label: Submit
