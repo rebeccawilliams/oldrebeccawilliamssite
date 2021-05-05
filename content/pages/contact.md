@@ -17,7 +17,7 @@ sections:
     form_layout: inline
     enable_card: true
     form_id: Contact
-    form_action: 'mailto:rebecca@rebeccawilliams,us'
+    form_action: email
     form_fields:
       - input_type: email
         name: Email
