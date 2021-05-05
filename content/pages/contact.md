@@ -53,7 +53,14 @@ sections:
     enable_card: true
     form_id: Submit
     form_action: Submit
-    form_fields: []
+    form_fields:
+      - input_type: text
+        name: lorem-ipsum
+        label: lorem-ipsum
+        default_value: lorem-ipsum
+        options: []
+        is_required: false
+        type: form_field
     submit_label: lorem-ipsum
     align_vert: top
     padding_top: medium
