@@ -43,7 +43,7 @@ sections:
         type: form_field
       - input_type: textarea
         name: Message
-        label: Request
+        label: Message
         options: []
         is_required: true
         type: form_field
