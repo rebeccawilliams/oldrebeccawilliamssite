@@ -1,6 +1,31 @@
 ---
 title: Contact
 sections:
+  - title: Stay in Touch
+    content: |
+      ### On Social
+    actions:
+      - url: 'https://www.twitter.com/internetrebecca'
+        style: link
+        has_icon: true
+        icon: twitter
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
+        label: Twitter
+    actions_position: bottom
+    actions_width: fourty
+    align: left
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: none
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: cta_section
   - title: Contact
     subtitle: Get in Touch
     title_align: center
@@ -66,31 +91,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: form_section
-  - title: Stay in Touch
-    content: |
-      ### On Social
-    actions:
-      - url: 'https://www.twitter.com/internetrebecca'
-        style: link
-        has_icon: true
-        icon: twitter
-        icon_position: right
-        new_window: false
-        no_follow: false
-        type: action
-        label: Twitter
-    actions_position: bottom
-    actions_width: fourty
-    align: left
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: cta_section
 seo:
   title: Contact
   description: This is the contact page
