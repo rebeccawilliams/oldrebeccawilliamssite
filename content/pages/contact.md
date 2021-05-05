@@ -41,7 +41,7 @@ sections:
         label: Request Type
         options:
           - Press
-          - lorem-ipsum
+          - Speaking
         is_required: false
         type: form_field
     submit_label: Submit
