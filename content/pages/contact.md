@@ -18,7 +18,7 @@ sections:
         label: Your Email
         default_value: you@email.com
         options:
-          - Name
+          - 'Name '
           - Email
           - Request
         is_required: true
