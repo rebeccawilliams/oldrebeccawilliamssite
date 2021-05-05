@@ -4,11 +4,13 @@ sections:
   - title: Contact
     subtitle: Get in Touch
     title_align: center
-    content: |
-      #### Please do not hestiate to get in touch regarding:
+    content: |+
+      #### Do not hestiate to get in touch regarding:
 
       *   Press
       *   Speaking
+      *   Research/Writing/or Consultancy Work
+
     content_align: left
     form_position: top
     form_width: fifty
