@@ -1,64 +1,86 @@
 ---
 title: Contact
 sections:
-  - title: Contact
-    subtitle: Get in Touch
-    title_align: center
+  - type: hero_section
+    title: Contact
+    align: center
+    padding_top: medium
+    padding_bottom: medium
+    background_color: primary
+  - type: form_section
+    content: >-
+      ### Billing
+
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
+      fringilla, fringilla.
+
+      ### Privacy
+
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
+      fringilla, fringilla.
     content_align: left
-    form_position: bottom
+    form_position: right
     form_width: fifty
     form_layout: inline
     enable_card: true
-    form_id: email
-    form_action: 'mailto:rebecca@rebeccawilliams.us'
+    form_id: contact-form
+    form_action: /thank-you
     form_fields:
       - input_type: text
-        name: Name Name
+        name: name
         label: Name
-        default_value: Name Name
-        options: []
+        default_value: Your name
         is_required: true
-        type: form_field
       - input_type: email
-        name: Email
+        name: email
         label: Email
-        default_value: you@email.com
-        options:
-          - 'Name '
-          - Email
-          - Request
-          - lorem-ipsum
-          - Where are you?
+        default_value: Your email address
         is_required: true
-        type: form_field
       - input_type: select
-        name: Subject
+        name: subject
         label: Subject
+        default_value: Please select
         options:
-          - Press
-          - Speaking
-          - Research and Writing
-          - Consultancy
-        is_required: true
-        type: form_field
+          - Error on the site
+          - Sponsorship
+          - Other
       - input_type: textarea
-        name: Message
+        name: message
         label: Message
-        options: []
+        default_value: Your message
+      - input_type: checkbox
+        name: consent
+        label: >-
+          I understand that this form is storing my submitted information so I
+          can be contacted.
         is_required: true
-        type: form_field
-    submit_label: Submit
+    submit_label: Send Message
     align_vert: top
     padding_top: medium
     padding_bottom: medium
-    has_border: false
     background_color: secondary
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: form_section
-  - title: Stay in Touch
+seo:
+  title: General Enquiries
+  description: This is the general enquiries page
+  extra:
+    - name: 'og:type'
+      value: website
+      keyName: property
+    - name: 'og:title'
+      value: General Enquiries
+      keyName: property
+    - name: 'og:description'
+      value: This is the general enquiries page
+      keyName: property
+    - name: 'twitter:card'
+      value: summary
+    - name: 'twitter:title'
+      value: General Enquiries
+    - name: 'twitter:description'
+      value: This is the general enquiries page
+ - title: Stay in Touch
     content: |
       ### On Social
     actions:
