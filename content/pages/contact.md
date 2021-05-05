@@ -22,7 +22,7 @@ sections:
         no_follow: false
         type: action
       - label: lorem-ipsum
-        url: '#'
+        url: 'https://github.com/rebeccawilliams/'
         style: link
         has_icon: false
         icon: arrow-left
