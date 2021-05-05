@@ -39,7 +39,8 @@ sections:
       - input_type: text
         name: Request Type
         label: Request Type
-        options: []
+        options:
+          - lorem-ipsum
         is_required: false
         type: form_field
     submit_label: Submit
