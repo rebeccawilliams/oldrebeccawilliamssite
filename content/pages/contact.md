@@ -39,17 +39,13 @@ sections:
   - title: Contact
     subtitle: Get in Touch
     title_align: left
-    content: >-
-      ## Lorem ipsum
+    content: |
+      ## Guidelines
 
+      Please do not hestiate to get in touch regarding: 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      *   Press
+      *   Speaking
     content_align: left
     form_position: bottom
     form_width: fifty
