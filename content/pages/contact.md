@@ -10,7 +10,7 @@ sections:
       *   Press
       *   Speaking
     content_align: left
-    form_position: right
+    form_position: bottom
     form_width: fifty
     form_layout: stacked
     enable_card: true
