@@ -39,7 +39,6 @@ sections:
           - Speaking
           - Research and Writing
           - Consultancy
-          - Other
         is_required: true
         type: form_field
       - input_type: textarea
