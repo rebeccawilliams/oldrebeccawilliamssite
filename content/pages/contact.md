@@ -48,7 +48,7 @@ sections:
         type: form_field
       - input_type: text
         name: Message
-        label: Message
+        label: Request
         default_value: lorem-ipsum
         options: []
         is_required: false
