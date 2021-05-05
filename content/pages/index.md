@@ -4,11 +4,11 @@ sections:
   - type: hero_section
     title: Rebecca Williams
     content: >
-      Rebecca Williams is deeply curious about how new data/tech schemes double
-      down on our worst injustices and upend how we think about things and she
-      is also interested in oil painting, poetry, and laying in the grass. She
-      has lived along the Northeast Regional Amtrak line her whole life and
-      currently lives in Brooklyn with her dog, Hannah Arendt.
+      Rebecca Williams is a researcher and writer deeply interested in how data
+      and technology reconstructs power in society. She is also interested in
+      oil painting, poetry, and picnics. She has lived along the Northeast
+      Regional Amtrak line her whole life and currently lives in Brooklyn with
+      her dog, Hannah Arendt.
     actions:
       - label: Contact
         url: /contact
