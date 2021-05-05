@@ -21,8 +21,7 @@ sections:
         new_window: true
         no_follow: false
         type: action
-      - label: lorem-ipsum
-        url: 'https://github.com/rebeccawilliams/'
+      - url: 'https://github.com/rebeccawilliams/'
         style: link
         has_icon: false
         icon: arrow-left
