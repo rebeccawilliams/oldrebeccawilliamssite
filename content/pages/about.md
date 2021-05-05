@@ -2,7 +2,7 @@
 title: About
 sections:
   - type: hero_section
-    title: Bio/Resume
+    title: About
     subtitle: For appearances and inquiries
     align: center
     background_color: secondary
