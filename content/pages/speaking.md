@@ -1,5 +1,5 @@
 ---
-title: Features
+title: Speaking
 sections:
   - type: hero_section
     title: Speaking & Press
