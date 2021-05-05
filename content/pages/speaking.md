@@ -242,14 +242,14 @@ sections:
     background_image_repeat: no-repeat
     type: cta_section
 seo:
-  title: Features
+  title: Speaking
   description: This is the features page
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Features
+      value: Speaking
       keyName: property
     - name: 'og:description'
       value: This is the features page
@@ -261,7 +261,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Features
+      value: Speaking
     - name: 'twitter:description'
       value: This is the features page
     - name: 'twitter:image'
