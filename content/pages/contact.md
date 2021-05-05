@@ -19,7 +19,7 @@ sections:
     form_fields:
       - input_type: email
         name: Email
-        label: Your Email
+        label: Email
         default_value: you@email.com
         options:
           - 'Name '
