@@ -36,7 +36,7 @@ sections:
         options: []
         is_required: true
         type: form_field
-      - input_type: select
+      - input_type: checkbox
         name: Request Type
         label: Request Type
         options:
