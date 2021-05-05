@@ -23,7 +23,7 @@ sections:
         type: action
       - url: 'https://github.com/rebeccawilliams/'
         style: secondary
-        has_icon: false
+        has_icon: true
         icon: arrow-left
         icon_position: right
         new_window: false
