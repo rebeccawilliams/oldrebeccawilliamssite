@@ -44,7 +44,7 @@ sections:
         options:
           - Press
           - Speaking
-          - Research/Writing
+          - Research & Writing
           - Consultancy
         is_required: true
         type: form_field
