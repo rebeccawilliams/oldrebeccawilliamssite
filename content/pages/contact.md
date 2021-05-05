@@ -29,7 +29,7 @@ sections:
         new_window: true
         no_follow: false
         type: action
-      - label: PGP (Keybase)
+      - label: PGP Key
         url: 'https://keybase.io/RebeccaWilliams/key.asc'
         style: secondary
         has_icon: false
