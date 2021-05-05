@@ -17,7 +17,7 @@ sections:
         url: '#'
         style: link
         has_icon: false
-        icon: linkedin
+        icon: instagram
         icon_position: right
         new_window: false
         no_follow: false
