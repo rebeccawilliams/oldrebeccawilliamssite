@@ -3,7 +3,7 @@ title: Contact
 sections:
   - title: Contact
     subtitle: Get in Touch
-    title_align: left
+    title_align: center
     content: |
       ## Guidelines
 
