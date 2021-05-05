@@ -16,7 +16,7 @@ sections:
       - url: 'https://www.linkedin.com/in/rebeccaannwilliams/'
         style: secondary
         has_icon: true
-        icon: github
+        icon: linkedin
         icon_position: right
         new_window: true
         no_follow: false
