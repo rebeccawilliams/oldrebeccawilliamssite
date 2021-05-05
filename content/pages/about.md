@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: About
     align: center
-    background_color: secondary
+    background_color: primary
   - type: features_section
     features:
       - title: Biography and Headshot
