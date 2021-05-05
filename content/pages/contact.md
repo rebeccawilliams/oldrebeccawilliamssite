@@ -22,7 +22,7 @@ sections:
         label: Email
         default_value: you@email.com
         options:
-          - Name
+          - 'Name '
           - Email
           - Request
           - lorem-ipsum
