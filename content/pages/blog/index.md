@@ -21,6 +21,7 @@ sections:
     padding_bottom: large
     has_border: true
     background_color: secondary
+    subtitle: From across the web.
 seo:
   title: Blog
   description: This is the blog page
