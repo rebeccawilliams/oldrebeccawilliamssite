@@ -39,7 +39,6 @@ sections:
       - input_type: text
         name: Request Type
         label: Request Type
-        default_value: 'Press, Speaking, Research, Writing, Other'
         options: []
         is_required: false
         type: form_field
