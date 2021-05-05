@@ -3,7 +3,6 @@ title: Community Groups
 sections:
   - type: hero_section
     title: Community Groups
-    subtitle: Organized to learn about tech x society issues together
     align: center
     padding_top: large
     padding_bottom: small
