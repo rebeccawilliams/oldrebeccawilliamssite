@@ -13,6 +13,14 @@ sections:
         new_window: true
         no_follow: false
         type: action
+      - url: 'https://www.instagram.com/hannaharendtthedog/'
+        style: secondary
+        has_icon: true
+        icon: instagram
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
       - url: 'https://www.linkedin.com/in/rebeccaannwilliams/'
         style: secondary
         has_icon: true
@@ -34,14 +42,6 @@ sections:
         style: secondary
         has_icon: false
         icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
-        type: action
-      - url: 'https://www.instagram.com/hannaharendtthedog/'
-        style: secondary
-        has_icon: true
-        icon: instagram
         icon_position: right
         new_window: false
         no_follow: false
