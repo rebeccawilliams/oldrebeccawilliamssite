@@ -16,7 +16,7 @@ sections:
       - input_type: email
         name: Your Email
         label: Your Email
-        default_value: lorem-ipsum
+        default_value: hell
         options:
           - Name
           - Email
