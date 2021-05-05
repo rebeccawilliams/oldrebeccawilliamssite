@@ -34,7 +34,7 @@ sections:
         label: Name
         default_value: Name Name
         options: []
-        is_required: false
+        is_required: true
         type: form_field
       - input_type: select
         name: Request Type
