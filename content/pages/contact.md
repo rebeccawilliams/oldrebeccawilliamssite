@@ -37,7 +37,7 @@ sections:
     type: form_section
     subtitle: Have a question? Be in touch.
   - title: Contact
-    subtitle: lorem-ipsum
+    subtitle: Get in Touch
     title_align: left
     content: >-
       ## Lorem ipsum
