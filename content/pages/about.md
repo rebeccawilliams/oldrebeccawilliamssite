@@ -30,6 +30,7 @@ sections:
         media_position: right
         media_width: fifty
         actions: []
+    background_color: secondary
 seo:
   title: About
   description: This is the about us page
