@@ -61,7 +61,7 @@ sections:
         options:
           - Name
           - Email
-          - lorem-ipsum
+          - Re
         is_required: true
         type: form_field
     submit_label: lorem-ipsum
