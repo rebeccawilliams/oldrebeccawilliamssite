@@ -15,7 +15,7 @@ sections:
         type: action
       - label: lorem-ipsum
         url: 'https://www.linkedin.com/in/rebeccaannwilliams/'
-        style: link
+        style: secondary
         has_icon: true
         icon: linkedin
         icon_position: right
