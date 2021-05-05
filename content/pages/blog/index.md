@@ -3,7 +3,6 @@ title: Blog
 sections:
   - type: hero_section
     title: Writing
-    subtitle: From across the web over time.
     align: center
     padding_top: medium
     padding_bottom: none
