@@ -12,6 +12,13 @@ sections:
     form_id: email
     form_action: 'mailto:rebecca@rebeccawilliams.us'
     form_fields:
+      - input_type: text
+        name: Name Name
+        label: Name
+        default_value: Name Name
+        options: []
+        is_required: true
+        type: form_field
       - input_type: email
         name: Email
         label: Email
@@ -22,13 +29,6 @@ sections:
           - Request
           - lorem-ipsum
           - Where are you?
-        is_required: true
-        type: form_field
-      - input_type: text
-        name: Name Name
-        label: Name
-        default_value: Name Name
-        options: []
         is_required: true
         type: form_field
       - input_type: select
