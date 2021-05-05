@@ -98,7 +98,7 @@ This is [an example](http://example.com) link.
 
 <div class="responsive-table">
   <table>
-      <caption>Table with thead, tfoot, and tbody</caption>
+      <caption>Table with thead, tfoot, and tbody Hello.</caption>
     <thead>
       <tr>
         <th>Event</th>
