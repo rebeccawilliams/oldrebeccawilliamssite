@@ -43,10 +43,9 @@ sections:
         label: Subject
         default_value: Please select
         options:
-          - Press
-          - Speaking
-          - Research & Writing
-          - Consultancy
+          - Error on the site
+          - Sponsorship
+          - Other
       - input_type: textarea
         name: message
         label: Message
@@ -63,24 +62,24 @@ sections:
     padding_bottom: medium
     background_color: secondary
 seo:
-  title: Contact
-  description: This is the contact page
+  title: General Enquiries
+  description: This is the general enquiries page
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Contact
+      value: General Enquiries
       keyName: property
     - name: 'og:description'
-      value: This is the contact page
+      value: This is the general enquiries page
       keyName: property
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Contact
+      value: General Enquiries
     - name: 'twitter:description'
-      value: This is the contact page
+      value: This is the general enquiries page
  - title: Stay in Touch
     content: |
       ### On Social
