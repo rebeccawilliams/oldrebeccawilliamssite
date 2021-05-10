@@ -1,5 +1,5 @@
 ---
-title: Speaking
+title: Features
 sections:
   - type: hero_section
     title: Speaking & Press
@@ -242,14 +242,14 @@ sections:
     background_image_repeat: no-repeat
     type: cta_section
 seo:
-  title: Speaking
+  title: Features
   description: This is the features page
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Speaking
+      value: Features
       keyName: property
     - name: 'og:description'
       value: This is the features page
@@ -261,7 +261,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Speaking
+      value: Features
     - name: 'twitter:description'
       value: This is the features page
     - name: 'twitter:image'
