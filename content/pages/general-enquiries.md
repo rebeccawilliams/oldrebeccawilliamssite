@@ -1,8 +1,8 @@
 ---
-title: Contact
+title: General Enquiries
 sections:
   - type: hero_section
-    title: Contact
+    title: General Enquiries
     align: center
     padding_top: medium
     padding_bottom: medium
@@ -138,14 +138,14 @@ seo:
     background_image_repeat: no-repeat
     type: cta_section
 seo:
-  title: Contact
+  title: General Enquiries
   description: This is the contact page
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Contact
+      value: General Enquiries
       keyName: property
     - name: 'og:description'
       value: This is the contact page
@@ -153,7 +153,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Contact
+      value: General Enquiries
     - name: 'twitter:description'
       value: This is the contact page
 layout: advanced
