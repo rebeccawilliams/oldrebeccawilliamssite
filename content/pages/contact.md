@@ -80,7 +80,7 @@ seo:
       value: General Enquiries
     - name: 'twitter:description'
       value: This is the general enquiries page
- - title: Stay in Touch
+ - title: Social
     content: |
       ### On Social
     actions:
