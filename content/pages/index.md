@@ -22,7 +22,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: features_section
-    title: Projects
+    title: Recent Projects
     subtitle: Follow Recent
     features:
       - title: Technology and Public Purpose Project Research
