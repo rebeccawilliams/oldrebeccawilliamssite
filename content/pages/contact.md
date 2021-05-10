@@ -2,7 +2,7 @@
 title: General Enquiries
 sections:
   - type: hero_section
-    title: General Enquiries
+    title: Contact
     align: center
     padding_top: medium
     padding_bottom: medium
