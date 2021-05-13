@@ -110,7 +110,9 @@ sections:
             new_window: false
             no_follow: false
             type: action
-          - label: lorem-ipsum
+          - label: >-
+              Every Sector's Role in Protecting and Promoting Democracy with
+              Technology
             url: '#'
             style: link
             has_icon: false
