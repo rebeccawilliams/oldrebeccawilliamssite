@@ -44,6 +44,7 @@ seo:
       value: images/classic/post-5.png
       relativeUrl: true
 layout: post
+author: content/data/team/dianne-ameter.yaml
 ---
 The Belfer Center, home of the Technology and Public Purpose (TAPP) project, was originally created to analyze dangers posed by nuclear
 technology. When people ask about my TAPP fellowship, I usually say that I am doing the same analysis, but for “smart cities.” Even for folks
