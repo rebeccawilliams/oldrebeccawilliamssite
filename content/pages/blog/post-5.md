@@ -1,5 +1,5 @@
 ---
-title: What's so Dangerous About Smart Cities Anyway?
+title: 'Everything Local Surveillance Laws Are Missing In One Post '
 subtitle: An Outline of Five "Smart City" Harms and a Call for Feedback
 date: '2020-12-16'
 categories:
