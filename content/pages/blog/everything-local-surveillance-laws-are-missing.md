@@ -24,7 +24,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Amet Nulla Facilisi Morbi Tempus
+      value: Everything Local Surveillance Laws Are Missing In One Post
       keyName: property
     - name: 'og:description'
       value: An Analysis of Gaps in Surveillance Technology Laws
