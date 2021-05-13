@@ -2,7 +2,7 @@
 title: News
 sections:
   - type: hero_section
-    title: News
+    title: Personal
     subtitle: The optional subtitle
     align: center
     padding_top: medium
