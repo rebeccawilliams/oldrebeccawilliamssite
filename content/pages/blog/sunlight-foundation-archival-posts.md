@@ -28,7 +28,9 @@ seo:
       value: Utrum Igitur Tibi Litteram Videor An Totas Paginas
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: >-
+        Archival posts from 2013-2014 at the Sunlight Foundation related to open
+        data policies and practices.
       keyName: property
     - name: 'og:image'
       value: images/classic/post-1.png
