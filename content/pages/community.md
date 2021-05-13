@@ -49,7 +49,7 @@ sections:
     background_color: secondary
     subtitle: Organized to learn about tech and society issues together.
     title: Educational Groups
-  - title: lorem-ipsum
+  - title: Teaching & Trainings
     content: >-
       ## Lorem ipsum
 
