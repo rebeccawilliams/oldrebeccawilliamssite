@@ -20,6 +20,7 @@ sections:
     padding_top: small
     padding_bottom: large
     has_border: true
+    title: personal
 seo:
   title: Posts in News
   description: This is the author archive page
