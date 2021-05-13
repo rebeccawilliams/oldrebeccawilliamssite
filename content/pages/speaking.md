@@ -146,7 +146,7 @@ sections:
           - dolor sit amet
         content_align: left
         actions:
-          - label: lorem-ipsum
+          - label: 'Urban futures: collective action towards humane digital cities'
             url: '#'
             style: link
             has_icon: false
