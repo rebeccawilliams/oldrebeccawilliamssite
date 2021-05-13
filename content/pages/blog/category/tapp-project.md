@@ -41,7 +41,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Posts in General
+      value: TAPP Project
     - name: 'twitter:description'
       value: Posts associated with Rebecca Williams' work at the TAPP Project
     - name: 'twitter:image'
