@@ -5,7 +5,6 @@ subtitle: >-
   allowed to use a Federal (Tech) Policy Analyst.
 date: '2020-10-15'
 categories:
-  - content/data/categories/news.yaml
   - content/data/categories/general.yaml
 tags:
   - content/data/tags/jamstack.yaml
