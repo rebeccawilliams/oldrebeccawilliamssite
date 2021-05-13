@@ -8,25 +8,40 @@ sections:
     subtitle: Featured
     actions: []
     grid_items:
-      - title: SXSW
-        subtitle: South by Southwest
+      - title: Harvard Kennedy School
+        subtitle: lorem-ipsum
         title_align: left
+        content: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
         content_align: left
         actions:
-          - label: 'Your Laws, Your Data (2015)'
-            url: 'https://schedule.sxsw.com/2015/events/event_IAP35484'
+          - label: Whose Steets? Our Streets! (Tech Edition)
+            url: >-
+              https://www.belfercenter.org/event/whose-streets-our-streets-tech-edition#!watch-here-
             style: primary
             has_icon: true
-            icon: arrow-right
+            icon: youtube
             icon_position: right
             new_window: false
             no_follow: false
             type: action
-          - label: Fighting Crime with Data (2017)
-            url: 'https://schedule.sxsw.com/2017/events/PP65197'
+          - label: >-
+              Every Sector's Role in Protecting and Promoting Democracy with
+              Technology
+            url: >-
+              https://www.belfercenter.org/event/every-sectors-role-protecting-and-promoting-democracy-technology
             style: primary
             has_icon: true
-            icon: arrow-right
+            icon: youtube
             icon_position: right
             new_window: false
             no_follow: false
@@ -39,7 +54,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/General_SXSW.0.jpg
+        image: images/Screen Shot 2021-05-13 at 2.59.45 AM.png
       - title: NICAR
         subtitle: National Institute for Computer-Assisted Reporting
         title_align: left
@@ -84,6 +99,38 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/ire_and_nicar_thumbnail.jpg
+      - title: SXSW
+        subtitle: South by Southwest
+        title_align: left
+        content_align: left
+        actions:
+          - label: 'Your Laws, Your Data (2015)'
+            url: 'https://schedule.sxsw.com/2015/events/event_IAP35484'
+            style: primary
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
+          - label: Fighting Crime with Data (2017)
+            url: 'https://schedule.sxsw.com/2017/events/PP65197'
+            style: primary
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
+        image: images/General_SXSW.0.jpg
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
