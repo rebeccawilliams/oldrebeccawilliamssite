@@ -52,7 +52,7 @@ seo:
         documenting trends in the surveillance of public space with a companion
         newsletter on substack.
     - name: 'twitter:image'
-      value: images/classic/post-4.png
+      value: /images/Screen%20Shot%202021-03-28%20at%209.18.28%20PM.png
       relativeUrl: true
 layout: post
 thumb_image: images/whosestreets.png
