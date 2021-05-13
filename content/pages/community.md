@@ -2,7 +2,7 @@
 title: Community Groups
 sections:
   - type: hero_section
-    title: Community Groups
+    title: Community
     align: center
     padding_top: large
     padding_bottom: small
