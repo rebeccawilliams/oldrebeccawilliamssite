@@ -42,7 +42,7 @@ sections:
         actions:
           - label: Join or Co-organize
             url: 'https://dc.legalhackers.org/'
-            style: link
+            style: primary
             has_icon: true
             icon: arrow-right
             icon_position: right
