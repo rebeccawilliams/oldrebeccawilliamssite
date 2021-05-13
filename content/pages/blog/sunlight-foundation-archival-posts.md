@@ -41,7 +41,9 @@ seo:
     - name: 'twitter:title'
       value: Utrum Igitur Tibi Litteram Videor An Totas Paginas
     - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: >-
+        Archival posts from 2013-2014 at the Sunlight Foundation related to open
+        data policies and practices.
     - name: 'twitter:image'
       value: images/classic/post-1.png
       relativeUrl: true
