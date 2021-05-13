@@ -7,8 +7,7 @@ sections:
     background_color: primary
   - type: features_section
     features:
-      - title: Biography & Headshot
-        subtitle: Civic Technology and Information Policy Analyst
+      - subtitle: Civic Technology and Information Policy Analyst
         content: >
           **Rebecca Williams** is an expert in government data and technology
           policy. She has worked at all jurisdiction levels, inside and outside
@@ -40,15 +39,13 @@ sections:
           about the latest thing you enjoyed and why over a coffee, tea, or a
           drink to better understand herself and everything.
         actions: []
-        image_alt: lorem-ipsum
-        video_embed_html: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        image_alt: with hannah
         media_position: left
         media_width: fifty
         align: left
         type: feature
         image: images/2019-02-24-hannah_2880.webp
+        title: ' '
     background_color: secondary
 seo:
   title: About | Rebecca Williams
