@@ -15,7 +15,7 @@ sections:
         image_alt: Civic Tech Book Club screenshot
         subtitle: 2015-present (Organizer)
         actions:
-          - label: Join/Read
+          - label: Join or Read Along
             url: 'https://civictechbook.club'
             style: primary
             has_icon: true
