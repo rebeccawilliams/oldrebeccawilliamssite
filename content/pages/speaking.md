@@ -35,7 +35,7 @@ sections:
       - title_align: left
         content_align: left
         actions:
-          - label: Whose Steets? Our Streets! (Tech Edition)
+          - label: Whose Steets? Our Streets! (2020)
             url: >-
               https://www.belfercenter.org/event/whose-streets-our-streets-tech-edition#!watch-here-
             style: primary
