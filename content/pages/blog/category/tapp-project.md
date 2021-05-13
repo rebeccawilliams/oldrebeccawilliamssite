@@ -20,7 +20,7 @@ sections:
     padding_top: small
     padding_bottom: large
     has_border: true
-    title: Whose Streets
+    title: Whose Streets? Our Streets! (Tech Edition)
 seo:
   title: Posts in General
   description: This is the author archive page
