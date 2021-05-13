@@ -62,7 +62,7 @@ sections:
     padding_bottom: medium
     background_color: secondary
 seo:
-  title: General Enquiries
+  title: Contact | Rebecca Williams
   description: This is the general enquiries page
   extra:
     - name: 'og:type'
