@@ -2,7 +2,8 @@
 title: 'Everything Local Surveillance Laws Are Missing In One Post '
 subtitle: An Analysis of Gaps in Surveillance Technology Laws
 date: '2021-04-26'
-categories: []
+categories:
+  - content/data/categories/category-apoc3kfww.json
 tags:
   - content/data/tags/stackbit.yaml
 excerpt: An Analysis of Gaps in Surveillance Technology Laws
