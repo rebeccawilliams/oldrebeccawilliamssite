@@ -34,7 +34,7 @@ sections:
     has_border: false
     background_color: secondary
     align: center
-  - title: lorem-ipsum
+  - title: Fun
     subtitle: lorem-ipsum
     features: []
     feature_padding_vert: medium
