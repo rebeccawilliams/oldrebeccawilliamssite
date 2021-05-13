@@ -3,7 +3,7 @@ title: whats-so-dangerous-about-smart-cities-anyway
 date: '2021-05-13'
 categories: []
 tags: []
-excerpt: lorem-ipsum
+excerpt: An Outline of Five "smart city" Harms and a Call for Feedback
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 image_position: top
