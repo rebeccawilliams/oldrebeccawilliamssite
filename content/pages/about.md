@@ -23,18 +23,18 @@ sections:
           10 Women to Watch in Legal Tech.
 
 
-          She would like to see modern tools with all their capabilities used in
+          She would like to see modern tools–with all their capabilities–used in
           the service of justice and democracy and speaks about how that is too
           often not the case in niche and broad ways on Twitter and elsewhere.
           She is the daughter of a psychologist and tax attorney from a
-          struggling "most dangerous" city who gets the bottom line. According
-          to her father, she is a "true millennial," and she can definitely
-          attest to what she sees as fundamental generational pressures and
-          trends. She sees the world in power struggles, trajectories, and
-          people talking past each other. She believes in art, balance, cutting
-          out what doesn't work, density & diversity, and humor. She wants to
-          ask you about the latest thing you enjoyed and why over a coffee, tea,
-          or drink.
+          struggling *Most Dangerous *city who gets the bottom line. According
+          to her father, she is a true millennial, and she can definitely attest
+          to what she sees as fundamental generational pressures and trends. She
+          sees the world in power struggles, trajectories, and people talking
+          past each other. She believes in art, balance, cutting out what
+          doesn't work, density, diversity, and humor. She wants to ask you
+          about the latest thing you enjoyed and why over a coffee, tea, or
+          drink to better understand herself and everything. 
         image: images/superb-tulip.png
         image_alt: People in conversation in the office lounge area
         media_position: right
