@@ -8,38 +8,6 @@ sections:
     subtitle: Featured
     actions: []
     grid_items:
-      - title: SXSW
-        subtitle: South by Southwest
-        title_align: left
-        content_align: left
-        actions:
-          - label: 'Your Laws, Your Data (2015)'
-            url: 'https://schedule.sxsw.com/2015/events/event_IAP35484'
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
-          - label: Fighting Crime with Data (2017)
-            url: 'https://schedule.sxsw.com/2017/events/PP65197'
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-        image: images/General_SXSW.0.jpg
       - title: NICAR
         subtitle: National Institute for Computer-Assisted Reporting
         title_align: left
@@ -84,6 +52,38 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/ire_and_nicar_thumbnail.jpg
+      - title: SXSW
+        subtitle: South by Southwest
+        title_align: left
+        content_align: left
+        actions:
+          - label: 'Your Laws, Your Data (2015)'
+            url: 'https://schedule.sxsw.com/2015/events/event_IAP35484'
+            style: primary
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
+          - label: Fighting Crime with Data (2017)
+            url: 'https://schedule.sxsw.com/2017/events/PP65197'
+            style: primary
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
+        image: images/General_SXSW.0.jpg
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
