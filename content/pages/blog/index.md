@@ -34,7 +34,7 @@ seo:
       value: Blog | Rebecca Williams
       keyName: property
     - name: 'og:description'
-      value: This is the blog page
+      value: This is a collection of Rebecca Williams' writing.
       keyName: property
     - name: 'og:image'
       value: /images/caring-sage.gif
