@@ -37,7 +37,7 @@ seo:
     - name: 'twitter:title'
       value: What's so Dangerous About Smart Cities Anyway?
     - name: 'twitter:description'
-      value: 'Estne, quaeso, inquam, sitienti in bibendo voluptas'
+      value: An Outline of Five "Smart City" Harms and a Call for Feedback
     - name: 'twitter:image'
       value: images/classic/post-5.png
       relativeUrl: true
