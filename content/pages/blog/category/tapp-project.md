@@ -35,7 +35,7 @@ seo:
       value: Posts associated with Rebecca Williams' work at the TAPP Project
       keyName: property
     - name: 'og:image'
-      value: images/classic/post-5.png
+      value: /images/Screen%20Shot%202021-05-13%20at%202.59.45%20AM.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
