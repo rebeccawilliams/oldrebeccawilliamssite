@@ -8,6 +8,53 @@ sections:
     subtitle: Featured
     actions: []
     grid_items:
+      - title: Harvard Kennedy School
+        subtitle: lorem-ipsum
+        title_align: left
+        content: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        content_align: left
+        actions:
+          - label: Whose Steets? Our Streets! (Tech Edition)
+            url: >-
+              https://www.belfercenter.org/event/whose-streets-our-streets-tech-edition#!watch-here-
+            style: primary
+            has_icon: true
+            icon: youtube
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
+          - label: >-
+              Every Sector's Role in Protecting and Promoting Democracy with
+              Technology
+            url: >-
+              https://www.belfercenter.org/event/every-sectors-role-protecting-and-promoting-democracy-technology
+            style: primary
+            has_icon: true
+            icon: youtube
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
+        image: images/Screen Shot 2021-05-13 at 2.59.45 AM.png
       - title: NICAR
         subtitle: National Institute for Computer-Assisted Reporting
         title_align: left
@@ -84,53 +131,6 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/General_SXSW.0.jpg
-      - title: Harvard Kennedy School
-        subtitle: lorem-ipsum
-        title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
-        content_align: left
-        actions:
-          - label: Whose Steets? Our Streets! (Tech Edition)
-            url: >-
-              https://www.belfercenter.org/event/whose-streets-our-streets-tech-edition#!watch-here-
-            style: primary
-            has_icon: true
-            icon: youtube
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
-          - label: >-
-              Every Sector's Role in Protecting and Promoting Democracy with
-              Technology
-            url: >-
-              https://www.belfercenter.org/event/every-sectors-role-protecting-and-promoting-democracy-technology
-            style: primary
-            has_icon: true
-            icon: youtube
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-        image: images/Screen Shot 2021-05-13 at 2.59.45 AM.png
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
