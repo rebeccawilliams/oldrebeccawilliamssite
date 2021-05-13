@@ -6,6 +6,7 @@ subtitle: >-
 date: '2020-10-15'
 categories:
   - content/data/categories/category-c6qjlb0rm.json
+  - content/data/categories/category-64t9y3n0h.json
 tags: []
 excerpt: >-
   My ironic but not "Uses This" interview detailing what technology I was
