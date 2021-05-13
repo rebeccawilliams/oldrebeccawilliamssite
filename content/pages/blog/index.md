@@ -22,7 +22,7 @@ sections:
     has_border: true
     background_color: secondary
     subtitle: From across the web.
-    title: Recent Articles
+    title: Recent Publications
 seo:
   title: Blog
   description: This is the blog page
