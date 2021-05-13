@@ -23,7 +23,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: 'Non Minor, Inquit, Voluptas Percipitur Ex Vilissimis'
+      value: What a Federal Policy Analyst Uses
       keyName: property
     - name: 'og:description'
       value: Quae diligentissime contra Aristonem dicuntur a Chryippo
