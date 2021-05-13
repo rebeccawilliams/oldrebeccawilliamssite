@@ -25,6 +25,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
+        content_align: center
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
