@@ -43,8 +43,8 @@ sections:
 
 
           According to her father, she is a [true
-          millennial](https://twitter.com/chrisfluming/status/1368732411400396804?s=20),
-          and she can accurately attest to what she sees as fundamental
+          millennial](https://twitter.com/chrisfluming/status/1368732411400396804?s=20).
+          Either way, she can comfortably attest to what she sees as fundamental
           generational pressures and trends. She sees the world in power
           struggles, trajectories, and people talking past each other. She
           believes in art, balance, cutting out what doesn't work, density,
