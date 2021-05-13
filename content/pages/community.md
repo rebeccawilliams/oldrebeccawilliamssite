@@ -78,7 +78,7 @@ seo:
       value: Community
       keyName: property
     - name: 'og:description'
-      value: This is the community groups page
+      value: This is a page o
       keyName: property
     - name: 'og:image'
       value: images/about-3.jpg
