@@ -94,7 +94,7 @@ This is <mark>marked or highlighted</mark> text.
 
 This is [an example](http://example.com) link.
 
-## Tables
+## Other Apperances
 
 <div class="responsive-table">
   <table>
