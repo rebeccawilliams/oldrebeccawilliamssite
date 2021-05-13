@@ -10,9 +10,11 @@ sections:
     grid_items:
       - title_align: left
         content: |
-          ### Urban futures: Collective action towards humane digital cities
+          ## Urban futures: 
 
-          June 7-11, 2021
+          ##### Collective action towards humane digital cities
+
+          ###### June 7-11, 2021
         content_align: left
         actions:
           - label: Register
