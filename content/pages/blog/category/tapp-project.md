@@ -43,7 +43,7 @@ seo:
     - name: 'twitter:title'
       value: Posts in General
     - name: 'twitter:description'
-      value: This is the author archive page
+      value: Posts associated with Rebecca Williams' work at the TAPP Project
     - name: 'twitter:image'
       value: images/classic/post-5.png
       relativeUrl: true
