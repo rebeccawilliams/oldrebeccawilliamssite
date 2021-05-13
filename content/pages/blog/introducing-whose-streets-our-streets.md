@@ -4,6 +4,7 @@ subtitle: Developing Interventions to Protect Civil Liberties in a 'Smart City'
 date: '2020-10-21'
 categories:
   - content/data/categories/category-apoc3kfww.json
+  - content/data/categories/category-r37p04mhn.json
 tags:
   - content/data/tags/stackbit.yaml
 excerpt: Developing Interventions to Protect Civil Liberties in a 'Smart City'
