@@ -22,7 +22,7 @@ sections:
           - dolor sit amet
         content_align: left
         actions:
-          - label: 'Urban futures: collective action towards humane digital cities'
+          - label: Urban futures
             url: >-
               https://www.rightscon.org/program/?fwp_session_category=privacy-and-surveillance
             style: primary
