@@ -11,9 +11,9 @@ sections:
     content: |
       ### Stay in Touch
 
-      rebecca@rebeccawilliams.us
+      Email is the best way to reach me: rebecca@rebeccawilliams.us.
 
-      Please stay in touch via my social media feeds. 
+      And please stay in touch via my social media feeds (see footer).
 
       ### PGP Key
 
