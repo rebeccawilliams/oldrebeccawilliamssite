@@ -19,7 +19,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Amet Nulla Facilisi Morbi Tempus
+      value: What Should You Consider When Investing In “Smart City” Technology?
       keyName: property
     - name: 'og:description'
       value: 'Estne, quaeso, inquam, sitienti in bibendo voluptas'
