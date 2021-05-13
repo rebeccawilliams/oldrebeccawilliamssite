@@ -1,7 +1,8 @@
 ---
 title: whats-so-dangerous-about-smart-cities-anyway
 date: '2020-12-13'
-categories: []
+categories:
+  - content/data/categories/general.yaml
 tags: []
 excerpt: An Outline of Five "smart city" Harms and a Call for Feedback
 thumb_image_alt: lorem-ipsum
