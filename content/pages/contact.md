@@ -44,7 +44,7 @@ sections:
         default_value: Please select
         options:
           - Speaking/Press
-          - Sponsorship
+          - Writing
           - Other
       - input_type: textarea
         name: message
