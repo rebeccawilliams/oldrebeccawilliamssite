@@ -13,7 +13,7 @@ sections:
           Collective action towards humane digital cities
         content_align: left
         actions:
-          - label: 'June '
+          - label: June 7-11
             url: >-
               https://www.rightscon.org/program/?fwp_session_category=privacy-and-surveillance
             style: primary
