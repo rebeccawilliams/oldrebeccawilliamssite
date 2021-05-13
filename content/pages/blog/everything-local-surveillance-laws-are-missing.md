@@ -17,7 +17,7 @@ image_alt: >-
   letstalkscience.ca
 image_position: right
 seo:
-  title: Amet Nulla Facilisi Morbi Tempus
+  title: Everything Local Surveillance Laws Are Missing In One Post
   description: 'Estne, quaeso, inquam, sitienti in bibendo voluptas'
   extra:
     - name: 'og:type'
