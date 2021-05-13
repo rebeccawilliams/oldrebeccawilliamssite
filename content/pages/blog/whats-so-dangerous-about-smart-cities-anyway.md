@@ -4,6 +4,7 @@ subtitle: An Outline of Five "Smart City" Harms and a Call for Feedback
 date: '2020-12-16'
 categories:
   - content/data/categories/category-apoc3kfww.json
+  - content/data/categories/category-64t9y3n0h.json
 tags:
   - content/data/tags/stackbit.yaml
 excerpt: An Outline of Five "smart city" Harms and a Call for Feedback
