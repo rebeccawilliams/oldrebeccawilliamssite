@@ -32,7 +32,7 @@ seo:
       value: Posts in General
       keyName: property
     - name: 'og:description'
-      value: This is the author archive page
+      value: Posts associated with Rebecca Williams' work at the TAPP Project
       keyName: property
     - name: 'og:image'
       value: images/classic/post-5.png
