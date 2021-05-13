@@ -34,7 +34,7 @@ sections:
     has_border: false
     background_color: secondary
     align: center
-  - title: 'You have found the '
+  - title: You have found the secret fun page.
     subtitle: You have
     features: []
     feature_padding_vert: medium
