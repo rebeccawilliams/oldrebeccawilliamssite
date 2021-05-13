@@ -9,7 +9,7 @@ sections:
     background_color: primary
   - type: grid_section
     grid_items:
-      - title: You have found the secret fun page
+      - title: You have found the secret fun page.
         content: |
           More soon.
         image: images/caring-sage.gif
