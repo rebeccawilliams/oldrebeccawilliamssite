@@ -1,5 +1,5 @@
 ---
-title: TAPP Project
+title: TechnologProject
 sections:
   - type: hero_section
     title: TAPP Project
