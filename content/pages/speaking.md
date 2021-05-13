@@ -84,7 +84,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/General_SXSW.0.jpg
-      - title: lorem-ipsum
+      - title: Harvard Kennedy School
         subtitle: lorem-ipsum
         title_align: left
         content: >-
