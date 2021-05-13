@@ -107,13 +107,12 @@ sections:
     background_color: none
 seo:
   title: Rebecca Williams
-  description: The preview of the DIY theme
-  extra:
+  description: The website of Rebecca Williams
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit DIY Theme
+      value: Rebecca Williams
       keyName: property
     - name: 'og:description'
       value: The preview of the DIY theme
