@@ -25,7 +25,7 @@ sections:
     title: Recent Publications
 seo:
   title: Blog | Rebecca Williams
-  description: This is the blog page
+  description: 'This is a collection of Rebecca Williams'' writing. '
   extra:
     - name: 'og:type'
       value: website
