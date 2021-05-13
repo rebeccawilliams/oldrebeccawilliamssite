@@ -28,7 +28,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Posts in News
+      value: Personl
       keyName: property
     - name: 'og:description'
       value: This is the author archive page
