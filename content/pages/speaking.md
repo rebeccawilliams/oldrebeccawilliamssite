@@ -297,7 +297,7 @@ seo:
     - name: 'twitter:title'
       value: Features
     - name: 'twitter:description'
-      value: This is the features page
+      value: This is Rebecca Williams' Speaking page.
     - name: 'twitter:image'
       value: images/about-3.jpg
       relativeUrl: true
