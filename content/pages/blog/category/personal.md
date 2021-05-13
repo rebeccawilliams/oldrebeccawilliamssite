@@ -22,7 +22,7 @@ sections:
     has_border: true
 seo:
   title: Personal
-  description: This is the author archive page
+  description: Personal Posts
   extra:
     - name: 'og:type'
       value: website
