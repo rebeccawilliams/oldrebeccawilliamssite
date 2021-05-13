@@ -46,7 +46,7 @@ seo:
         can consider public purpose in their “smart city” technology
         investments.
     - name: 'twitter:image'
-      value: images/classic/post-5.png
+      value: /images/popp_15.png
       relativeUrl: true
 layout: post
 thumb_image: images/purple-moon.png
