@@ -16,7 +16,7 @@ thumb_image_alt: Sunlight Foundation logo
 image_alt: Sunlight Foundation logo
 image_position: top
 seo:
-  title: Utrum Igitur Tibi Litteram Videor An Totas Paginas
+  title: Sunlight Foundation Archival Posts
   description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
   extra:
     - name: 'og:type'
