@@ -28,7 +28,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Personl
+      value: Personal
       keyName: property
     - name: 'og:description'
       value: Personal posts
