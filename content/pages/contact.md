@@ -8,18 +8,16 @@ sections:
     padding_bottom: medium
     background_color: primary
   - type: form_section
-    content: >-
-      ### Billing
+    content: |
+      ### Stay in Touch
 
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+      rebecca@rebeccawilliams.us
 
-      ### Privacy
+      Please stay in touch via my social media feeds. 
 
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+      ### PGP Key
+
+      https://keybase.io/RebeccaWilliams
     content_align: left
     form_position: right
     form_width: fifty
