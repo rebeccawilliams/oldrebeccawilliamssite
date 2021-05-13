@@ -80,5 +80,9 @@ seo:
       value: General Enquiries
     - name: 'twitter:description'
       value: This is the general enquiries page
+    - name: 'og:image'
+      value: /images/IMG_1103%202.jpg
+      keyName: property
+      relativeUrl: true
 layout: advanced
 ---
