@@ -29,7 +29,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Posts in General
+      value: TAPP Project
       keyName: property
     - name: 'og:description'
       value: Posts associated with Rebecca Williams' work at the TAPP Project
