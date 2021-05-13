@@ -42,7 +42,7 @@ seo:
     - name: 'twitter:title'
       value: Personal
     - name: 'twitter:description'
-      value: This is the author archive page
+      value: Personal posts
     - name: 'twitter:image'
       value: images/classic/post-5.png
       relativeUrl: true
