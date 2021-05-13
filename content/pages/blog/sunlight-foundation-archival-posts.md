@@ -17,7 +17,9 @@ image_alt: Sunlight Foundation logo
 image_position: top
 seo:
   title: Sunlight Foundation Archival Posts
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  description: >-
+    Archival posts from 2013-2014 at the Sunlight Foundation related to open
+    data policies and practices.
   extra:
     - name: 'og:type'
       value: article
