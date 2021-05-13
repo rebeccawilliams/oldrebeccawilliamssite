@@ -48,6 +48,7 @@ sections:
     has_border: false
     background_color: secondary
     subtitle: Organized to learn about tech and society issues together.
+    title: Educational Groups
 seo:
   title: Community Groups
   description: This is the community groups page
