@@ -7,7 +7,6 @@ categories:
   - content/data/categories/general.yaml
 tags:
   - content/data/tags/stackbit.yaml
-  - content/data/tags/tag-nshj2zlfh.json
 excerpt: An Analysis of Gaps in Surveillance Technology Laws
 thumb_image_alt: >-
   Screenshots from Nuclear Energy videos (2015) by Kurzgesagt via
