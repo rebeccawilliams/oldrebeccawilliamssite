@@ -33,7 +33,7 @@ sections:
     background_color: secondary
 seo:
   title: About
-  description: This is the about us page
+  description: This is Rebecca Williams' about page.
   extra:
     - name: 'og:type'
       value: website
