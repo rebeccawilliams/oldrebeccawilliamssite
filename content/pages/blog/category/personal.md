@@ -31,7 +31,7 @@ seo:
       value: Personl
       keyName: property
     - name: 'og:description'
-      value: This is the author archive page
+      value: Personal posts
       keyName: property
     - name: 'og:image'
       value: images/classic/post-5.png
