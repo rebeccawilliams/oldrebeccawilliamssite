@@ -30,7 +30,7 @@ sections:
           the service of justice and democracy and speaks about how that is too
           often not the case in niche and broad ways on Twitter and elsewhere.
           She is the daughter of a psychologist and tax attorney from a
-          struggling Most Dangerous City who gets the bottom line. 
+          struggling *Most Dangerous City* who gets all the bottom lines.
 
 
           According to her father, she is a true millennial, and she can
@@ -40,7 +40,7 @@ sections:
           balance, cutting out what doesn't work, density, diversity, and humor.
           She wants to ask you about the latest thing you enjoyed and why over a
           coffee, tea, or a drink to better understand you, herself, and the
-          world. 
+          world.
         actions: []
         image_alt: with hannah
         media_position: left
