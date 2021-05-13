@@ -24,7 +24,7 @@ sections:
     subtitle: From across the web.
     title: Recent Publications
 seo:
-  title: Blog
+  title: Blog | Rebecca Williams
   description: This is the blog page
   extra:
     - name: 'og:type'
