@@ -25,7 +25,7 @@ sections:
         media_position: right
         media_width: fifty
         actions:
-          - label: Read Full CV on
+          - label: Read Read Full CV on
             url: 'https://www.linkedin.com/in/rebeccaannwilliams/'
             style: primary
             has_icon: true
