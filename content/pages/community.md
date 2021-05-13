@@ -40,7 +40,7 @@ sections:
         subtitle: 2013-2020 (Co-organizer)
         image: images/enthusiastic-cedar.png
         actions:
-          - label: lorem-ipsum
+          - label: Join or Co-organize
             url: '#'
             style: link
             has_icon: false
