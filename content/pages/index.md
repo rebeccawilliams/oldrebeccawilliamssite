@@ -116,7 +116,7 @@ seo:
       value: Rebecca Williams
       keyName: property
     - name: 'og:description'
-      value: The preview of the DIY theme
+      value: 'The website of Rebecca Williams. Enjoy. '
       keyName: property
     - name: 'og:image'
       value: /images/IMG_1103%202.jpg
