@@ -1,6 +1,6 @@
 ---
 title: 'Everything Local Surveillance Laws Are Missing In One Post '
-subtitle: An Outline of Five "Smart City" Harms and a Call for Feedback
+subtitle: An Analysis of Gaps in Surveillance Technology Law
 date: '2020-12-16'
 categories:
   - content/data/categories/category-apoc3kfww.json
