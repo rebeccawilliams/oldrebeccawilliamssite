@@ -1,5 +1,5 @@
 ---
-title: Rebecca
+title: Rebecca Williams
 sections:
   - type: hero_section
     title: Rebecca Williams
@@ -106,20 +106,20 @@ sections:
     has_border: false
     background_color: none
 seo:
-  title: Stackbit DIY Theme
-  description: The preview of the DIY theme
+  title: Rebecca Williams
+  description: The website of Rebecca Williams. Enjoy.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit DIY Theme
+      value: Rebecca Williams
       keyName: property
     - name: 'og:description'
-      value: The preview of the DIY theme
+      value: 'The website of Rebecca Williams. Enjoy. '
       keyName: property
     - name: 'og:image'
-      value: images/diy-preview.png
+      value: /images/IMG_1103%202.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'

@@ -24,20 +24,20 @@ sections:
     subtitle: From across the web.
     title: Recent Publications
 seo:
-  title: Blog
-  description: This is the blog page
+  title: Blog | Rebecca Williams
+  description: 'This is a collection of Rebecca Williams'' writing. '
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Blog
+      value: Blog | Rebecca Williams
       keyName: property
     - name: 'og:description'
-      value: This is the blog page
+      value: This is a collection of Rebecca Williams' writing.
       keyName: property
     - name: 'og:image'
-      value: images/classic/post-5.png
+      value: /images/caring-sage.gif
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'

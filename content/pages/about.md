@@ -32,20 +32,20 @@ sections:
         actions: []
     background_color: secondary
 seo:
-  title: About
-  description: This is the about us page
+  title: About | Rebecca Williams
+  description: This is Rebecca Williams' about page.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: About
+      value: About | Rebecca Williams
       keyName: property
     - name: 'og:description'
-      value: This is the about us page
+      value: This is Rebecca Williams' about page.
       keyName: property
     - name: 'og:image'
-      value: images/about-1.jpg
+      value: /images/IMG_1103%202.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'

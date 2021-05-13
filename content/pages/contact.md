@@ -62,23 +62,31 @@ sections:
     padding_bottom: medium
     background_color: secondary
 seo:
-  title: General Enquiries
-  description: This is the general enquiries page
+  title: Contact | Rebecca Williams
+  description: This is Rebecca Williams' contact page.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: General Enquiries
+      value: Contact | Rebecca Williams
       keyName: property
     - name: 'og:description'
-      value: This is the general enquiries page
+      value: This is Rebecca Williams' contact page.
       keyName: property
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: General Enquiries
+      value: Contact | Rebecca Williams
     - name: 'twitter:description'
-      value: This is the general enquiries page
+      value: This is Rebecca Williams' contact page.
+    - name: 'og:image'
+      value: /images/IMG_1103%202.jpg
+      keyName: property
+      relativeUrl: true
+    - name: 'twitter:image'
+      value: /images/IMG_1103%202.jpg
+      keyName: property
+      relativeUrl: true
 layout: advanced
 ---
