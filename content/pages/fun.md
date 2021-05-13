@@ -35,7 +35,7 @@ sections:
     background_color: secondary
     align: center
   - title: You have found the secret fun page.
-    subtitle: You have
+    subtitle: More soon.
     features: []
     feature_padding_vert: medium
     align: center
