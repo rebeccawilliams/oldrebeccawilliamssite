@@ -44,7 +44,7 @@ seo:
     - name: 'twitter:description'
       value: Personal posts
     - name: 'twitter:image'
-      value: images/classic/post-5.png
+      value: /images/IMG_1103%202.jpg
       relativeUrl: true
 layout: advanced
 ---
