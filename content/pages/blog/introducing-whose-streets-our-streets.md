@@ -20,7 +20,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Cur Ipse Pythagoras Et Aegyptum Lustravit
+      value: Introducing Whose Steets? Our Streets! (Tech Edition)
       keyName: property
     - name: 'og:description'
       value: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
