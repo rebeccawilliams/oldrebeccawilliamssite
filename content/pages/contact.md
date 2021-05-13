@@ -11,7 +11,9 @@ sections:
     content: |
       ### Stay in Touch
 
-      Email is the best way to reach me: rebecca@rebeccawilliams.us.
+      Email is the best way to reach me: rebecca@rebeccawilliams.us. 
+
+      If you want to be formal, use the form. 
 
       And please feel free to follow me on my social media feeds in my footer.
 
