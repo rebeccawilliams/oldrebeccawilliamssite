@@ -17,7 +17,7 @@ image_alt: >-
 image_position: right
 seo:
   title: What's so Dangerous About Smart Cities Anyway?
-  description: 'Estne, quaeso, inquam, sitienti in bibendo voluptas'
+  description: An Outline of Five "Smart City" Harms and a Call for Feedback
   extra:
     - name: 'og:type'
       value: article
