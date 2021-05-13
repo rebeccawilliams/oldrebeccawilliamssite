@@ -20,6 +20,7 @@ sections:
     padding_top: small
     padding_bottom: large
     has_border: true
+    title: Whose Streets
 seo:
   title: Posts in General
   description: This is the author archive page
