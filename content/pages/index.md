@@ -106,7 +106,7 @@ sections:
     has_border: false
     background_color: none
 seo:
-  title: Stackbit DIY Theme
+  title: Rebecca
   description: The preview of the DIY theme
   extra:
     - name: 'og:type'
