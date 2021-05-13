@@ -42,7 +42,7 @@ seo:
       value: About
       keyName: property
     - name: 'og:description'
-      value: This is the about us page
+      value: This is Rebecca Williams' about page.
       keyName: property
     - name: 'og:image'
       value: /images/IMG_1103%202.jpg
