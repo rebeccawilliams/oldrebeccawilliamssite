@@ -126,7 +126,7 @@ seo:
     - name: 'twitter:title'
       value: Rebecca Williams
     - name: 'twitter:description'
-      value: The preview of the DIY theme
+      value: The website of Rebecca Williams
     - name: 'twitter:image'
       value: images/diy-preview.png
       relativeUrl: true
