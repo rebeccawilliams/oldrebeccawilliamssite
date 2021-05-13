@@ -1,5 +1,5 @@
 ---
-title: General Enquiries
+title: Contact
 sections:
   - type: hero_section
     title: Contact
