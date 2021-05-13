@@ -39,6 +39,16 @@ sections:
           please get in touch.
         subtitle: 2013-2020 (Co-organizer)
         image: images/enthusiastic-cedar.png
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
