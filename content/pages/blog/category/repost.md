@@ -20,6 +20,7 @@ sections:
     padding_top: small
     padding_bottom: large
     has_border: true
+    title: Repost
   - type: form_section
     title: Inline Form
     title_align: center
