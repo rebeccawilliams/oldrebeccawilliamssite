@@ -4,8 +4,7 @@ subtitle: >-
   Archival posts from 2013-2014 at the Sunlight Foundation related to open data
   policies and practices.
 date: '2014-08-25'
-categories:
-  - content/data/categories/general.yaml
+categories: []
 tags:
   - content/data/tags/tag-ilndbwr3b.json
 excerpt: >-
