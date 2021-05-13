@@ -50,17 +50,8 @@ sections:
     subtitle: Organized to learn about tech and society issues together.
     title: Educational Groups
   - title: Teaching & Trainings
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: |
+      Hello
     actions: []
     actions_position: bottom
     actions_width: fourty
