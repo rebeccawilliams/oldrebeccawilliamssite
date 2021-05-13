@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: whats-so-dangerous-about-smart-cities-anyway
 subtitle: lorem-ipsum
 date: '2021-05-13'
 categories: []
