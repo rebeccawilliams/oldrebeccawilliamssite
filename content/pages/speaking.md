@@ -192,44 +192,51 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
   - title: lorem-ipsum
-    content: |
-      Other Apperances
-
-      \<div class="responsive-table">
-      \<table>
-      \<caption>Table with thead, tfoot, and tbody Hello.\</caption>
-      \<thead>
-      \<tr>
-      \<th>Event\</th>
-      \<th>Date\</th>
-      \<th>Header content\</th>
-      \<th>Header content\</th>
-      \</tr>
-      \</thead>
-      \<tbody>
-      \<tr>
-      \<td>Tech and Public Purpose\</td>
-      \<td>Hello\</td>
-      \<td>Body content\</td>
-      \<td>Body content\</td>
-      \</tr>
-      \<tr>
-      \<td>April 2021\</td>
-      \<td>Body content\</td>
-      \<td>Body content\</td>
-      \<td>Body content\</td>
-      \</tr>
-      \</tbody>
-      \<tfoot>
-      \<tr>
-      \<td>Footer content\</td>
-      \<td>Footer content\</td>
-      \<td>Footer content\</td>
-      \<td>Footer content\</td>
-      \</tr>
-      \</tfoot>
-      \</table>
+    content: >
+      This is \<mark>marked or highlighted\</mark> text.\<div
+      class="responsive-table">
+        \<table>
+            \<caption>Table with thead, tfoot, and tbody Hello.\</caption>
+          \<thead>
+            \<tr>
+              \<th>Event\</th>
+              \<th>Date\</th>
+              \<th>Header content\</th>
+              \<th>Header content\</th>
+            \</tr>
+          \</thead>
+          \<tbody>
+            \<tr>
+              \<td>Tech and Public Purpose\</td>
+              \<td>Hello\</td>
+              \<td>Body content\</td>
+              \<td>Body content\</td>
+            \</tr>
+            \<tr>
+              \<td>April 2021\</td>
+              \<td>Body content\</td>
+              \<td>Body content\</td>
+              \<td>Body content\</td>
+            \</tr>
+          \</tbody>
+          \<tfoot>
+            \<tr>
+              \<td>Footer content\</td>
+              \<td>Footer content\</td>
+            \<td>Footer content\</td>
+          \<td>Footer content\</td>
+            \</tr>
+          \</tfoot>
+        \</table>
       \</div>
+
+
+
+
+      This is [an example](http://example.com) link.
+
+
+      ## Other Apperances
     actions: []
     actions_position: bottom
     actions_width: fourty
