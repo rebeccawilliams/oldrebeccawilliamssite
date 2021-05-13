@@ -1,5 +1,5 @@
 ---
-title: General
+title: TAPP Project
 sections:
   - type: hero_section
     title: TAPP Project
