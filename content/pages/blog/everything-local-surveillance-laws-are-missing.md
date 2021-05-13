@@ -18,7 +18,7 @@ image_alt: >-
 image_position: right
 seo:
   title: Everything Local Surveillance Laws Are Missing In One Post
-  description: 'Estne, quaeso, inquam, sitienti in bibendo voluptas'
+  description: An Analysis of Gaps in Surveillance Technology Laws
   extra:
     - name: 'og:type'
       value: article
