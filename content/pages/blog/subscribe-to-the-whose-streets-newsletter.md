@@ -18,7 +18,11 @@ image_alt: Newsletter screenshot
 image_position: left
 seo:
   title: Subscribe to the Whose Streets? Newsletter
-  description: 'Itaque hoc frequenter dici solet a vobis, non intellegere nos'
+  description: >-
+    To support Rebecca Williams’ research assessing risks to civil liberties
+    posed by “smart city” technologies, Rebecca and Madeleine Smith are
+    documenting trends in the surveillance of public space with a companion
+    newsletter on substack.
   extra:
     - name: 'og:type'
       value: article
