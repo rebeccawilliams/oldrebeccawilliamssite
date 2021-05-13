@@ -77,7 +77,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: General Enquiries
+      value: Contact | Rebecca Williams
     - name: 'twitter:description'
       value: This is the general enquiries page
     - name: 'og:image'
