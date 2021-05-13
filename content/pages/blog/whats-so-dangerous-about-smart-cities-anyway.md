@@ -1,6 +1,6 @@
 ---
 title: whats-so-dangerous-about-smart-cities-anyway
-date: '2021-12-16'
+date: '2020-12-13'
 categories: []
 tags: []
 excerpt: An Outline of Five "smart city" Harms and a Call for Feedback
