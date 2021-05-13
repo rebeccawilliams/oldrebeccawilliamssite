@@ -33,7 +33,7 @@ seo:
         allowed to use a Federal (Tech) Policy Analyst.
       keyName: property
     - name: 'og:image'
-      value: images/classic/post-2.png
+      value: /images/superb-kangaroo.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
