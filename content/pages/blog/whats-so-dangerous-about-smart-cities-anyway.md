@@ -16,7 +16,7 @@ image_alt: >-
   letstalkscience.ca
 image_position: right
 seo:
-  title: Amet Nulla Facilisi Morbi Tempus
+  title: What's so Dangerous About Smart Cities Anyway?
   description: 'Estne, quaeso, inquam, sitienti in bibendo voluptas'
   extra:
     - name: 'og:type'
