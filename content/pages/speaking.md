@@ -8,8 +8,7 @@ sections:
     subtitle: Featured
     actions: []
     grid_items:
-      - title: RightsCon
-        title_align: left
+      - title_align: left
         content: >-
           ## Lorem ipsum
 
