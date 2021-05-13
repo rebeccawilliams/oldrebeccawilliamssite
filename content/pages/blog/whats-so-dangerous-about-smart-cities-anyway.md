@@ -1,22 +1,49 @@
 ---
-title: whats-so-dangerous-about-smart-cities-anyway
-date: '2020-12-13'
+title: What's so Dangerous About Smart Cities Anyway?
+subtitle: An Outline of Five "Smart City" Harms and a Call for Feedback
+date: '2020-12-16'
 categories:
+  - content/data/categories/category-apoc3kfww.json
   - content/data/categories/general.yaml
-tags: []
+tags:
+  - content/data/tags/stackbit.yaml
 excerpt: An Outline of Five "smart city" Harms and a Call for Feedback
-thumb_image_alt: lorem-ipsum
-image_alt: lorem-ipsum
+thumb_image_alt: >-
+  Screenshots from Nuclear Energy videos (2015) by Kurzgesagt via
+  letstalkscience.ca
+image_alt: >-
+  Screenshots from Nuclear Energy videos (2015) by Kurzgesagt via
+  letstalkscience.ca
 image_position: right
 seo:
-  title: ''
-  description: ''
-  robots: []
-  extra: []
-  type: stackbit_page_meta
+  title: Amet Nulla Facilisi Morbi Tempus
+  description: 'Estne, quaeso, inquam, sitienti in bibendo voluptas'
+  extra:
+    - name: 'og:type'
+      value: article
+      keyName: property
+    - name: 'og:title'
+      value: Amet Nulla Facilisi Morbi Tempus
+      keyName: property
+    - name: 'og:description'
+      value: 'Estne, quaeso, inquam, sitienti in bibendo voluptas'
+      keyName: property
+    - name: 'og:image'
+      value: images/classic/post-5.png
+      keyName: property
+      relativeUrl: true
+    - name: 'twitter:card'
+      value: summary_large_image
+    - name: 'twitter:title'
+      value: Amet Nulla Facilisi Morbi Tempus
+    - name: 'twitter:description'
+      value: 'Estne, quaeso, inquam, sitienti in bibendo voluptas'
+    - name: 'twitter:image'
+      value: images/classic/post-5.png
+      relativeUrl: true
 layout: post
+thumb_image: images/superb-paprika.png
 image: images/pros_cons_nuclear_energy.png
-thumb_image: images/pros_cons_nuclear_energy.png
 ---
 The Belfer Center, home of the Technology and Public Purpose (TAPP) project, was originally created to analyze dangers posed by nuclear
 technology. When people ask about my TAPP fellowship, I usually say that I am doing the same analysis, but for “smart cities.” Even for folks

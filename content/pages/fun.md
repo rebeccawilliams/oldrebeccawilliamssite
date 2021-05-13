@@ -14,7 +14,6 @@ sections:
           More soon.
         image: images/caring-sage.gif
         image_alt: Civic Tech Book Club screenshot
-        subtitle: 2015-present (Organizer)
         actions:
           - label: Join/Read
             url: 'https://civictechbook.club'
@@ -25,6 +24,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
+        content_align: center
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
