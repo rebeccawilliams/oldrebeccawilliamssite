@@ -3,7 +3,6 @@ title: 'Introducing: Whose Streets? Our Streets!'
 subtitle: Developing Interventions to Protect Civil Liberties in a 'Smart City'
 date: '2020-10-21'
 categories:
-  - content/data/categories/general.yaml
   - content/data/categories/category-apoc3kfww.json
 tags:
   - content/data/tags/stackbit.yaml
