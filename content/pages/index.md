@@ -107,7 +107,7 @@ sections:
     background_color: none
 seo:
   title: Rebecca Williams
-  description: The preview of the DIY theme
+  description: The website of Rebecca Williams. Enjoy.
   extra:
     - name: 'og:type'
       value: website
