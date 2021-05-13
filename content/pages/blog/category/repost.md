@@ -1,5 +1,5 @@
 ---
-title: News
+title: Repost
 sections:
   - type: hero_section
     title: Personal
