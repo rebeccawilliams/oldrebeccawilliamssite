@@ -44,7 +44,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Vos Autem Cum Perspicuis Dubia Debeatis Illustrare
+      value: Subscribe to the Whose Streets? Newsletter
     - name: 'twitter:description'
       value: >-
         To support Rebecca Williams’ research assessing risks to civil liberties
