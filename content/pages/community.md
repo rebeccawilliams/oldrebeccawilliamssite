@@ -68,7 +68,7 @@ sections:
     background_image_repeat: no-repeat
     type: cta_section
 seo:
-  title: Community Groups
+  title: Community | Rebecca Williams
   description: This is a page of educational communities Rebecca Williams has facilitated.
   extra:
     - name: 'og:type'
