@@ -45,7 +45,7 @@ seo:
         My ironic but not "Uses This" interview detailing what technology I was
         allowed to use a Federal (Tech) Policy Analyst.
     - name: 'twitter:image'
-      value: images/classic/post-2.png
+      value: /images/superb-kangaroo.jpg
       relativeUrl: true
 layout: post
 thumb_image: images/superb-kangaroo.jpg
