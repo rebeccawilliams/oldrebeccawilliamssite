@@ -277,7 +277,7 @@ sections:
     type: grid_section
 seo:
   title: Speaking | Rebecca Williams
-  description: This is the features page
+  description: This is Rebecca Williams' Speaking page.
   extra:
     - name: 'og:type'
       value: website
