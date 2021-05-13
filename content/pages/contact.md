@@ -13,7 +13,7 @@ sections:
 
       Email is the best way to reach me: rebecca@rebeccawilliams.us.
 
-      And please stay in touch via my social media feeds (see footer).
+      And please stay in touch via my social media feeds in my footer. 
 
       ### PGP Key
 
