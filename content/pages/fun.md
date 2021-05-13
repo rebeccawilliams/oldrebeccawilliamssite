@@ -35,7 +35,7 @@ sections:
     background_color: secondary
     align: center
   - title: Fun
-    subtitle: lorem-ipsum
+    subtitle: You have
     features: []
     feature_padding_vert: medium
     align: center
