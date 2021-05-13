@@ -29,7 +29,7 @@ seo:
       value: An Outline of Five "Smart City" Harms and a Call for Feedback
       keyName: property
     - name: 'og:image'
-      value: images/classic/post-5.png
+      value: /images/pros_cons_nuclear_energy.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
