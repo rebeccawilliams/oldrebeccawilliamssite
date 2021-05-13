@@ -51,7 +51,13 @@ sections:
     title: Educational Groups
   - title: Teaching & Trainings
     content: |
-      Hello
+      *   November 2019 Law Jobs For Humans NYC
+
+      *   August 2017 Digital Security Training
+
+      *   November 2017 Equal Justice Works: Leadership Development Training
+
+      *   December 2013 Tech Lady Hackathon API Workshop
     actions: []
     actions_position: bottom
     actions_width: fourty
