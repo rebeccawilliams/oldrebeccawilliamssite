@@ -31,7 +31,7 @@ sections:
           technology. I helped found the group and host 70+ panels, trainings,
           and hackathons over 7 years. 
         subtitle: 2013-2020 (Co-organizer)
-        image: images/enthusiastic-cedar.png
+        image: images/Legal-Hackers-Logo-2.png
         actions:
           - label: Join or Co-organize
             url: 'https://dc.legalhackers.org/'
