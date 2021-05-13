@@ -30,7 +30,7 @@ seo:
       value: An Analysis of Gaps in Surveillance Technology Laws
       keyName: property
     - name: 'og:image'
-      value: images/classic/post-5.png
+      value: /images/Coverage.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
