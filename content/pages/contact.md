@@ -11,11 +11,11 @@ sections:
     content: |
       ### Stay in Touch
 
-      Email is the best way to reach me: rebecca@rebeccawilliams.us. 
+      Email is the best way to reach me: rebecca@rebeccawilliams.us.
 
-      If you want to be formal, use the form. 
+      Follow me on social (see footer). 
 
-      And please feel free to follow me on my social media feeds in my footer.
+      If you want to be formal, use the form.
 
       ### PGP Key
 
