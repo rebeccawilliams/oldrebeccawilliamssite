@@ -7,7 +7,10 @@ categories:
 tags:
   - content/data/tags/stackbit.yaml
   - content/data/tags/tag-7nio5sd1u.json
-excerpt: An Outline of Five "smart city" Harms and a Call for Feedback
+excerpt: >-
+  In this blogpost, Technology and Public Purpose Fellows Liz Sisson and Rebecca
+  Williams team up to propose how governments and investors alike can consider
+  public purpose in their “smart city” technology investments.
 thumb_image_alt: TAPP thumbnail
 image_alt: TAPP thumbnail
 image_position: right
