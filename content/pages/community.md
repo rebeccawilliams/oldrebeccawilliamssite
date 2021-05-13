@@ -50,14 +50,7 @@ sections:
     subtitle: Organized to learn about tech and society issues together.
     title: Educational Groups
   - title: Teaching & Trainings
-    content: |
-      *   November 2019 Law Jobs For Humans NYC
-
-      *   August 2017 Digital Security Training
-
-      *   November 2017 Equal Justice Works: Leadership Development Training
-
-      *   December 2013 Tech Lady Hackathon API Workshop
+    content: "*   November 2019 Law Jobs For Humans NYC\n\n*   August 2017 Digital Security Training\n\n*   November 2017 Equal Justice Works: Leadership Development Training\n\n*   December 2013 Tech Lady Hackathon API Workshop\n\n*   Fall 2019 - Lecturer, Data, Digital + Social Impact Seminar, Georgetown University\n\n*   Spring 2018 - Lecturer, Open Government Data, George Washington Law School, \n\n*   Fall 2017 - Instructor, Performance Analytics - Tools & Techniques, Johns Hopkins University\n\n*   Spring 2015\_- Lecturer, Digital Tools and Access to Justice, Georgetown Law School\n\n*   Spring 2009 - Teaching Assistant, Dynamics of Human Habitations, UMASS\n"
     actions: []
     actions_position: bottom
     actions_width: fourty
