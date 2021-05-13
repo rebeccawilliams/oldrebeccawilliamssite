@@ -115,7 +115,7 @@ sections:
               Technology
             url: >-
               https://www.belfercenter.org/event/every-sectors-role-protecting-and-promoting-democracy-technology
-            style: link
+            style: primary
             has_icon: true
             icon: youtube
             icon_position: right
