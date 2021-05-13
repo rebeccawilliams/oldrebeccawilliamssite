@@ -39,7 +39,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: About
+      value: About | Rebecca Williams
       keyName: property
     - name: 'og:description'
       value: This is Rebecca Williams' about page.
