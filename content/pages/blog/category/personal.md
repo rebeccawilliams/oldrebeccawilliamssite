@@ -2,7 +2,7 @@
 title: Personal
 sections:
   - type: hero_section
-    title: Personal
+    title: Personal Publications
     align: center
     padding_top: medium
     padding_bottom: none
