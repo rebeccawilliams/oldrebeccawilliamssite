@@ -38,7 +38,7 @@ seo:
         newsletter on substack.
       keyName: property
     - name: 'og:image'
-      value: images/classic/post-4.png
+      value: /images/Screen%20Shot%202021-03-28%20at%209.18.28%20PM.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
