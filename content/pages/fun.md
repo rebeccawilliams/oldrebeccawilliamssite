@@ -34,7 +34,7 @@ sections:
     has_border: false
     background_color: secondary
 seo:
-  title: Community Groups
+  title: Fun
   description: This is the community groups page
   extra:
     - name: 'og:type'
