@@ -100,7 +100,7 @@ sections:
           - dolor sit amet
         content_align: left
         actions:
-          - label: Whose Steets? Our Streets
+          - label: Whose Steets? Our Streets! (Tech Edition)
             url: '#'
             style: link
             has_icon: false
