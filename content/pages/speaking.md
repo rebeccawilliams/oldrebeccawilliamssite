@@ -193,9 +193,6 @@ sections:
     type: grid_section
   - title: lorem-ipsum
     content: >
-      ## Other Apperances
-
-
       *   5/2020 - [csv,conf,v5](https://csvconf.com/speakers/)
 
 
