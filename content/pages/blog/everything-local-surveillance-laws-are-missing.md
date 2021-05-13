@@ -38,7 +38,7 @@ seo:
     - name: 'twitter:title'
       value: Amet Nulla Facilisi Morbi Tempus
     - name: 'twitter:description'
-      value: 'Estne, quaeso, inquam, sitienti in bibendo voluptas'
+      value: An Analysis of Gaps in Surveillance Technology Laws
     - name: 'twitter:image'
       value: images/classic/post-5.png
       relativeUrl: true
