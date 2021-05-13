@@ -104,7 +104,7 @@ sections:
             url: >-
               https://www.belfercenter.org/event/whose-streets-our-streets-tech-edition#!watch-here-
             style: primary
-            has_icon: false
+            has_icon: true
             icon: arrow-left
             icon_position: right
             new_window: false
