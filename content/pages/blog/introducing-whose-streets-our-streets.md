@@ -23,7 +23,7 @@ seo:
       value: Introducing Whose Steets? Our Streets! (Tech Edition)
       keyName: property
     - name: 'og:description'
-      value: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
+      value: Developing Interventions to Protect Civil Liberties in a 'Smart City'
       keyName: property
     - name: 'og:image'
       value: /images/caring-sage.gif
