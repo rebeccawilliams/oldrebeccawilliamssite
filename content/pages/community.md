@@ -1,5 +1,5 @@
 ---
-title: Community Groups
+title: Community
 sections:
   - type: hero_section
     title: Community
