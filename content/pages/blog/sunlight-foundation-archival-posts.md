@@ -39,7 +39,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Utrum Igitur Tibi Litteram Videor An Totas Paginas
+      value: Sunlight Foundation Archival Posts
     - name: 'twitter:description'
       value: >-
         Archival posts from 2013-2014 at the Sunlight Foundation related to open
