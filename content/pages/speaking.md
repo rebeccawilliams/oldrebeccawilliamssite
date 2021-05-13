@@ -107,7 +107,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/ire_and_nicar_thumbnail.jpg
-      - title: SXSW
+      - title: South by Southwest
         title_align: left
         content_align: left
         actions:
