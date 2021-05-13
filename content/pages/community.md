@@ -69,7 +69,7 @@ sections:
     type: cta_section
 seo:
   title: Community Groups
-  description: This is the community groups page
+  description: This is a page of educational communities Rebecca Williams has facilitated.
   extra:
     - name: 'og:type'
       value: website
