@@ -72,7 +72,7 @@ seo:
       value: General Enquiries
       keyName: property
     - name: 'og:description'
-      value: This is the general enquiries page
+      value: This is Rebecca Williams' contact page.
       keyName: property
     - name: 'twitter:card'
       value: summary
