@@ -25,7 +25,7 @@ sections:
             no_follow: false
             type: action
         content_align: center
-    grid_cols: two
+    grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: medium
     enable_cards: true
@@ -33,6 +33,7 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: secondary
+    align: center
 seo:
   title: Fun
   description: This is the community groups page
