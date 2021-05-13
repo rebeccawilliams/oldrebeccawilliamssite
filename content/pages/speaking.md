@@ -193,40 +193,42 @@ sections:
     type: grid_section
   - title: lorem-ipsum
     content: |
-      Other Apperances\<div class="responsive-table">
-        \<table>
-            \<caption>Table with thead, tfoot, and tbody Hello.\</caption>
-          \<thead>
-            \<tr>
-              \<th>Event\</th>
-              \<th>Date\</th>
-              \<th>Header content\</th>
-              \<th>Header content\</th>
-            \</tr>
-          \</thead>
-          \<tbody>
-            \<tr>
-              \<td>Tech and Public Purpose\</td>
-              \<td>Hello\</td>
-              \<td>Body content\</td>
-              \<td>Body content\</td>
-            \</tr>
-            \<tr>
-              \<td>April 2021\</td>
-              \<td>Body content\</td>
-              \<td>Body content\</td>
-              \<td>Body content\</td>
-            \</tr>
-          \</tbody>
-          \<tfoot>
-            \<tr>
-              \<td>Footer content\</td>
-              \<td>Footer content\</td>
-            \<td>Footer content\</td>
-          \<td>Footer content\</td>
-            \</tr>
-          \</tfoot>
-        \</table>
+      Other Apperances
+
+      \<div class="responsive-table">
+      \<table>
+      \<caption>Table with thead, tfoot, and tbody Hello.\</caption>
+      \<thead>
+      \<tr>
+      \<th>Event\</th>
+      \<th>Date\</th>
+      \<th>Header content\</th>
+      \<th>Header content\</th>
+      \</tr>
+      \</thead>
+      \<tbody>
+      \<tr>
+      \<td>Tech and Public Purpose\</td>
+      \<td>Hello\</td>
+      \<td>Body content\</td>
+      \<td>Body content\</td>
+      \</tr>
+      \<tr>
+      \<td>April 2021\</td>
+      \<td>Body content\</td>
+      \<td>Body content\</td>
+      \<td>Body content\</td>
+      \</tr>
+      \</tbody>
+      \<tfoot>
+      \<tr>
+      \<td>Footer content\</td>
+      \<td>Footer content\</td>
+      \<td>Footer content\</td>
+      \<td>Footer content\</td>
+      \</tr>
+      \</tfoot>
+      \</table>
       \</div>
     actions: []
     actions_position: bottom
