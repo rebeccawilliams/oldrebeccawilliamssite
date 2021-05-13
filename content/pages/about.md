@@ -14,12 +14,12 @@ sections:
           of government, as a civil servant, consultant, and advocate at
           Harvard, the White House (twice), the Sunlight Foundation, and more.
           Committed to her continuous learning and everyone's, she has hosted
-          online and offline groups to discuss issues betwixt civics and
-          technology with Civic Tech Book Club and DC Legal Hackers. She holds a
-          B.A. in Communication from the University of Massachusetts Amherst and
-          a J.D. from Western New England University School of Law. She has won
-          numerous legal tech awards, including American Bar Association's first
-          10 Women to Watch in Legal Tech.
+          online and offline groups in her spare time to discuss issues betwixt
+          civics and technology with Civic Tech Book Club and DC Legal Hackers.
+          She holds a B.A. in Communication from the University of Massachusetts
+          Amherst and a J.D. from Western New England University School of Law.
+          She has won numerous legal tech awards, including American Bar
+          Association's first 10 Women to Watch in Legal Tech.
         image: images/superb-tulip.png
         image_alt: People in conversation in the office lounge area
         media_position: right
