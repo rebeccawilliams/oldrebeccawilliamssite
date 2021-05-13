@@ -103,7 +103,7 @@ sections:
           - label: Whose Steets? Our Streets! (Tech Edition)
             url: >-
               https://www.belfercenter.org/event/whose-streets-our-streets-tech-edition#!watch-here-
-            style: link
+            style: primary
             has_icon: false
             icon: arrow-left
             icon_position: right
