@@ -62,6 +62,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
+        image: images/2019-02-24-hannah_2880.webp
     background_color: secondary
 seo:
   title: About | Rebecca Williams
