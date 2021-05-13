@@ -29,14 +29,7 @@ sections:
           DC Legal Hackers is meetup group of 1700+ technologists, lawyers, and
           policymakers that meet to discuss and hack everything betwixt law and
           technology. I helped found the group and host 70+ panels, trainings,
-          and hackathons over 7 years. It was the second chapter in a network
-          the Legal Hacker Community which now boasts 130+ chapters across 6
-          contitents. While co-organizing DGLH I also served on the Legal
-          Hackers board.
-
-
-          If you are interested in taking over leadership of DC Legal Hackers
-          please get in touch.
+          and hackathons over 7 years. 
         subtitle: 2013-2020 (Co-organizer)
         image: images/enthusiastic-cedar.png
         actions:
