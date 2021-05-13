@@ -24,7 +24,16 @@ sections:
         image_alt: People in conversation in the office lounge area
         media_position: right
         media_width: fifty
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
       - content: >
           She would like to see modern tools–with all their capabilities–used in
           the service of justice and democracy and speaks about how that is too
