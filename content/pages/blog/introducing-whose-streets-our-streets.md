@@ -14,7 +14,7 @@ image_alt: Cyber city gif
 image_position: left
 seo:
   title: Introducing Whose Steets? Our Streets! (Tech Edition)
-  description: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
+  description: Developing Interventions to Protect Civil Liberties in a 'Smart City'
   extra:
     - name: 'og:type'
       value: article
