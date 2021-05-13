@@ -6,7 +6,7 @@ tags: []
 excerpt: An Outline of Five "smart city" Harms and a Call for Feedback
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
-image_position: top
+image_position: right
 seo:
   title: ''
   description: ''
