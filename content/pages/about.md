@@ -26,7 +26,7 @@ sections:
         media_width: fifty
         actions:
           - label: See More on
-            url: '#'
+            url: 'https://www.linkedin.com/in/rebeccaannwilliams/'
             style: link
             has_icon: true
             icon: linkedin
