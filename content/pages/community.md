@@ -41,7 +41,7 @@ sections:
         image: images/enthusiastic-cedar.png
         actions:
           - label: Join or Co-organize
-            url: '#'
+            url: 'https://dc.legalhackers.org/'
             style: link
             has_icon: false
             icon: arrow-left
