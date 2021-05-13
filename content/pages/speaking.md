@@ -192,52 +192,132 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
   - title: lorem-ipsum
-    content: |
-      ##
-
-      This is 
-
-      \<mark>marked or highlighted\</mark> text.\<div class="responsive-table">
-        \<table>
-            \<caption>Table with thead, tfoot, and tbody Hello.\</caption>
-          \<thead>
-            \<tr>
-              \<th>Event\</th>
-              \<th>Date\</th>
-              \<th>Header content\</th>
-              \<th>Header content\</th>
-            \</tr>
-          \</thead>
-          \<tbody>
-            \<tr>
-              \<td>Tech and Public Purpose\</td>
-              \<td>Hello\</td>
-              \<td>Body content\</td>
-              \<td>Body content\</td>
-            \</tr>
-            \<tr>
-              \<td>April 2021\</td>
-              \<td>Body content\</td>
-              \<td>Body content\</td>
-              \<td>Body content\</td>
-            \</tr>
-          \</tbody>
-          \<tfoot>
-            \<tr>
-              \<td>Footer content\</td>
-              \<td>Footer content\</td>
-            \<td>Footer content\</td>
-          \<td>Footer content\</td>
-            \</tr>
-          \</tfoot>
-        \</table>
-      \</div>
-
-
-
-      This is [an example](http://example.com) link.
-
+    content: >
       ## Other Apperances
+
+
+      *   5/2020
+
+
+      *   [csv,conf,v5](https://csvconf.com/speakers/)
+
+
+      *   1/2020
+
+
+      *   [The Association of American Law Schools Annual
+      Meeting](https://memberaccess.aals.org/eweb/DynamicPage.aspx?WebKey=51F9EC45-5CD0-4957-BE72-C4B89FD07778\&RegPath=EventRegFees\&REg_evt_key=bcc3d06a-9b37-467d-8916-ca46aa97a78f\&Site=AALS)
+
+
+      *   9/2019
+
+
+      *   [2019 NOAA Environmental Data Management Workshop
+      (Keynote)](https://noaaedm19.sched.com/)
+
+
+      *   8/2017
+
+
+      *   [SRCCON: Beyond FOIA: Brainstorming Other Ways To See What Your
+      Government Is Up To](https://srccon.org/sessions/#proposal-745804)
+
+
+      *   12/2016
+
+
+      *   [wc3 Smart Descriptions & Smarter Vocabularies
+      (SDSVoc)](https://www.w3.org/2016/11/sdsvoc/agenda)
+
+
+      *   9/2016
+
+
+      *   [Association of Public Data Users
+      Conference](http://apdu.org/events/conference/2016-annual-conference/agenda-2016-annual-conference/)
+
+
+      *   6/2016
+
+
+      *   [Access Granted: How to Get Government
+      Secrets](http://civichall.org/events/access-granted/)
+
+
+      *   5/2016
+
+
+      *   [CodeX FutureLaw
+      2016](http://conferences.law.stanford.edu/futurelaw2016/agenda/)
+
+
+      *   11/2015
+
+
+      *   [Third Annual Safety
+      Datapalooza](https://www.uspto.gov/about-us/organizational-offices/office-under-secretary-and-director/third-annual-safety-datapalooza)
+
+
+      *   10/2015
+
+
+      *   [Visualized](https://vimeo.com/channels/vzd2015/page:3)
+
+
+      *   10/2015
+
+
+      *   [Data Transparency
+      2015](https://www.datacoalition.org/events/data-transparency-2015/)
+
+
+      *   10/2015
+
+
+      *   [PolicyViz
+      Podcast](https://policyviz.com/podcast/episode-22-rebecca-williams/)
+
+
+      *   5/2015
+
+
+      *   [Visualized: Political Data](http://visualized.com/politicaldata/)
+
+
+      *   4/2015
+
+
+      *   [From Revolution to Evolution: Digital Tools in Law
+      Practice](https://www.law.georgetown.edu/news/press-releases/from-revolution-to-evolution-digital-tools-in-law-practice.cfm)
+
+
+      *   11/2014
+
+
+      *   [InnovaChallenge Mexico
+      Hackathon](https://blog.cartodb.com/cartodb-mexico-innovachallenge/)
+
+
+      *   8/2014
+
+
+      *   [Don't Strangle Innovation! A Discussion of Startups, Regulation, and
+      Public
+      Policy](https://www.eventbrite.com/e/dont-strangle-innovation-a-discussion-of-startups-regulation-and-public-policy-tickets-12463938977)
+
+
+      *   4/2014
+
+
+      *   [Iron Tech
+      Lawyer](https://www.law.georgetown.edu/email/2014/03/iron-tech/)
+
+
+      *   1/2014
+
+
+      *   [US Conference of Mayors Annual
+      Conference](https://www.usmayors.org/82ndWinterMeeting/media/agenda-0121.pdf)
     actions: []
     actions_position: bottom
     actions_width: fourty
