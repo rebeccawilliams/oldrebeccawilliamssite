@@ -79,7 +79,7 @@ seo:
     - name: 'twitter:title'
       value: Contact | Rebecca Williams
     - name: 'twitter:description'
-      value: This is the general enquiries page
+      value: This is Rebecca Williams' contact page.
     - name: 'og:image'
       value: /images/IMG_1103%202.jpg
       keyName: property
