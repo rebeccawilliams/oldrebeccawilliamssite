@@ -27,7 +27,7 @@ seo:
       value: Amet Nulla Facilisi Morbi Tempus
       keyName: property
     - name: 'og:description'
-      value: 'Estne, quaeso, inquam, sitienti in bibendo voluptas'
+      value: An Analysis of Gaps in Surveillance Technology Laws
       keyName: property
     - name: 'og:image'
       value: images/classic/post-5.png
