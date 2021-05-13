@@ -17,7 +17,9 @@ image_alt: Rebecca holding large image of computer
 image_position: right
 seo:
   title: What a Federal Policy Analyst Uses
-  description: Quae diligentissime contra Aristonem dicuntur a Chryippo
+  description: >-
+    My ironic but not "Uses This" interview detailing what technology I was
+    allowed to use a Federal (Tech) Policy Analyst.
   extra:
     - name: 'og:type'
       value: article
