@@ -25,7 +25,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Utrum Igitur Tibi Litteram Videor An Totas Paginas
+      value: Sunlight Foundation Archival Posts
       keyName: property
     - name: 'og:description'
       value: >-
