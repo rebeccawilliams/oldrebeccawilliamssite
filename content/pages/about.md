@@ -28,7 +28,7 @@ sections:
           often not the case in niche and broad ways on Twitter and elsewhere.
           She is the daughter of a psychologist and tax attorney from a
           struggling *Most Dangerous* city who gets the bottom line. According
-          to her father, she is a true millennial, and she can definitely attest
+          to her father she is a true millennial, and she can definitely attest
           to what she sees as fundamental generational pressures and trends. She
           sees the world in power struggles, trajectories, and people talking
           past each other. She believes in art, balance, cutting out what
