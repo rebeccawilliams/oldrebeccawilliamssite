@@ -13,7 +13,7 @@ sections:
           policy. She has worked at all jurisdiction levels, inside and outside
           of government, as a civil servant, consultant, and advocate at
           Harvard, the White House (twice), the Sunlight Foundation, and more.
-          Committed to her continued learning and everyone's, she has hosted
+          Committed to her continuous learning and everyone's, she has hosted
           online and offline groups to discuss issues betwixt civics and
           technology with Civic Tech Book Club and DC Legal Hackers. She holds a
           B.A. in Communication from the University of Massachusetts Amherst and
