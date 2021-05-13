@@ -41,8 +41,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/rc.png
-      - title: Harvard Kennedy School
-        title_align: left
+      - title_align: left
         content: >-
           ## Lorem ipsum
 
