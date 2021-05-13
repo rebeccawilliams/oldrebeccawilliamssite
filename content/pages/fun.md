@@ -12,7 +12,7 @@ sections:
       - title: You have found the secret fun page
         content: |
           More soon.
-        image: images/knowledgeable-mahogany.png
+        image: images/caring-sage.gif
         image_alt: Civic Tech Book Club screenshot
         subtitle: 2015-present (Organizer)
         actions:
