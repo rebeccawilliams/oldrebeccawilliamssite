@@ -22,7 +22,7 @@ sections:
     has_border: true
     title: Whose Streets? Our Streets! (Tech Edition)
 seo:
-  title: Posts in General
+  title: TAPP Project
   description: This is the author archive page
   extra:
     - name: 'og:type'
