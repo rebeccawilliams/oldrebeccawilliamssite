@@ -27,7 +27,7 @@ sections:
         actions:
           - label: See More on
             url: 'https://www.linkedin.com/in/rebeccaannwilliams/'
-            style: link
+            style: primary
             has_icon: true
             icon: linkedin
             icon_position: right
