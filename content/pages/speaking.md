@@ -289,7 +289,7 @@ seo:
       value: This is Rebecca Williams' Speaking page.
       keyName: property
     - name: 'og:image'
-      value: images/about-3.jpg
+      value: /images/IMG_1103%202.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
