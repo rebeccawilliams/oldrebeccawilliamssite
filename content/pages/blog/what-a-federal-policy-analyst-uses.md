@@ -37,7 +37,9 @@ seo:
     - name: 'twitter:title'
       value: What a Federal Policy Analyst Uses
     - name: 'twitter:description'
-      value: Quae diligentissime contra Aristonem dicuntur a Chryippo
+      value: >-
+        My ironic but not "Uses This" interview detailing what technology I was
+        allowed to use a Federal (Tech) Policy Analyst.
     - name: 'twitter:image'
       value: images/classic/post-2.png
       relativeUrl: true
