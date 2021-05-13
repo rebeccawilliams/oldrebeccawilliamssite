@@ -26,7 +26,9 @@ seo:
       value: What a Federal Policy Analyst Uses
       keyName: property
     - name: 'og:description'
-      value: Quae diligentissime contra Aristonem dicuntur a Chryippo
+      value: >-
+        My ironic but not "Uses This" interview detailing what technology I was
+        allowed to use a Federal (Tech) Policy Analyst.
       keyName: property
     - name: 'og:image'
       value: images/classic/post-2.png
