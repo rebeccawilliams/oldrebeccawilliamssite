@@ -192,9 +192,12 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
   - title: lorem-ipsum
-    content: >
-      This is \<mark>marked or highlighted\</mark> text.\<div
-      class="responsive-table">
+    content: |
+      ##
+
+      This is 
+
+      \<mark>marked or highlighted\</mark> text.\<div class="responsive-table">
         \<table>
             \<caption>Table with thead, tfoot, and tbody Hello.\</caption>
           \<thead>
@@ -232,9 +235,7 @@ sections:
 
 
 
-
       This is [an example](http://example.com) link.
-
 
       ## Other Apperances
     actions: []
