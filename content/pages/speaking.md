@@ -286,7 +286,7 @@ seo:
       value: Features
       keyName: property
     - name: 'og:description'
-      value: This is the features page
+      value: This is Rebecca Williams' Speaking page.
       keyName: property
     - name: 'og:image'
       value: images/about-3.jpg
