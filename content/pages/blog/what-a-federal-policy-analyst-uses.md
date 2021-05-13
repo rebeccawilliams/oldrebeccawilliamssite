@@ -16,7 +16,7 @@ thumb_image_alt: Rebecca holding large image of computer
 image_alt: Rebecca holding large image of computer
 image_position: right
 seo:
-  title: 'Non Minor, Inquit, Voluptas Percipitur Ex Vilissimis'
+  title: What a Federal Policy Analyst Uses
   description: Quae diligentissime contra Aristonem dicuntur a Chryippo
   extra:
     - name: 'og:type'
