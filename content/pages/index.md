@@ -125,7 +125,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit DIY Theme
+      value: Rebecca Williams
     - name: 'twitter:description'
       value: 'The website of Rebecca Williams. Enjoy. '
     - name: 'twitter:image'
