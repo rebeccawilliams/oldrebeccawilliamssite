@@ -47,7 +47,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-          - label: Protecting/Promoting Democracy w Tech (2020)
+          - label: Promoting Democracy w Tech (2020)
             url: >-
               https://www.belfercenter.org/event/every-sectors-role-protecting-and-promoting-democracy-technology
             style: primary
