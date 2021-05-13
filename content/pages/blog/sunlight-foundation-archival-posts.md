@@ -33,7 +33,7 @@ seo:
         data policies and practices.
       keyName: property
     - name: 'og:image'
-      value: images/classic/post-1.png
+      value: /images/Sunlight-site.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
