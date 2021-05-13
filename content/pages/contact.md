@@ -63,7 +63,7 @@ sections:
     background_color: secondary
 seo:
   title: Contact | Rebecca Williams
-  description: This is the general enquiries page
+  description: This is Rebecca Williams' contact page.
   extra:
     - name: 'og:type'
       value: website
