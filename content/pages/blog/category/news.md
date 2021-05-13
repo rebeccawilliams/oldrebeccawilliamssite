@@ -1,5 +1,5 @@
 ---
-title: News
+title: Personal
 sections:
   - type: hero_section
     title: Personal
