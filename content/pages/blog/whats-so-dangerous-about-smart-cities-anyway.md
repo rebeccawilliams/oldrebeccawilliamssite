@@ -23,7 +23,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Amet Nulla Facilisi Morbi Tempus
+      value: What's so Dangerous About Smart Cities Anyway?
       keyName: property
     - name: 'og:description'
       value: 'Estne, quaeso, inquam, sitienti in bibendo voluptas'
