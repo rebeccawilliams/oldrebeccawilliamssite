@@ -75,7 +75,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Community
+      value: Community | Rebecca Williams
       keyName: property
     - name: 'og:description'
       value: This is a page o
