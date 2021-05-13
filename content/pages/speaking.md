@@ -41,7 +41,6 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/rc.png
-        subtitle: National Institute for Computer-Assisted Reporting
       - title: Harvard Kennedy School
         title_align: left
         content: >-
