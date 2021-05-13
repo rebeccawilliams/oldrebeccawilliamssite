@@ -193,7 +193,7 @@ sections:
     type: grid_section
   - title: lorem-ipsum
     content: |
-      Tables\<div class="responsive-table">
+      Other Apperances\<div class="responsive-table">
         \<table>
             \<caption>Table with thead, tfoot, and tbody Hello.\</caption>
           \<thead>
@@ -207,7 +207,7 @@ sections:
           \<tbody>
             \<tr>
               \<td>Tech and Public Purpose\</td>
-              \<td>Body content\</td>
+              \<td>Hello\</td>
               \<td>Body content\</td>
               \<td>Body content\</td>
             \</tr>
