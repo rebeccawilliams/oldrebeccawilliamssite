@@ -23,14 +23,16 @@ sections:
           Legal Tech.
 
 
-          She would like to see modern tools used in the service of justice and
-          democracy and gripes about how that is too often not the case in niche
-          and basic ways on Twitter and elsewhere. According to her father, she
-          is a "true millennial" and she can definitely attest to what she sees
-          as fundamental generational pressures and trends. She sees the world
-          in power struggles, trajectories, and people talking past each other.
-          She believes in art, cutting out what doesn't work, density &
-          diversity, and humor. 
+          She would like to see modern tools with all their capacbiltiies used
+          in the service of justice and democracy and gripes about how that is
+          too often not the case in niche and basic ways on Twitter and
+          elsewhere. According to her father, she is a "true millennial" and she
+          can definitely attest to what she sees as fundamental generational
+          pressures and trends. She sees the world in power struggles,
+          trajectories, and people talking past each other. She believes in art,
+          balance, cutting out what doesn't work, density & diversity, and
+          humor. She wants to ask you about the latest thing you enjoyed over
+          coffee, tea, or a drink.
         image: images/superb-tulip.png
         image_alt: People in conversation in the office lounge area
         media_position: right
