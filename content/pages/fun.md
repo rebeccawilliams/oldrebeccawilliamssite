@@ -33,6 +33,7 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: secondary
+    align: center
 seo:
   title: Fun
   description: This is the community groups page
