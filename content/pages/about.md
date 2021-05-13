@@ -40,8 +40,7 @@ sections:
         media_position: right
         media_width: fifty
         actions: []
-      - subtitle: lorem-ipsum
-        content: >-
+      - content: >-
           ## Lorem ipsum
 
 
