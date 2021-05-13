@@ -108,6 +108,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        image: images/Screen Shot 2021-05-13 at 2.59.45 AM.png
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
