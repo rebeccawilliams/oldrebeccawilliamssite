@@ -34,9 +34,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-          - label: >-
-              Every Sector's Role in Protecting and Promoting Democracy with
-              Technology
+          - label: Protecting and Promoting Democracy with Technology
             url: >-
               https://www.belfercenter.org/event/every-sectors-role-protecting-and-promoting-democracy-technology
             style: primary
