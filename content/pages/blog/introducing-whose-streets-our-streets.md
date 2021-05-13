@@ -32,7 +32,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Cur Ipse Pythagoras Et Aegyptum Lustravit
+      value: Introducing Whose Steets? Our Streets! (Tech Edition)
     - name: 'twitter:description'
       value: Developing Interventions to Protect Civil Liberties in a 'Smart City'
     - name: 'twitter:image'
