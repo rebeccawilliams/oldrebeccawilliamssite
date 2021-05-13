@@ -8,41 +8,6 @@ sections:
     subtitle: Featured
     actions: []
     grid_items:
-      - title: RightsCon
-        title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
-        content_align: left
-        actions:
-          - label: 'Urban futures: collective action towards humane digital cities'
-            url: >-
-              https://www.rightscon.org/program/?fwp_session_category=privacy-and-surveillance
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-        image: images/rc.png
-        subtitle: National Institute for Computer-Assisted Reporting
       - title: Harvard Kennedy School
         title_align: left
         content: >-
@@ -87,6 +52,41 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/Screen Shot 2021-05-13 at 2.59.45 AM.png
+      - title: RightsCon
+        title_align: left
+        content: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        content_align: left
+        actions:
+          - label: 'Urban futures: collective action towards humane digital cities'
+            url: >-
+              https://www.rightscon.org/program/?fwp_session_category=privacy-and-surveillance
+            style: primary
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
+        image: images/rc.png
+        subtitle: National Institute for Computer-Assisted Reporting
       - title: NICAR
         title_align: left
         content_align: left
