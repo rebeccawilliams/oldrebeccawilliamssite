@@ -11,7 +11,7 @@ sections:
       her dog, Hannah Arendt.
     actions:
       - label: Read Full Bio
-        url: /contact
+        url: /about
         style: secondary
     image: images/rebecca.png
     image_alt: Hero section placeholder image
