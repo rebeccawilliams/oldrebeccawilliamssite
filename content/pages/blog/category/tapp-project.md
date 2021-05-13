@@ -23,7 +23,7 @@ sections:
     title: Whose Streets? Our Streets! (Tech Edition)
 seo:
   title: TAPP Project
-  description: This is the author archive page
+  description: Posts associated with Rebecca Williams' work at the TAPP Project
   extra:
     - name: 'og:type'
       value: website
