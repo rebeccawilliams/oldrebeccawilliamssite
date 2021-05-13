@@ -1,5 +1,5 @@
 ---
-title: Rebecca Williams
+title: Rebecca
 sections:
   - type: hero_section
     title: Rebecca Williams
