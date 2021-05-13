@@ -13,7 +13,7 @@ thumb_image_alt: Cyber city gif
 image_alt: Cyber city gif
 image_position: left
 seo:
-  title: Cur Ipse Pythagoras Et Aegyptum Lustravit
+  title: Introducing Whose Steets? Our Streets! (Tech Edition)
   description: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
   extra:
     - name: 'og:type'
