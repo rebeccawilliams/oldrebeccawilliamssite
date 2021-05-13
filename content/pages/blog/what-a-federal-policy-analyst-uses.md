@@ -35,7 +35,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: 'Non Minor, Inquit, Voluptas Percipitur Ex Vilissimis'
+      value: What a Federal Policy Analyst Uses
     - name: 'twitter:description'
       value: Quae diligentissime contra Aristonem dicuntur a Chryippo
     - name: 'twitter:image'
