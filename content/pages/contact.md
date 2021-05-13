@@ -8,18 +8,24 @@ sections:
     padding_bottom: medium
     background_color: primary
   - type: form_section
-    content: |
+    content: >
       ### Stay in Touch
 
-      Email is the best way to reach me: rebecca@rebeccawilliams.us.
 
-      Follow me on social (see footer). 
+      Email is the best way to reach Rebecca: rebecca@rebeccawilliams.us.
+
+
+      Follow her on social (see footer).
+
 
       If you want to be formal, use the form.
 
+
       ### PGP Key
 
-      https://keybase.io/RebeccaWilliams
+
+      For encrypted messages follow her on
+      [Keybase](https://keybase.io/RebeccaWilliams).
     content_align: left
     form_position: right
     form_width: fifty
