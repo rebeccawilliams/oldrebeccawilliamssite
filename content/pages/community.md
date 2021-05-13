@@ -93,7 +93,7 @@ seo:
     - name: 'twitter:description'
       value: This is the community groups page
     - name: 'twitter:image'
-      value: images/about-3.jpg
+      value: /images/IMG_1103%202.jpg
       relativeUrl: true
 layout: advanced
 ---
