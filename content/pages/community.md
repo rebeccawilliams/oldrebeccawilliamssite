@@ -75,7 +75,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Community groups
+      value: Community
       keyName: property
     - name: 'og:description'
       value: This is the community groups page
