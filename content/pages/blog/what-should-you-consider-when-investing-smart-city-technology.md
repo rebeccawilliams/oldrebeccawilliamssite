@@ -12,7 +12,7 @@ thumb_image_alt: TAPP thumbnail
 image_alt: TAPP thumbnail
 image_position: right
 seo:
-  title: Amet Nulla Facilisi Morbi Tempus
+  title: What Should You Consider When Investing In “Smart City” Technology?
   description: 'Estne, quaeso, inquam, sitienti in bibendo voluptas'
   extra:
     - name: 'og:type'
