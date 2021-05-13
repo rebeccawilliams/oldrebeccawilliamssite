@@ -36,7 +36,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Amet Nulla Facilisi Morbi Tempus
+      value: Everything Local Surveillance Laws Are Missing In One Post
     - name: 'twitter:description'
       value: An Analysis of Gaps in Surveillance Technology Laws
     - name: 'twitter:image'
