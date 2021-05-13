@@ -13,7 +13,7 @@ thumb_image: images/Coverage.png
 thumb_image_alt: >-
   Screenshots from Nuclear Energy videos (2015) by Kurzgesagt via
   letstalkscience.ca
-image: images/pros_cons_nuclear_energy.png
+image: images/Coverage.png
 image_alt: >-
   Screenshots from Nuclear Energy videos (2015) by Kurzgesagt via
   letstalkscience.ca
