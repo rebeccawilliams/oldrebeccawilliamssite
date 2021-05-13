@@ -83,17 +83,19 @@ seo:
         facilitated.
       keyName: property
     - name: 'og:image'
-      value: images/about-3.jpg
+      value: /images/IMG_1103%202.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Community Groups
+      value: Community
     - name: 'twitter:description'
-      value: This is the community groups page
+      value: >-
+        This is a page of educational communities Rebecca Williams has
+        facilitated.
     - name: 'twitter:image'
-      value: images/about-3.jpg
+      value: /images/IMG_1103%202.jpg
       relativeUrl: true
 layout: advanced
 ---

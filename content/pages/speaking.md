@@ -276,30 +276,30 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
 seo:
-  title: Features
-  description: This is the features page
+  title: Speaking | Rebecca Williams
+  description: This is Rebecca Williams' Speaking page.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Features
+      value: 'Speaking | Rebecca Williams '
       keyName: property
     - name: 'og:description'
-      value: This is the features page
+      value: This is Rebecca Williams' Speaking page.
       keyName: property
     - name: 'og:image'
-      value: images/about-3.jpg
+      value: /images/IMG_1103%202.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Features
+      value: 'Speaking | Rebecca Williams '
     - name: 'twitter:description'
-      value: This is the features page
+      value: This is Rebecca Williams' Speaking page.
     - name: 'twitter:image'
-      value: images/about-3.jpg
+      value: /images/IMG_1103%202.jpg
       relativeUrl: true
 layout: advanced
 ---
