@@ -47,95 +47,327 @@ seo:
 layout: post
 author: content/data/team/dianne-ameter.yaml
 ---
-The Belfer Center, home of the Technology and Public Purpose (TAPP) project, was originally created to analyze dangers posed by nuclear
-technology. When people ask about my TAPP fellowship, I usually say that I am doing the same analysis, but for “smart cities.” Even for folks
-not particularly concerned or interested in “smart cities” this usually sounds spicy enough to pique their interest or at least succinctly
-explain what I am up to. In this blog post, I’ll provide an update on what “smart city” technology I am considering and some of the potential harms its misuse introduces.
+As I have been researching "smart city" harms and prevention tactics, I have reviewed current surveillance technology laws with an eye for how they are being constructed, applied, and subverted. This post summarizes their status to date, what they are missing, and some initial thoughts on where legal protections might go next.
 
-### What “Smart City” Technology?
+#### Why Surveillance Technology Laws 
 
-The goal of my research is not to examine any one “smart city” technology (which is [an expanding and nebulous list](https://en.wikipedia.org/wiki/Smart_city#Technologies)), but rather the tension between increased state data collection to improve civic services and the risks that collection creates. (In this
-way smart city technology is representative of many public data governance issues to come). The “smart city” themed projects that
-inspired this research ([LinkNYC](https://www.ny1.com/nyc/all-boroughs/politics/2019/05/09/linknyc-kiosks-surveillance-questions-about-cameras-recording-kiosks-also-losing-money), [Los Angeles’ Mobility Data Specification](https://www.theverge.com/2020/6/8/21284490/aclu-ladot-mds-lawsuit-scooter-tracking-uber), [San Diego Smart ](https://www.vice.com/en/article/z3vn83/streetlight-spy-cameras-have-led-to-a-massive-privacy-backlash-in-san-diego)[Streetlights](https://www.vice.com/en/article/z3vn83/streetlight-spy-cameras-have-led-to-a-massive-privacy-backlash-in-san-diego), and [Sidewalk Toronto](https://privacyinternational.org/examples-abuse/1933/city-toronto-deal-sidewalk-labs-sparks-public-protests)) all involved different technologies and civic aims but aroused similar public concerns regarding unprecedented data collection and how that
-data would be used. While each project surely had nuanced trade-offs, what level of care was not being taken by local governments (and their partner vendors) across these projects to provoke public outcry?
+Many legal scholars have argued regulation is needed to protect people from harmful government surveillance because Fourth Amendment judicial scrutiny is too limited in scope and slow to be reviewed. Unlike Fourth Amendment protections, regulation could categorically limit certain types of surveillance (rather than relying on a reasonable search analysis), and it could also address private-sector surveillance sources, which are often excluded from Fourth Amendment scrutiny via the third-party doctrine. Further, proactive regulation could prevent surveillance harms before they occur, while judicial review can only occur after the damage is done. Lastly, regulation could change 
+reflexively with community values beyond the imagination of the Constitution's drafters.
 
-The examination of harms that “smart city” technology might contribute to cannot be examined in a vacuum. The issues raised by these
-projects are certainly related to the broader Big Tech and privacy regulation debate, but are distinguished from them in that one cannot
-individually consent or opt-out of their neighborhood. Further, “smart city” technology is increasingly implicated in growing state
-surveillance capabilities (in the U.S. and abroad), but related policy discussions can miss their role if they focus exclusively on [technologies managed by law enforcement agencies](https://www.eff.org/issues/street-level-surveillance) or only consider current uses in the United States.
+This post will only cover the sixteen local "surveillance technology" laws (cited and linked below) and will not cover related [facial recognition technology laws](https://ainowinstitute.org/regulatingbiometrics-spivack-garvie.pdf), [biometric laws](https://www.jdsupra.com/legalnews/state-biometric-laws-are-trending-and-2640319/), and [consumer privacy laws](https://iapp.org/resources/article/state-comparison-table/) that are also trending. Four of the jurisdictions that have passed 
+surveillance technology laws (Berkley, Cambridge, San Francisco, and Somerville) have also [banned facial recognition technology](https://static1.squarespace.com/static/5c1bfc7eee175995a4ceb638/t/602430a5ef89df2ce6894ce1/1612984485653/New+CCOPS+On+The+Beat.pdf) to some extent.
 
-Rather than focusing on a specific technology, how do these technologies, in context with everything else that is happening in the
-world, potentially contribute to harm? How are “smart city” projects [considering harms of further surveilling public spaces](https://some-thoughts.org/robinson.html)? Are relevant “smart city” projects in current [surveillance policy](https://digitalcommons.law.scu.edu/chtlj/vol36/iss5/2/) discussions? What constituencies are prioritized when deciding if the collective utility of new “smart city” data collection is worth the risks? How can the U.S. Federal Government and U.S. based vendors be responsible global actors given these variable environments?
+#### Missing Sources 
 
-### Potential Harms of Smart City Technology
+Surveillance technology laws currently have a broad range of applicability when it comes to who, what, and even when these oversight provisions kick in on the frontend, as well as exceptions and loopholes on the backend. Is anything included? Let us dig in.
 
-While some parties will dismiss potential harms of “smart city” technology as alarmist or premature, I see these repeated instances of
-public pushback as intrinsically legitimate. The widespread implementation of new technologies that ultimately collect personal data throughout public spaces is uncharted territory. I was recently reminded by a colleague that nuclear risks advocates were similarly
-considered to be extremists before Chernobyl, but were ultimately correct in being fearful of a worst-case scenario. Moreover, thoughtful regulation and management of these technologies must be applied to protect against the potential harms (outlined below), and we must forward plan for the worst-case scenarios of mis-using/mismanagement “smart city” technology in order to safeguard our democracy.
+###### What is regulated?
 
-In the spirit of these common public concerns, I have started to outline broad categories of harms that might arise from deploying “smart city” technology. The intent of this framework is for it to evolve into an assessment tool for current practices and guide for future considerations of deploying  “smart city“ technology.
+While a goal of surveillance technology regulation is to limit harmful surveillance before it occurs, it is challenging to craft a definition 
+of "surveillance technology" that is broad enough to anticipate all potential types of new technology and narrow enough to be implementable. Many of these ordinances begin by defining "surveillance technology" as:
 
-#### 1. Lack of Community Input
+*"any electronic surveillance device, hardware, or software that is capable of collecting, capturing, recording, retaining, processing, intercepting, analyzing, monitoring, or sharing audio, visual, digital, location, thermal, biometric, or similar information specifically associated with, or capable of being associated with, any Identifiable Individual or group..."*
 
-A first-order issue is does the community where “smart city” technology will be deployed want it? To know the answer to this question means ongoing engagement with a community and robust dialogue about types of data collection, how that might contribute to the collective
-good, and all the trade-offs involved. Given the other possible harms involved (see below), projects should not be pursued at all unless the community is on board for an articulated outcome. Challenges for community input on “smart city” technology include ensuring that
-approval is informed (perhaps via trusted experts and intermediaries) and identifying the appropriate level of approval (e.g. neighborhood v.
-city, majority v. unanimous). Examples like [Sidewalk Lab’s poor public reception (procedurally as well as substantively) to their ](https://ir.lawnet.fordham.edu/cgi/viewcontent.cgi?article=5628\&context=flr)[Master Innovation and Development Plan](https://ir.lawnet.fordham.edu/cgi/viewcontent.cgi?article=5628\&context=flr) highlight the need for this dialogue to take place before the procurement process takes place. Cities like Boston and Seattle have attempted to systematize community input on “smart city” tech with a [Boston Smart City Playbook](https://monum.github.io/playbook/) (which highlights the need for right-tech versus high-tech approaches to civic problem solving) and [Surveillance Impact Report](https://www.seattle.gov/tech/initiatives/privacy/surveillance-technologies/about-surveillance-) processes (which highlights the need for public comment, working group, and council approval of new surveillance technologies).
+They then go on to include a detailed list of included and excluded technologies. While the above definition is flexible enough to apply to [many new technologies](https://www.aclu.org/report/dawn-robot-surveillance) and targets data re-identification, many jurisdictions exclude "cameras attached to government property," "medical equipment," and "parking citation devices," all of which could be deployed in ways that constitute the kind of surveillance these laws are supposed to prevent. For example, imagine [powerful streetlight cameras](https://www.streetlightdata.com/) or [facial recognition technology kiosks](https://onezero.medium.com/those-covid-19-temperature-scanning-kiosks-use-scary-powerful-facial-recognition-8cc8ada0c595) being excluded from oversight as "cameras on government property" or "medical equipment." Many of the definitions and exclusions were long, and some used circular logic, making these laws challenging to implement. Others included specific types of surveillance technology (ISMI catchers) or company brand names (Shotspooter) that may not be relevant in the future. Definitions are important! San Francisco [had to amend their facial recognition technology definition](https://www.documentcloud.org/documents/6574435-SFFR.html) after realizing it included [iPhones used by government employees](https://9to5mac.com/2019/12/23/city-employees-to-use-iphones/).
 
-#### 2. Erosion of Privacy and 4th Amendment Protections
+Given the complexity of capturing all potential surveillance tools as technology continues to advance and proliferate, legislators may want to consider inclusive and principles-based definitions and allow for policy mechanisms that can be updated iteratively. For example, 
+jurisdictions may lead with technology definitions that include "technology that collects or manages information that can re-identify a person or group" or "all novel technologies" and then maintain specific lists of prohibited technologies (e.g., "facial recognition technology") by name as public policy documents. Jurisdictions may also want to regulate certain types of data collection (as biometrics laws have done) or specific uses (as is the case with the U.S. Census data, which cannot be shared with law enforcement) to achieve their overall objectives. Lastly, to ensure all of these types of tech (or data or uses) are being captured, legislators may want to require a third-party audit of government systems and practices.
 
-While community input is a first-order issue to deploying “smart city” technology, the rest of these harms are not delineated in any
-sequential or ranked order. As technology development moves faster than law, there is a trend of technology expanding possible searches by law
-enforcement, and that expansion being challenged in court as a violation of our Fourth Amendment protection from unreasonable searches and seizures. While an individual’s actions or movements in public spaces have historically fallen outside the scope of Fourth Amendment protections, recent case law has inspired some legal scholars, such as Andrew Ferguson, to examine how digital may be considered differently.
-In [“Structural Sensor Surveillance” 106 Iowa L. Rev. 47 (2020)](https://ilr.law.uiowa.edu/print/volume-106/structural-sensor-surveillance/) Ferguson considers how automated, continuous, aggregated, long-term
-acquisition of personal data with “smart city” sensors may trigger Fourth Amendment scrutiny under current Supreme Court doctrine. Separate from Fourth Amendment protections, as a matter of public policy, one may consider other harms that may occur from an erosion of privacy
-including social detriment and a loss of liberty. How are “smart city” technology contracts construing their [privacy policies](https://www.eff.org/deeplinks/2017/09/linknyc-improves-privacy-policy-yet-problems-remain)? Lastly, as “smart city” technology collects more and more data that can be used to re-identify people, the cybersecurity of any information
-collected becomes an integral aspect of overall privacy protections. A data breach could lead to re-identifying someone and causing threats to
-their safety and wellbeing or economic loss.
+###### Who is regulated?
 
-#### 3. Chilling of 1st Amendment Rights
+In
+ addition to definitional challenges, surveillance technology laws vary 
+broadly in who they oversee. Only four jurisdictions' surveillance 
+technology laws applied to all departments without exceptions for 
+certain law enforcement technologies and investigations. Also, four 
+jurisdictions failed to include federal acquisitions in their oversight 
+scheme despite ample evidence that some of local government's most [sophisticated surveillance tools come from federal sources](https://www.muckrock.com/foi/file/154306/embed/). Moreover, even if surveillance technology is prohibited in your jurisdiction, [it is common practice](https://themarkup.org/news/2021/01/28/police-say-they-can-use-facial-recognition-despite-bans) to get similar data from neighboring and overlapping jurisdictions where it is not prohibited.
 
-In the U.S. the first amendment protects the five freedoms of speech, religion, press, assembly, and the right to petition (protest)
-the government. The surveillance imposed by “smart city” could have a chilling effect on community members feeling comfortable participating
-in these protected activities for fear of harassment or retaliation by the state. As more instances of filming protestors are documented (such
-as in [San Diego streetlight cameras](https://www.voiceofsandiego.org/topics/government/police-used-smart-streetlight-footage-to-investigate-protesters/), [Miami University](https://www.voiceofsandiego.org/topics/government/police-used-smart-streetlight-footage-to-investigate-protesters/), [Hong Kong](https://www.nytimes.com/2019/07/26/technology/hong-kong-protests-facial-recognition-surveillance.html)) one could reasonably anticipate to be filmed and identified in public space. If [public space becomes a place where one fears punishment](https://www-jstor-org.ezp-prod1.hul.harvard.edu/stable/pdf/41426920.pdf?refreqid=excelsior%3A9bf6bcf37caa21d52b3c663494968f17), how will that affect collective action and political movements?
+In
+ addition to gaps in department and jurisdiction coverage, there has 
+been fantastic investigative reporting on the rampant government use of 
+data collected by private data brokers to track [cars](https://www.vice.com/en/article/k7adn9/car-location-data-telematics-us-military-ulysses-group), [cell phone location](https://arstechnica.com/tech-policy/2020/12/cbps-warrantless-use-of-cell-phone-location-data-is-under-investigation/), [faces](https://www.nytimes.com/interactive/2021/03/18/magazine/facial-recognition-clearview-ai.html), [home security cameras,](https://www.theverge.com/2021/1/31/22258856/amazon-ring-partners-police-fire-security-privacy-cameras) and [utilities](https://www.washingtonpost.com/technology/2021/02/26/ice-private-utility-data/).
+ Private-sector data brokers sometimes provide this data for free to 
+governments bypassing procurement rules and political review and often 
+require nondisclosure agreements (NDAs), bypassing public and judicial 
+scrutiny. Only three jurisdictions ban the use of NDAs as part of their 
+surveillance technology law. Advocates at the EFF call for [banning government use and strict limits to private use of facial recognition technology](https://www.eff.org/deeplinks/2021/01/why-eff-doesnt-support-bans-private-use-face-recognition)
+ given their risk/utility levels. While this distinction may make sense 
+theoretically, today, private use is barely limited, and the 
+entanglement of government and private use is severe. Given the use of 
+private tools by government employees to "get the job done" ([such as email and messaging apps)](https://today.yougov.com/topics/politics/articles-reports/2019/04/02/emails-jared-ivanka-clinton-illegal-whatsapp) and the growing [amateur use of facial recognition technology](https://www.vice.com/en/article/4ad5k3/how-normal-people-deployed-facial-recognition-on-capitol-hill-protesters)
+ to identify people, I suspect a bright-line distinction between 
+government and non-government regulation will be difficult to implement 
+on the ground.
 
-#### 4. Discrimination / Oppression
+To ensure these regulations are effective, 
+legislators may want to consider national, state, and regional 
+opportunities, as well as private sector prohibitions (like Portland and
+ New York City have done for facial recognition technology and [as proposed by Senator Wyden this week ](https://www.wyden.senate.gov/imo/media/doc/The%20Fourth%20Amendment%20Is%20Not%20For%20Sale%20Act%20of%202021%20Bill%20Text.pdf)with The Fourth Amendment is Not For Sale Act). Advocates may want to study [obstacles to surveillance technology law passage](https://www.lawfareblog.com/four-obstacles-local-surveillance-ordinances) and [lobbying](https://themarkup.org/privacy/2021/04/01/the-little-known-data-broker-industry-is-spending-big-bucks-lobbying-congress)
+ trends to strategically surmount those loci of power. Audits like 
+investigative journalists have been doing above can help capture all 
+government use of surveillance data, whether it originated from another 
+government or a private source.
 
-Because “smart city” tech is applied to a given neighborhood, it shares the potential for discrimination rife in urban planning and
-public safety history and also a new power of extending those inequities to the digital worlds term that many have coined as “[digital redlining](https://en.wikipedia.org/wiki/Digital_redlining)”.
-Potential harms that flow from disproportionate use or disparate community impact include loss of opportunity, economic loss, and social
-determinants (dignitary harms, constraints of bias). Cities, such as [Baltimore and DC](https://cnsmaryland.org/2020/11/19/police-cameras-disproportionately-surveil-nonwhite-areas-of-dc-and-baltimore-cns-finds/), have closed-circuit television (CCTV) installed in in majority nonwhite areas, on average than in majority-white neighborhoods. Detroit has come under scrutiny by local activists for using facial recognition
-technology in [public housing](https://www.nytimes.com/2019/09/24/us/politics/facial-recognition-technology-housing.html), spurring [the introduction of Federal legislation](https://www.congress.gov/bill/116th-congress/house-bill/4008/text?r=11\&s=1) to prohibit “the use of biometric recognition technology in certain
-federally assisted dwelling units.” These biases compound as data collection from strategically placed “smart city” and other surveillance technology increasingly inform policy decisions such as predictive policing. Seattle’s surveillance law requires [Equity Impact Assessment reporting](https://www.seattle.gov/tech/initiatives/privacy/surveillance-technologies/additional-surveillance-reports) as part of their surveillance technology review process, but to date, the city has articulated an inexpertise in measuring this impact other than examining how it comes up in the public comment.
+###### When is it regulated?
 
-#### 5. Loss of Accountable Government
+Surveillance
+ technology laws vary in when they apply. Five jurisdictions' 
+surveillance technology laws do not apply retroactively, and fourteen 
+have exceptions for incidents as they arise, such as exigent 
+circumstances, technical patches, and large-scale events. While 
+retroactive oversight could be costly and disruptive to active 
+programming, jurisdictions that aim to regulate harmful surveillance may
+ want to reconsider automatically grandfathering in practices already in
+ place, which may be very dangerous. Similarly, while space for 
+emergencies is desirable, much of [harmful historical surveillance](https://www.aclu.org/report/dawn-robot-surveillance) has been categorized under such terms.
 
-Lastly, as governments continue to outsource technology services to private vendors the vendors at play [take on a quasi-government function](https://www.resite.org/stories/bianca-wylie-on-the-critical-design-process-of-democracy-in-smart-cities) without many of the accountability measures built into government functions such as public records access, public auditors, or consequences for elected officials if services do not meet community members expectations. Moreover, if care is not taken with data
-governance, community members may be further vulnerable to corporate influence via “surveillance capitalism.” As a“smart city” must be
-considered as a potential extension of police surveillance and its biases, it must also be considered as a potential extension of corporate
-surveillance. At what point does a single corporation have “vertical integration” (in terms of personal data) of a whole neighborhood? This
-corporate influence (via data, and sheer size of these vendors) was central to [Sidewalk Toronto criticism](https://ir.lawnet.fordham.edu/cgi/viewcontent.cgi?article=5628\&context=flr), [Amazon HQ2 criticism](https://www.forbes.com/sites/victoriapavlova/2018/11/08/in-amazons-competition-for-hq2-was-data-the-ultimate-goal/?sh=12e3d37bd039), and [Port Covington criticism](http://data.baltimoresun.com/news/port-covington/). For the data aspect, some cities have retained data rights in their contacts (e.g. [GovEx’s Data Ownership and Usage Terms](https://labs.centerforgov.org/data-governance/data-ownership/)) or “open standards” ([Mobility Data Specification](https://www.openmobilityfoundation.org/about-mds/)) for access to data collected by the private sector but this [raises new questions](https://triangulator.org/blog/local-power-digital-policing/)
-of what data the vendor be collecting and managing and what data should governments be collecting and managing. Namely, does this collection
-protect individuals, and is the collection [fit for its purpose](https://journals.sagepub.com/doi/10.1177/016555159502100204)? Ultimately data collected for the purposes of consumer payment is more
-granular than what is needed for collective city planning and very different from data collected for the purposes of law enforcement. In
-addition to these fitness for purpose considerations, [many alternatives](https://foundation.mozilla.org/en/initiatives/data-futures/data-for-empowerment/#10-data-governance-approaches-explored) to data governance have emerged as potential approaches to navigating data spaces that must consider [individual and collective purposes](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3727562), as well as competing individual, corporate, and public interests. How
-is data access explicitly or implicitly included in “smart city” vendor business models or contracts? (i.e. Is part of the bargain that the
-vendor retains data as a good in exchange for the hardware they provide?) Where no or less money is exchanged, how is data access
-considered in public-private partnerships and other test bed scenarios?
+To
+ ensure surveillance technology laws oversee all harmful surveillance, 
+legislators may consider nuanced oversight schemes that treat 
+retrospective or emergency technology use differently but do not remove 
+it from oversight. For example, retroactive review can be prioritized by
+ public input. For emergency applications, additional enforcement 
+penalties could be levied if inappropriately used to avoid oversight, 
+and other requirements could be imposed, such as no data retention.
 
-### Research Next Steps
+  ![](https://www.belfercenter.org/sites/default/files/styles/large/public/2021-04/p1\_0.png?itok=q17pWOF5)
 
-The final output goals of this Whose Streets? Our Streets! (Tech Edition) the research project is to provide some high-level recommendations for
-governments, the public, and vendors to prevent these harms. The immediate next steps for this project include further refining this set
-of harms and collecting examples of current “smart city” tech use and policy. Questions for readers:
 
-*   Do these harm categories resonate?
 
-*   What’s missing?
 
-*   What current or imagined prevention tactics, including [avoiding or postponing ](https://www.aclum.org/en/campaigns/press-pause-face-surveillance)the use[ of certain technologies outright](https://www.aclum.org/en/campaigns/press-pause-face-surveillance), should be considered?
+#### Missing Actualization
 
-Please send feedback to <rebeccawilliams@hks.harvard.edu> by January 31, 2021.
+Surveillance
+ technology laws vary in their oversight requirements, implementation 
+status, and teeth. While many of the reporting requirements are similar 
+in kind, several jurisdictions have not completed these reports, and 
+they vary in quality. The enforcement mechanisms also vary across 
+jurisdictions.
 
-[*Originally posted on The Perspectives on Public Purpose Blog hosted by Harvard Kennedy School Belfer Center’s Technology and Public Purpose Project (TAPP)*](https://www.belfercenter.org/publication/whats-so-dangerous-about-smart-cities-anyway)
+###### What does implementation look like?
+
+While 
+fifteen jurisdictions require an annual report, I could only find 2020 
+annual reports for five. Some jurisdictions did not have an annual 
+report online but did have some impact reports submitted to the city 
+council for review online. BART, Berkley, Oakland, Santa Clara, San 
+Francisco, and Seattle all had Automated License Plate Readers (ALPRs) 
+submitted (and it looks like approved) through their oversight process. 
+While this technology could be scoped to uses the community is 
+comfortable with, its approval is concerning considering its [known discriminatory effects](https://www.eff.org/deeplinks/2020/09/flock-license-plate-reader-homeowners-association-safe-problems).
+ On the other extreme, Cambridge's surveillance technology reports 
+included their RMV website and Tweetdeck. While these certainly could be
+ used for harmful surveillance, one wonders if other government website 
+or social media policies may be able to address these concerns rather 
+than putting everything through surveillance technology review. Also, it
+ is easy to imagine personal use of Tweetdeck subverting any government 
+use restrictions. Other annual reports like [Palo Alto's](https://www.cityofpaloalto.org/files/assets/public/agendas-minutes-reports/reports/city-manager-reports-cmrs/current-year/2020/id-11268.pdf?t=64156.82)
+ barely had any information, and many of the individual impact and use 
+reports lacked evidence or rigor, for example, stating the 
+cost-effectiveness of a tool without any comparative analysis (BART) or 
+relying solely on a lack of complaints to determine impacts on equity 
+(Seattle). Seattle had the [most comprehensive reports online](https://www.seattle.gov/tech/initiatives/privacy/surveillance-technologies/surveillance-impact-reports-archive),
+ including quarterly review and also what was considered a 
+non-surveillance technology, and they were the easiest to find and 
+navigate. For the jurisdictions without an annual report posted online, 
+we can look to EFF's [Atlas of Surveillance ](https://atlasofsurveillance.org/)to get a sense of some of the tools they are currently using, see: [Davis, CA](https://atlasofsurveillance.org/search?utf8=%E2%9C%93\&location=Davis%2C+CA) (ALPRs, BWCs), [Grand Rapids, WI](https://atlasofsurveillance.org/search?utf8=%E2%9C%93\&location=Grand+Rapids%2C+MI) (ALPRs, cameras, Ring), [Lawrence, MA](https://atlasofsurveillance.org/search?location=Lawrence%2C+MA) (BWCs), [Nashville, TN](https://atlasofsurveillance.org/search?utf8=%E2%9C%93\&location=Nashville%2C+TN) (ALPRs, drones, face recognition, fusion center, predictive policing), [Oakland, CA](https://atlasofsurveillance.org/search?utf8=%E2%9C%93\&location=Oakland%2C+CA) (ALPRs, BWCs, cell-site simulator, drones, gunshot detection), [San Francisco, CA](https://atlasofsurveillance.org/search?utf8=%E2%9C%93\&location=San+Francisco%2C+CA)
+ (ALPRs, BWCs, cell-site simulator, drones, fusion center, gunshot 
+detection). If these are the tools being using in jurisdictions with 
+surveillance technology oversight laws, what takes place in 
+jurisdictions without oversight? Somerville and Yellow Springs currently
+ don't have reports online nor any surveillance technology listed on 
+Atlas of Surveillance.
+
+To ensure reporting gets completed and is 
+actively reported out to the public, legislators may want to consider 
+baking surveillance technology reporting into ongoing processes such as 
+strategic planning or budgeting in addition to specific surveillance 
+technology reports and be sure to include these items if approved, are 
+flagged in transparent procurement processes. Legislators may want to 
+consider if these reports are applying enough rigor and are accessible 
+enough to inform public engagement and adjust as needed.
+
+###### What does enforcement look like?
+
+In
+ addition to varying levels of implementation, jurisdictions have a 
+range of enforcement mechanisms. Some jurisdictions highlight local 
+whistleblower protectors in their ordinance. Some include options to 
+discipline or criminally charge employees who fail to follow the law. 
+And some allow for the cancelation of non-compliant contracts. I could 
+not find readily available evidence of how often, if at all, these 
+enforcement mechanisms have been used to date. It would be fascinating 
+to see what enforcement has occurred in jurisdictions like Somerville 
+that have not published an annual report on time and where their City 
+Council is currently following up.
+
+To encourage employee 
+disclosure, legislators may want to highlight whistleblower protections 
+and consider a campaign for reporting known breaches. In addition to 
+requiring these enforcement mechanisms, legislators may want to 
+transparently disclose which departments and employees have been 
+disciplined.
+
+  ![](https://www.belfercenter.org/sites/default/files/styles/large/public/2021-04/p2\_0.png?itok=UavfbI3c)
+
+
+
+
+#### Missing the Point?
+
+Surveillance
+ technology laws might be missing more than coverage and implementation.
+ They might be missing the very thing they are after: protecting people 
+from harmful surveillance.
+
+###### Do these laws stop discrimination?
+
+Disproportionate
+ impact to black and brown (and other historically discriminated against
+ communities) is a well-documented surveillance harm. Bruce Schneier 
+highlights the distinct need to regulate the discriminatory aspects of 
+surveillance technologies in his January 2020 op-ed entitled [We're Banning Facial Recognition. We're Missing the Point](https://www.nytimes.com/2020/01/20/opinion/facial-recognition-ban-privacy.html):
+
+* "In
+ all cases, modern mass surveillance has three broad components: 
+identification, correlation, and discrimination...Regulating this system
+ means addressing all three steps of the process. A ban on facial 
+recognition won't make any difference if, in response, surveillance 
+systems switch to identifying people by smartphone MAC addresses. The 
+problem is that we are being identified without our knowledge or 
+consent, and society needs rules about when that is permissible… \[and] 
+we need better rules about when and how it is permissible for companies 
+to discriminate. Discrimination based on protected characteristics like 
+race and gender is already illegal, but those rules are ineffectual 
+against surveillance and control technologies. When people can be 
+identified and their data correlated at a speed and scale previously 
+unseen, we need new rules."*
+
+[ACLU's Community Control Over Police Surveillance (COPS) model legislation](https://www.aclu.org/legal-document/community-control-over-police-surveillance-ccops-model-bill),
+ which has inspired many of these surveillance technology laws, aims to 
+prevent discrimination by including a disparate impact analysis 
+requirement. None of the sixteen jurisdictions have used this portion of
+ their model language entirely. Three jurisdictions (Lawrence, Seattle, 
+and Yellow Springs) have the strongest language related to disparate 
+impact analysis, with Seattle being the only jurisdiction that requires 
+Equity Impact Assessments. Six jurisdictions (BART, Berkley, Cambridge, 
+NYPD, Palo Alto, San Francisco) mention disparate/disproportional impact
+ in their reporting sections. Four broadly mention civil rights 
+(Oakland, Nashville, Santa Clara, Somerville). And three don't mention 
+discrimination at all (Davis, Grand Rapids, Madison). Given the light 
+touch of disparate impact analysis in the published reports online (see 
+above), advocates may consider providing more implementation tools for 
+such impact analyses or consider if the prospective analysis is a tool 
+jurisdiction are capable of or willing to do.
+
+Advocates who want 
+to prevent these discriminatory harms have criticized surveillance 
+technology oversight regulations stating that they reinforce the use of 
+these technologies by formalizing processes around their existence 
+rather than prohibiting their use full stop. This critique is 
+inextricably linked to broader conversations about racism, inequality, 
+and harmful policing practices. [STOP LAPD Spying ](https://www.vice.com/en/article/xgzj7n/police-surveillance-cant-be-reformed-it-must-be-abolished)has
+ explicitly called for an end to the CCOPs campaign and for abolishing 
+surveillance technologies that are discriminatory. Tawana Petty, the 
+National Organizing Director for [Data 4 Black Lives](https://d4bl.org/), has similarly [called for an end to facial recognition technology](https://www.wired.com/story/defending-black-lives-means-banning-facial-recognition/) because of its detrimental effects on the black community. The [Action Center on Race & the Economy](https://acrecampaigns.org/research_post/21st-century-policing/)
+ has published a set of recommendations for 21st Century Policing that 
+couple the broader national call to defund the police and invest in 
+community safety with explicit calls to end surveillance data collection
+ and end all funding of surveillance technology.
+
+Given the 
+evidence that these technologies have discriminatory effects and limited
+ evidence that prospective disparate impact analyses are effective, 
+legislators may consider heading these calls to prohibit surveillance 
+technology that exacerbates discrimination (as cities like Oakland and 
+New Orleans are beginning to do with predictive policing bans) and seek 
+policies that reduce surveillance instead of overseeing it.
+
+###### Is surveillance technology necessary?
+
+Another
+ critique of surveillance technology has been policymakers' attitude 
+that such surveillance is inevitable or necessary because of public 
+policy aims of safety and welfare. In addition to the above 
+discrimination question that asks whose safety is being protected, are 
+communities gaining an amount of safety that warrants this much 
+surveillance? In 2013, EFF developed a set of [International Principles on the Application of Human Rights to Communications Surveillance](https://www.eff.org/files/necessaryandproportionatefinal.pdf)
+ that challenged how much surveillance was necessary given the risks. 
+Their principles call for analyses missing from current surveillance 
+technology laws, including reviewing if surveillance is necessary, 
+adequate, and proportional \[to risks], and they also call for a user 
+notification requirement. With headlines such as [Despite Scanning Millions of Faces, Feds Caught Zero Imposters at Airports Last Year](https://onezero.medium.com/despite-scanning-millions-of-faces-feds-caught-zero-imposters-at-airports-last-year-e34c32500496), is surveillance meeting these principle thresholds today?
+
+Given
+ the known risks, potential risks, and public concerns related to 
+surveillance technologies, legislators may consider flipping oversight 
+of these tools on their heads and ask for agencies to prove why they are
+ necessary in the first place. And demand more rigor and oversight on 
+why these tools are better choices than another programming.
+
+###### Do these laws empower communities?
+
+In
+ addition to varying impact analyses, surveillance technology laws vary 
+widely in how involved community members are in oversight 
+decision-making and what remedies are available to them if harmful 
+searches occur. All jurisdictions provide an elected body to review 
+surveillance technology except for the NYPD (because of NYC City Council
+ rules), but only four include an independent review (Berkeley, Oakland,
+ San Francisco, Seattle). While ten jurisdictions provide a private 
+right of action when the jurisdiction fails to provide corrective 
+actions, they vary in the type of relief they provide. Some 
+jurisdictions limit relief to injunctive relief (e.g., Seattle). Some 
+cap monetary damages (e.g., Berkley caps out at $15,000) or prohibit the
+ inclusion of attorney fees. And some provide fully for actual damages, 
+including attorney fees (Oakland). Only two jurisdictions provide a 
+suppression remedy if the government obtains evidence against you per an
+ invasive search not permissible by the surveillance technology law.
+
+To
+ ensure community norms are thoroughly represented in a jurisdiction's 
+use of surveillance technology, legislators may consider proactive [design justice principle](https://designjustice.org/read-the-principles)-infused
+ policymaking well in advance of any decisions to include technology or 
+data collection. To ensure communities are thoroughly protected from 
+surveillance technology harms, legislators may consider providing for 
+suppression remedies in addition to private rights of action with 
+comprehensive types of relief.
+
+  ![](https://www.belfercenter.org/sites/default/files/styles/large/public/2021-04/p3\_0.png?itok=L8no2SVV)
+
+
+
+
+#### What’s Next?
+
+Given
+ the current state of surveillance technology laws, what's next? I think
+ we can expect to see privacy-related laws of all flavors to continue to
+ trend and hopefully will see more analysis on what approaches are most 
+effective. Similarly, we can expect to see Fourth Amendment scholars and
+ litigators continue to fight for the expansion of Fourth Amendment 
+protections to new digital applications (such as [ALPRs](https://www.brennancenter.org/our-work/research-reports/automatic-license-plate-readers-legal-status-and-policy-recommendations), [scooter data](https://www.govtech.com/fs/lawsuit-challenging-la-s-collection-of-scooter-data-dismissed.html), or [smart city sensors](https://ilr.law.uiowa.edu/print/volume-106/structural-sensor-surveillance/)).
+ How the Supreme Court responds to new Fourth Amendment cases may be 
+affected by this advocacy as well as public sentiment writ large. In 
+addition to these incremental approaches, there could be national 
+regulation or new ways of thinking about regulating privacy 
+contextually, [as Helen Nissenbaum has suggested](https://crypto.stanford.edu/portia/papers/RevnissenbaumDTP31.pdf). If privacy concerns continue to uptick without proportional regulation, we may also see [new tools and techniques to obfuscate surveillance technologies](https://www.vice.com/en/article/yp3ex7/obfuscate-yourself-nissenbaum-brunton) become more prevalent. 
+
+What do you think? What did I miss? Get in touch: [rebeccawilliams@hks.harvard.edu ](https://www.belfercenter.org/publication/rebeccawilliams@hks.harvard.edu )
+
+#### Further Reading 
+
+*   To keep up with new privacy legislation broadly, follow the [Whose Streets? Our Streets! (Tech Edition) newsletter](http://whosestreets.substack.com) and check out further reading below.
+
+    	 
+
+*   Berkeley Law’s Samuelson Law, Technology, and Policy Clinic's[”Local Surveillance Oversight Ordinances”](https://www.law.berkeley.edu/wp-content/uploads/2021/02/Local-Surveillance-Ordinances-White-Paper.pdf) white paper
+
+    	 
+
+*   Mailyn Filder’s[“Local Police Surveillance and the Administrative Fourth Amendment”](https://digitalcommons.law.scu.edu/chtlj/vol36/iss5/2/) law review article and[Lawfare reporting](https://www.lawfareblog.com/contributors/mfidler)
+
+ 
+
+This post covers the 16 U.S. local “surveillance laws'' all scoped to govern the use of “surveillance technologies'' including [Berkeley, Cal., Mun. Code § 2.99 (2018)](https://www.codepublishing.com/CA/Berkeley/cgi/NewSmartCompile.pl?path=Berkeley02/Berkeley0299/Berkeley0299040.html#2.99.020); [Cambridge, Mass., Mun. Code §2.128 (2018)](https://library.municode.com/ma/cambridge/codes/code_of_ordinances?nodeId=TIT2ADPE_CH2.128SUTEOR); [Davis, Cal., Mun. Code §26.07 (2018)](http://qcode.us/codes/davis/?view=desktop\&topic=26-26\_07); [Grand Rapids, Mich., Admin. Pol’y§15-03(2015)](https://www.grandrapidsmi.gov/files/assets/public/departments/executive-office/files/administrative-policies/adp-15-03-surveillance-equipment.pdf); [Lawrence, Mass., Mun. Code §9.25 (2018)](https://library.municode.com/ma/lawrence/codes/code_of_ordinances?nodeId=TIT9PUPEWE_CH9.25SUTE); [Madison, Wis., Mun. Code §23.63 (2020)](https://library.municode.com/wi/madison/codes/code_of_ordinances?nodeId=COORMAWIVOIICH20--31\_CH23OFAGPUPO\_23.63USSUTE); [Nashville, Tenn., Metro. Code §13.08.080 (2017)](https://library.municode.com/tn/metro_government_of_nashville_and_davidson_county/codes/code_of_ordinances?nodeId=CD_TIT13STSIPUPL_DIVIGERE_CH13.08STALSI); [N.Y.C., N.Y., Admin. Code §14-188 (2020)](https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCadmin/0-0-0-124303); [Oakland, Cal., Mun. Code §9.64 (2021](https://library.municode.com/ca/oakland/ordinances/code_of_ordinances?nodeId=1073782)); [Palo Alto, Cal., Admin. Code §§2.30.620–2.30.690(2018)](https://codelibrary.amlegal.com/codes/paloalto/latest/paloalto_ca/0-0-0-55386); [S.F., Cal., Admin. Code §19B (2019)](https://codelibrary.amlegal.com/codes/san_francisco/latest/sf_admin/0-0-0-47320); [S.F. Bay Area Rapid Transit Dist., Cal., Code§17(2018)](https://library.municode.com/ca/san_francisco_bay_area_rapid_transit_district_\(bart\)/codes/code_of_ordinances?nodeId=CH17MIPR_ARTVSUPO); [Santa Clara Cnty., Cal., Mun. Code §A40 (2016)](https://library.municode.com/ca/santa_clara_county/codes/code_of_ordinances?nodeId=TITAGEAD_DIVA40SUECCOAF); [Seattle, Wash., Mun. Code §14.18 (2017)](https://library.municode.com/wa/seattle/codes/municipal_code?nodeId=TIT14HURI_CH14.18ACUSSUTE);[ Somerville, Mass., Mun. Code §§10-61–10-69(2019)](https://library.municode.com/ma/somerville/codes/code_of_ordinances?nodeId=PTIICOOR_CH10PO_ARTIIIPUOVSUTE_S10-61PU); [Yellow Springs, Ohio, Mun. Code §607 (2018)](https://codelibrary.amlegal.com/codes/yellowsprings/latest/yellowsprings_oh/0-0-0-23917).
