@@ -32,7 +32,7 @@ seo:
         investments.
       keyName: property
     - name: 'og:image'
-      value: images/classic/post-5.png
+      value: /images/popp_15.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
