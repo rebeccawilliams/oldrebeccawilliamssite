@@ -5,7 +5,6 @@ subtitle: >-
   policies and practices.
 date: '2014-08-25'
 categories:
-  - content/data/categories/tutorials.yaml
   - content/data/categories/general.yaml
 tags:
   - content/data/tags/tag-ilndbwr3b.json
