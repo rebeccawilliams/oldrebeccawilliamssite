@@ -5,8 +5,7 @@ subtitle: >-
   allowed to use a Federal (Tech) Policy Analyst.
 date: '2020-10-15'
 categories: []
-tags:
-  - content/data/tags/jamstack.yaml
+tags: []
 excerpt: >-
   My ironic but not "Uses This" interview detailing what technology I was
   allowed to use a Federal (Tech) Policy Analyst.
