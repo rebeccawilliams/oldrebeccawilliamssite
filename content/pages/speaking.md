@@ -15,7 +15,7 @@ sections:
           June 7-11, 2021
         content_align: left
         actions:
-          - label: June 7-11
+          - label: Register
             url: >-
               https://www.rightscon.org/program/?fwp_session_category=privacy-and-surveillance
             style: primary
