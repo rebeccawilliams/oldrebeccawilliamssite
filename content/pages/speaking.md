@@ -276,7 +276,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
 seo:
-  title: Features
+  title: Speaking | Rebecca Williams
   description: This is the features page
   extra:
     - name: 'og:type'
