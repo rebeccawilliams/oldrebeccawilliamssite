@@ -25,7 +25,7 @@ sections:
         media_position: right
         media_width: fifty
         actions:
-          - label: See More on
+          - label: Read More on
             url: 'https://www.linkedin.com/in/rebeccaannwilliams/'
             style: primary
             has_icon: true
