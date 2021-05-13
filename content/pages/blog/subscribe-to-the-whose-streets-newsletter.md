@@ -31,7 +31,11 @@ seo:
       value: Vos Autem Cum Perspicuis Dubia Debeatis Illustrare
       keyName: property
     - name: 'og:description'
-      value: 'Itaque hoc frequenter dici solet a vobis, non intellegere nos'
+      value: >-
+        To support Rebecca Williams’ research assessing risks to civil liberties
+        posed by “smart city” technologies, Rebecca and Madeleine Smith are
+        documenting trends in the surveillance of public space with a companion
+        newsletter on substack.
       keyName: property
     - name: 'og:image'
       value: images/classic/post-4.png
