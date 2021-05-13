@@ -8,22 +8,12 @@ sections:
     subtitle: Featured
     actions: []
     grid_items:
-      - title: RightsCon
-        title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+      - title_align: left
+        content: |
+          Collective action towards humane digital cities
         content_align: left
         actions:
-          - label: 'Urban futures: collective action towards humane digital cities'
+          - label: 'Urban futures:'
             url: >-
               https://www.rightscon.org/program/?fwp_session_category=privacy-and-surveillance
             style: primary
@@ -42,20 +32,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/rc.png
-        subtitle: National Institute for Computer-Assisted Reporting
-      - title: Harvard Kennedy School
-        title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+      - title_align: left
         content_align: left
         actions:
           - label: Whose Steets? Our Streets! (Tech Edition)
@@ -87,7 +64,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/Screen Shot 2021-05-13 at 2.59.45 AM.png
-      - title: NICAR
+      - title: National Institute for Computer-Assisted Reporting
         title_align: left
         content_align: left
         actions:
@@ -130,8 +107,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/ire_and_nicar_thumbnail.jpg
-      - title: SXSW
-        subtitle: South by Southwest
+      - title: South by Southwest
         title_align: left
         content_align: left
         actions:
