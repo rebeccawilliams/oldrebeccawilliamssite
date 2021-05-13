@@ -2,7 +2,7 @@
 title: Repost
 sections:
   - type: hero_section
-    title: Repost
+    title: Re-posted Publications
     align: center
     padding_top: medium
     padding_bottom: none
