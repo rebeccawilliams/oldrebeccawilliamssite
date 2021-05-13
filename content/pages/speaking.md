@@ -283,7 +283,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Features
+      value: 'Speaking | Rebecca Williams '
       keyName: property
     - name: 'og:description'
       value: This is Rebecca Williams' Speaking page.
