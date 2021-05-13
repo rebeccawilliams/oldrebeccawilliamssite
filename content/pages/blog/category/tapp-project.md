@@ -1,5 +1,5 @@
 ---
-title: TechnologProject
+title: Technology and Public Purpose Project
 sections:
   - type: hero_section
     title: TAPP Project
