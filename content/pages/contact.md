@@ -84,5 +84,9 @@ seo:
       value: /images/IMG_1103%202.jpg
       keyName: property
       relativeUrl: true
+    - name: 'twitter:image'
+      value: /images/IMG_1103%202.jpg
+      keyName: property
+      relativeUrl: true
 layout: advanced
 ---
