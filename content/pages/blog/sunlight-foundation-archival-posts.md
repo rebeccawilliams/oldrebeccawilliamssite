@@ -45,7 +45,7 @@ seo:
         Archival posts from 2013-2014 at the Sunlight Foundation related to open
         data policies and practices.
     - name: 'twitter:image'
-      value: images/classic/post-1.png
+      value: /images/Sunlight-site.png
       relativeUrl: true
 layout: post
 thumb_image: images/Sunlight-site.png
