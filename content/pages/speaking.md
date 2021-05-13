@@ -149,7 +149,7 @@ sections:
           - label: 'Urban futures: collective action towards humane digital cities'
             url: >-
               https://www.rightscon.org/program/?fwp_session_category=privacy-and-surveillance
-            style: link
+            style: primary
             has_icon: false
             icon: arrow-left
             icon_position: right
