@@ -17,7 +17,7 @@ thumb_image_alt: Newsletter screenshot
 image_alt: Newsletter screenshot
 image_position: left
 seo:
-  title: Vos Autem Cum Perspicuis Dubia Debeatis Illustrare
+  title: Subscribe to the Whose Streets? Newsletter
   description: 'Itaque hoc frequenter dici solet a vobis, non intellegere nos'
   extra:
     - name: 'og:type'
