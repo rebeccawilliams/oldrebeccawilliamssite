@@ -10,7 +10,7 @@ sections:
     grid_items:
       - title_align: left
         content: |
-          ## Urban futures: 
+          ### Urban futures:
 
           ##### Collective action towards humane digital cities
 
