@@ -295,7 +295,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Features
+      value: 'Speaking | Rebecca Williams '
     - name: 'twitter:description'
       value: This is Rebecca Williams' Speaking page.
     - name: 'twitter:image'
