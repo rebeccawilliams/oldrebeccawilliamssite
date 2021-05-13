@@ -25,7 +25,11 @@ seo:
       value: What Should You Consider When Investing In “Smart City” Technology?
       keyName: property
     - name: 'og:description'
-      value: 'Estne, quaeso, inquam, sitienti in bibendo voluptas'
+      value: >-
+        In this blogpost, Technology and Public Purpose Fellows Liz Sisson and
+        Rebecca Williams team up to propose how governments and investors alike
+        can consider public purpose in their “smart city” technology
+        investments.
       keyName: property
     - name: 'og:image'
       value: images/classic/post-5.png
