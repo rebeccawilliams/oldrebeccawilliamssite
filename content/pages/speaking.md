@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Speaking & Press
     background_color: primary
-  - title: Conferences
+  - title: Appearances
     subtitle: Featured
     actions: []
     grid_items:
