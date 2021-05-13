@@ -32,7 +32,7 @@ sections:
         actions: []
     background_color: secondary
 seo:
-  title: About
+  title: About | Rebecca Williams
   description: This is Rebecca Williams' about page.
   extra:
     - name: 'og:type'
