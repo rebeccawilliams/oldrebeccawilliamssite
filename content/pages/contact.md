@@ -69,7 +69,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: General Enquiries
+      value: Contact | Rebecca Williams
       keyName: property
     - name: 'og:description'
       value: This is Rebecca Williams' contact page.
