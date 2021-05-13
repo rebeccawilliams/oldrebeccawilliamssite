@@ -4,6 +4,7 @@ subtitle: Documenting trends in the surveillance of public space.
 date: '2020-11-23'
 categories:
   - content/data/categories/category-apoc3kfww.json
+  - content/data/categories/category-64t9y3n0h.json
 tags:
   - content/data/tags/jamstack.yaml
   - content/data/tags/sourcebit.yaml
