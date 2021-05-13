@@ -28,7 +28,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Vos Autem Cum Perspicuis Dubia Debeatis Illustrare
+      value: Subscribe to the Whose Streets? Newsletter
       keyName: property
     - name: 'og:description'
       value: >-
