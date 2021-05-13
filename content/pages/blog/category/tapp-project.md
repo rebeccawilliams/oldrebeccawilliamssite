@@ -2,7 +2,7 @@
 title: Technology and Public Purpose Project
 sections:
   - type: hero_section
-    title: TAPP Project
+    title: Technology & Public Purpose Project Publications
     align: center
     padding_top: medium
     padding_bottom: none
