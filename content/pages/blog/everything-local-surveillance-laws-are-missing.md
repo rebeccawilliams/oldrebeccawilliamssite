@@ -40,7 +40,7 @@ seo:
     - name: 'twitter:description'
       value: An Analysis of Gaps in Surveillance Technology Laws
     - name: 'twitter:image'
-      value: images/classic/post-5.png
+      value: /images/Coverage.png
       relativeUrl: true
 layout: post
 thumb_image: images/Coverage.png
