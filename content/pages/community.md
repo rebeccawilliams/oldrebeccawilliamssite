@@ -91,7 +91,9 @@ seo:
     - name: 'twitter:title'
       value: Community
     - name: 'twitter:description'
-      value: This is the community groups page
+      value: >-
+        This is a page of educational communities Rebecca Williams has
+        facilitated.
     - name: 'twitter:image'
       value: /images/IMG_1103%202.jpg
       relativeUrl: true
