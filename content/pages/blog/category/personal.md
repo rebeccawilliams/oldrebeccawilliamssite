@@ -34,7 +34,7 @@ seo:
       value: Personal posts
       keyName: property
     - name: 'og:image'
-      value: images/classic/post-5.png
+      value: /images/IMG_1103%202.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
