@@ -7,7 +7,6 @@ categories:
   - content/data/categories/category-apoc3kfww.json
 tags:
   - content/data/tags/stackbit.yaml
-  - content/data/tags/jamstack.yaml
 excerpt: Developing Interventions to Protect Civil Liberties in a 'Smart City'
 thumb_image_alt: Cyber city gif
 image_alt: Cyber city gif
