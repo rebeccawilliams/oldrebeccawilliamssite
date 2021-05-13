@@ -33,7 +33,7 @@ sections:
           sees the world in power struggles, trajectories, and people talking
           past each other. She believes in art, balance, cutting out what
           doesn't work, density, diversity, and humor. She wants to ask you
-          about the latest thing you enjoyed and why over a coffee, tea, or
+          about the latest thing you enjoyed and why over a coffee, tea, or a
           drink to better understand herself and everything.
         image: images/superb-tulip.png
         image_alt: People in conversation in the office lounge area
