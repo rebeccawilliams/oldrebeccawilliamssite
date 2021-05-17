@@ -8,7 +8,7 @@ sections:
     padding_bottom: small
     background_color: primary
   - title: More soon.
-    subtitle: More soon.
+    subtitle: You have found the fun page.
     features: []
     feature_padding_vert: medium
     align: center
