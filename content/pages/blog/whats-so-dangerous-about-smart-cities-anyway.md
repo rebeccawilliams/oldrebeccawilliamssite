@@ -5,8 +5,7 @@ date: '2020-12-16'
 categories:
   - content/data/categories/category-apoc3kfww.json
   - content/data/categories/category-64t9y3n0h.json
-tags:
-  - content/data/tags/stackbit.yaml
+tags: []
 excerpt: An Outline of Five "smart city" Harms and a Call for Feedback
 thumb_image_alt: >-
   Screenshots from Nuclear Energy videos (2015) by Kurzgesagt via
