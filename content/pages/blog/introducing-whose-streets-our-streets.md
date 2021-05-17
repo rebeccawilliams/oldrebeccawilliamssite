@@ -7,7 +7,7 @@ categories:
   - content/data/categories/category-r37p04mhn.json
 tags: []
 excerpt: Developing Interventions to Protect Civil Liberties in a 'Smart City'
-thumb_image_alt: Cyber city gif
+thumb_image_alt: ' Cyber city by Twitter user @MIRAI_MIZUE'
 image_alt: Cyber city gif
 image_position: left
 seo:
