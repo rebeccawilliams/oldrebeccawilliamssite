@@ -5,8 +5,7 @@ date: '2021-04-26'
 categories:
   - content/data/categories/category-apoc3kfww.json
   - content/data/categories/category-64t9y3n0h.json
-tags:
-  - content/data/tags/stackbit.yaml
+tags: []
 excerpt: An Analysis of Gaps in Surveillance Technology Laws
 thumb_image_alt: >-
   Screenshots from Nuclear Energy videos (2015) by Kurzgesagt via
