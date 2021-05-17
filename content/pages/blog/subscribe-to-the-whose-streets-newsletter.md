@@ -5,8 +5,7 @@ date: '2020-11-23'
 categories:
   - content/data/categories/category-apoc3kfww.json
   - content/data/categories/category-64t9y3n0h.json
-tags:
-  - content/data/tags/jamstack.yaml
+tags: []
 excerpt: >-
   To support Rebecca Williams’ research assessing risks to civil liberties posed
   by “smart city” technologies, Rebecca and Madeleine Smith are documenting
