@@ -8,7 +8,7 @@ sections:
     padding_bottom: small
     background_color: primary
   - title: What's the Point If We Can't Have Fun?
-    subtitle: What’s the Point If We Can’t Have Fun?
+    subtitle: You have found the fun page.
     features:
       - content: >
           *   [What is Data?](https://whatisdata.info/)
