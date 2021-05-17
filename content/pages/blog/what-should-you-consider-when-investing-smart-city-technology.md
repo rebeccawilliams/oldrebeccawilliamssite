@@ -6,7 +6,6 @@ categories:
   - content/data/categories/category-64t9y3n0h.json
 tags:
   - content/data/tags/stackbit.yaml
-  - content/data/tags/tag-7nio5sd1u.json
 excerpt: >-
   In this blogpost, Technology and Public Purpose Fellows Liz Sisson and Rebecca
   Williams team up to propose how governments and investors alike can consider
