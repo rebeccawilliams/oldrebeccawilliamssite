@@ -25,7 +25,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-        subtitle: What’s the Point If We Can’t Have Fun?
+        subtitle: More soon.
     feature_padding_vert: medium
     align: center
     padding_top: medium
