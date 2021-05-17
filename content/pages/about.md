@@ -42,11 +42,10 @@ sections:
           struggling "most dangerous city" who understands all the bottom lines.
 
 
-          According to her father, she is a [true
-          millennial](https://twitter.com/chrisfluming/status/1368732411400396804?s=20).
-          Whether she is or not, she can faithfully attest to what she sees as
-          fundamental generational pressures and trends. She sees the world in
-          power struggles, trajectories, and people talking past each other. She
+          According to her father, she is a true millennial. Whether she is or
+          not, she can faithfully attest to what she sees as fundamental
+          generational pressures and trends. She sees the world in power
+          struggles, trajectories, and people talking past each other. She
           believes in art, balance, cutting out what doesn't work, density,
           diversity, and humor. She wants to ask you about the latest thing you
           enjoyed and why over a coffee, tea, or a drink to better understand
