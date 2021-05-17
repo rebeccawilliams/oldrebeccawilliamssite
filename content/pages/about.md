@@ -39,7 +39,7 @@ sections:
           the service of justice and democracy and speaks about how that is too
           often not the case in niche and broad ways on Twitter and elsewhere.
           She is the daughter of a psychologist and tax attorney from a
-          struggling *Most Dangerous City* who understands all the bottom lines.
+          struggling "most dangerous city" who understands all the bottom lines.
 
 
           According to her father, she is a [true
