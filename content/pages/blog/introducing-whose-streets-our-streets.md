@@ -8,7 +8,7 @@ categories:
 tags: []
 excerpt: Developing Interventions to Protect Civil Liberties in a 'Smart City'
 thumb_image_alt: ' Cyber city by Twitter user @MIRAI_MIZUE'
-image_alt: Cyber city gif
+image_alt: ' Cyber city by Twitter user @MIRAI_MIZUE'
 image_position: left
 seo:
   title: Introducing Whose Steets? Our Streets! (Tech Edition)
