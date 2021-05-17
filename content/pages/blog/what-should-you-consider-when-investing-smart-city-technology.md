@@ -4,8 +4,7 @@ subtitle: "In this blogpost,\_Technology and Public Purpose\_Fellows\_Liz\n Siss
 categories:
   - content/data/categories/category-apoc3kfww.json
   - content/data/categories/category-64t9y3n0h.json
-tags:
-  - content/data/tags/stackbit.yaml
+tags: []
 excerpt: >-
   In this blogpost, Technology and Public Purpose Fellows Liz Sisson and Rebecca
   Williams team up to propose how governments and investors alike can consider
