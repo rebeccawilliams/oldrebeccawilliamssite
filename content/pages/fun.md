@@ -1,5 +1,5 @@
 ---
-title: Community
+title: Fun
 sections:
   - type: hero_section
     title: Fun
