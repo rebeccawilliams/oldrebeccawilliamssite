@@ -10,17 +10,15 @@ sections:
   - title: More soon.
     subtitle: You have found the fun page.
     features:
-      - content: >-
-          ## Lorem ipsum
+      - content: >
+          *   [What is Data?](https://whatisdata.info/)
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   [Evergreen (not done yet
+          still)](https://twitter.com/internetrebecca/status/1375294962749730817?s=20)
 
 
-          - Lorem ipsum
-
-          - dolor sit amet
+          *   [Dog's instagram](https://www.instagram.com/hannaharendtthedog/)
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: 'A couple of things:'
