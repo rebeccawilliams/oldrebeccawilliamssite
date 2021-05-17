@@ -11,14 +11,20 @@ sections:
     subtitle: You have found the fun page.
     features:
       - content: >
+
+
+          *   [Evergreen (still working on
+          this)](https://twitter.com/internetrebecca/status/1375294962749730817?s=20)
+
+
+          *   [Hannah's
+          Instagram](https://www.instagram.com/hannaharendtthedog/)
+
+
+          *   [My TikTok](https://www.tiktok.com/@\_rebeccawilliams?)
+
+
           *   [What is Data?](https://whatisdata.info/)
-
-
-          *   [Evergreen (not done yet
-          still)](https://twitter.com/internetrebecca/status/1375294962749730817?s=20)
-
-
-          *   [Dog's instagram](https://www.instagram.com/hannaharendtthedog/)
         actions: []
         image_alt: lorem-ipsum
         media_position: top
