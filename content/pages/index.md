@@ -51,7 +51,7 @@ sections:
           collect weekly news related to public surveillance technology. Watch
           us watch cities, the market, policy, and the watchers.
         actions:
-          - label: Subscribe
+          - label: Read and Subscribe
             url: 'https://whosestreets.substack.com/'
             style: primary
             has_icon: true
