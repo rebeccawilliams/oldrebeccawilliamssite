@@ -7,7 +7,7 @@ sections:
     padding_top: large
     padding_bottom: small
     background_color: primary
-  - title: You have found the fun page.
+  - title: More soon.
     subtitle: More soon.
     features: []
     feature_padding_vert: medium
