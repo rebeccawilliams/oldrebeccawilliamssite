@@ -24,9 +24,6 @@ sections:
 
           *   [What is Data?](https://whatisdata.info/)
 
-
-          ![](/images/50f66209bb2dd3156b49064495cd868c.jpg)
-
         actions: []
         image_alt: lorem-ipsum
         media_position: top
