@@ -10,8 +10,7 @@ sections:
   - title: More soon.
     subtitle: You have found the fun page.
     features:
-      - subtitle: lorem-ipsum
-        content: >-
+      - content: >-
           ## Lorem ipsum
 
 
