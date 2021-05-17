@@ -10,7 +10,7 @@ sections:
   - title: What's the Point If We Can't Have Fun?
     subtitle: You have found the fun page.
     features:
-      - content: >
+      - content: >+
           *   [Evergreen (still working on
           this)](https://twitter.com/internetrebecca/status/1375294962749730817?s=20)
 
@@ -25,7 +25,8 @@ sections:
           *   [What is Data?](https://whatisdata.info/)
 
 
-          ![](/images/Dch4pa9WAAAJoh4.jpg)
+          ![](/images/50f66209bb2dd3156b49064495cd868c.jpg)
+
         actions: []
         image_alt: lorem-ipsum
         media_position: top
