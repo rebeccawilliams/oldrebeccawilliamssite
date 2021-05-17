@@ -11,6 +11,7 @@ sections:
     subtitle: You have found the fun page.
     features:
       - content: >
+          ![](/images/Dch4pa9WAAAJoh4.jpg)
 
 
           *   [Evergreen (still working on
