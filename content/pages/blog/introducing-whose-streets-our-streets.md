@@ -5,8 +5,7 @@ date: '2020-10-21'
 categories:
   - content/data/categories/category-apoc3kfww.json
   - content/data/categories/category-r37p04mhn.json
-tags:
-  - content/data/tags/stackbit.yaml
+tags: []
 excerpt: Developing Interventions to Protect Civil Liberties in a 'Smart City'
 thumb_image_alt: Cyber city gif
 image_alt: Cyber city gif
