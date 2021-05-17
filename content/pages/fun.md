@@ -21,7 +21,6 @@ sections:
           *   [Dog's instagram](https://www.instagram.com/hannaharendtthedog/)
         actions: []
         image_alt: lorem-ipsum
-        video_embed_html: 'A few things:'
         media_position: top
         media_width: fifty
         align: left
