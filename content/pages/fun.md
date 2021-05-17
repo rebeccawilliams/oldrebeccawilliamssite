@@ -26,6 +26,7 @@ sections:
         align: left
         type: feature
         subtitle: More soon.
+        title: 'A few things:'
     feature_padding_vert: medium
     align: center
     padding_top: medium
