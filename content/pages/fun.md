@@ -11,7 +11,6 @@ sections:
     subtitle: You have found the fun page.
     features:
       - content: >
-          ![](/images/Dch4pa9WAAAJoh4.jpg)
 
 
           *   [Evergreen (still working on
@@ -26,6 +25,9 @@ sections:
 
 
           *   [What is Data?](https://whatisdata.info/)
+
+
+          ![](/images/Dch4pa9WAAAJoh4.jpg)
         actions: []
         image_alt: lorem-ipsum
         media_position: top
