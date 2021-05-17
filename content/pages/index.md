@@ -71,7 +71,7 @@ sections:
           the pandemic, the virtual group has taken on a new life and meets more
           frequently.
         actions:
-          - label: 'Read Along '
+          - label: 'Join or Read Along '
             url: 'https://civictechbook.club'
             style: primary
             has_icon: true
