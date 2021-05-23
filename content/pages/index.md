@@ -36,7 +36,8 @@ sections:
           recommendations.
         actions:
           - label: Read More
-            url: 'https://www.belfercenter.org/index.php/person/rebecca-williams'
+            url: >-
+              https://www.belfercenter.org/index.php/person/rebecca-williams/publication
             style: primary
             has_icon: true
             icon: arrow-right
