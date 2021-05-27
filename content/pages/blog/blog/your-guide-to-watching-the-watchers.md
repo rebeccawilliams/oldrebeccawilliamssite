@@ -10,7 +10,7 @@ image_alt: 'Image Credit: Amnesty International Decoders '
 image_position: right
 seo:
   title: Your Guide to Watching the Watchers
-  description: An Analysis of Gaps in Surveillance Technology Laws
+  description: A Guide to Tracking Surveillance Tech in Your City On and Offline
   extra:
     - name: 'og:type'
       value: article
