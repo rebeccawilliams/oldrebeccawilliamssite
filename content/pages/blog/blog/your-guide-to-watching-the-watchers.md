@@ -268,7 +268,7 @@ public records requests through [the public records service, Muckrock](https://
 
 ###### See the types of records received here: 
 
-
+<iframe class="airtable-embed" src="https://airtable.com/embed/shruoW3AP30ERIoiY?backgroundColor=pink" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 I conducted 62 requests for 30 cities who had smart city projects that
 had been prominently featured in the news or had submitted to the [Department of Transportation Smart City Challenge in 2015](https://www.transportation.gov/smartcity). I received back records for about half of my submissions on a wide variety of technologies and document types: 
