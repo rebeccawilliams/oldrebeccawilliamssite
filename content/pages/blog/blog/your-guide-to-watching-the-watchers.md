@@ -1,7 +1,6 @@
 ---
 title: Your Guide to Watching the Watchers
 subtitle: A Guide to Tracking Surveillance Tech in Your City On and Offline
-date: '2021-04-26'
 categories:
   - content/data/categories/category-apoc3kfww.json
   - content/data/categories/category-64t9y3n0h.json
