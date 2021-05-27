@@ -42,6 +42,7 @@ seo:
 layout: post
 thumb_image: images/AmnestyTech.png
 image: images/AmnestyTech.png
+date: '0020-05-24'
 ---
 In
  the spirit of Watching the Watchers, I thought I would share some tips 
