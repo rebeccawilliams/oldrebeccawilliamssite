@@ -7,7 +7,7 @@ categories:
 tags: []
 excerpt: A Guide to Tracking Surveillance Tech in Your City On and Offline
 image_alt: 'Image Credit: Amnesty International Decoders '
-image_position: left
+image_position: right
 seo:
   title: Everything Local Surveillance Laws Are Missing In One Post
   description: An Analysis of Gaps in Surveillance Technology Laws
