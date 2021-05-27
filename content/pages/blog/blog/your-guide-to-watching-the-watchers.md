@@ -1,5 +1,5 @@
 ---
-title: 'Everything Local Surveillance Laws Are Missing In One Post '
+title: Your Guide to Watching the Watchers
 subtitle: An Analysis of Gaps in Surveillance Technology Laws
 date: '2021-04-26'
 categories:
