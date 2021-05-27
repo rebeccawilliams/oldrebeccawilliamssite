@@ -91,7 +91,7 @@ grasp their capabilities and how they are used.  
     and to tag them by camera type: dome or bullet. In the app or in life,
     the secret is to always be looking up.  
 
-*   *Hidden Cameras*: In addition to conspicuous cameras, there are many cameras that may not be obvious or have ample signage (see [@surveillance.aesthetics on Instagram](https://www.instagram.com/surveillance.aesthetics/) for some great signs – but know that IG is watching you too). For example, **mirrors, parking meters, scooters, **[smart street lights](https://www.bloomberg.com/news/articles/2020-08-06/a-surveillance-standoff-over-smart-streetlights)[**, smart poles**](https://www.elkoep.com/smartpole)**, traffic cameras**, and **unmanned aerial vehicles (UAVs)** like **drones** or **spy planes** may be wielding a camera. Not to mention **body-worn cameras** and
+*   *Hidden Cameras*: In addition to conspicuous cameras, there are many cameras that may not be obvious or have ample signage (see [@surveillance.aesthetics on Instagram](https://www.instagram.com/surveillance.aesthetics/) for some great signs – but know that IG is watching you too). For example, **mirrors, parking meters, scooters, **[smart street lights](https://www.bloomberg.com/news/articles/2020-08-06/a-surveillance-standoff-over-smart-streetlights)[, smart poles**](https://www.elkoep.com/smartpole)**, traffic cameras**, and **unmanned aerial vehicles (UAVs)** like **drones** or **spy planes** may be wielding a camera. Not to mention **body-worn cameras** and
     that most people who are carrying a smartphone. As technology makes
     more powerful and smaller cameras more affordable, it may become
     difficult to know for sure whether or not you're being filmed. 
