@@ -6,9 +6,7 @@ categories:
   - content/data/categories/category-64t9y3n0h.json
 tags: []
 excerpt: A Guide to Tracking Surveillance Tech in Your City On and Offline
-image_alt: >-
-  Screenshots from Nuclear Energy videos (2015) by Kurzgesagt via
-  letstalkscience.ca
+image_alt: 'Image Credit: Amnesty International Decoders '
 image_position: right
 seo:
   title: Everything Local Surveillance Laws Are Missing In One Post
