@@ -6,9 +6,6 @@ categories:
   - content/data/categories/category-64t9y3n0h.json
 tags: []
 excerpt: A Guide to Tracking Surveillance Tech in Your City On and Offline
-thumb_image_alt: >-
-  Screenshots from Nuclear Energy videos (2015) by Kurzgesagt via
-  letstalkscience.ca
 image_alt: >-
   Screenshots from Nuclear Energy videos (2015) by Kurzgesagt via
   letstalkscience.ca
