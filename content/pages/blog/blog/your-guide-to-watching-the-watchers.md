@@ -91,7 +91,7 @@ grasp their capabilities and how they are used.  
     and to tag them by camera type: dome or bullet. In the app or in life,
     the secret is to always be looking up.  
 
-*   *Hidden Cameras*: In addition to conspicuous cameras, there are many cameras that may not be obvious or have ample signage (see [@surveillance.aesthetics on Instagram](https://www.instagram.com/surveillance.aesthetics/) for some great signs – but know that IG is watching you too). For example, **mirrors, parking meters, scooters, **[**smart street lights**](https://www.bloomberg.com/news/articles/2020-08-06/a-surveillance-standoff-over-smart-streetlights)**, **[**smart poles**](https://www.elkoep.com/smartpole)**, traffic cameras**, and **unmanned aerial vehicles (UAVs)** like **drones** or **spy planes** may be wielding a camera. Not to mention **body-worn cameras** and
+*   *Hidden Cameras*: In addition to conspicuous cameras, there are many cameras that may not be obvious or have ample signage (see [@surveillance.aesthetics on Instagram](https://www.instagram.com/surveillance.aesthetics/) for some great signs – but know that IG is watching you too). For example, **mirrors, parking meters, scooters, **[**smart street lights**](https://www.bloomberg.com/news/articles/2020-08-06/a-surveillance-standoff-over-smart-streetlights)[**, smart poles**](https://www.elkoep.com/smartpole)**, traffic cameras**, and **unmanned aerial vehicles (UAVs)** like **drones** or **spy planes** may be wielding a camera. Not to mention **body-worn cameras** and
     that most people who are carrying a smartphone. As technology makes
     more powerful and smaller cameras more affordable, it may become
     difficult to know for sure whether or not you're being filmed. 
@@ -108,7 +108,7 @@ these crucial details.  
     other end of the spectrum may be using real-time facial recognition
     technology to identify you and include you in a wide range of analyses.
     Even the most benign analyses that identify you could put your privacy
-    and security at risk and seriously inhibit civil liberties. Because [facial recognition technology laws](https://ainowinstitute.org/regulatingbiometrics-spivack-garvie.pdf),[ ](https://www.jdsupra.com/legalnews/state-biometric-laws-are-trending-and-2640319/)[biometric laws](https://www.jdsupra.com/legalnews/state-biometric-laws-are-trending-and-2640319/), and[ ](https://iapp.org/resources/article/state-comparison-table/)[consumer privacy laws](https://iapp.org/resources/article/state-comparison-table/) are currently limited in the U.S. and facial recognition technology is becoming more affordable ([$83 on Amazon today](https://www.cnet.com/home/security/best-facial-recognition-security-cameras/)) and its matchings databases (like [**Clearview AI**](https://www.buzzfeednews.com/article/ryanmac/clearview-ai-local-police-facial-recognition) **or **[**PimEyes**](https://www.cnn.com/2021/05/04/tech/pimeyes-facial-recognition/index.html)**) **more accessible, you should be concerned that cameras may be identifying you. Or misidentifying you – there is [evidence](https://news.mit.edu/2018/study-finds-gender-skin-type-bias-artificial-intelligence-systems-0212) that facial recognition technologies are[ ](https://www.netflix.com/gb/title/81328723)[racially biased](https://www.netflix.com/gb/title/81328723) and[ ](https://www.nist.gov/news-events/news/2019/12/nist-study-evaluates-effects-race-age-sex-face-recognition-software)[inaccurate](https://www.nist.gov/news-events/news/2019/12/nist-study-evaluates-effects-race-age-sex-face-recognition-software) when
+    and security at risk and seriously inhibit civil liberties. Because [facial recognition technology laws](https://ainowinstitute.org/regulatingbiometrics-spivack-garvie.pdf),[ ](https://www.jdsupra.com/legalnews/state-biometric-laws-are-trending-and-2640319/)[biometric laws](https://www.jdsupra.com/legalnews/state-biometric-laws-are-trending-and-2640319/), and[ ](https://iapp.org/resources/article/state-comparison-table/)[consumer privacy laws](https://iapp.org/resources/article/state-comparison-table/) are currently limited in the U.S. and facial recognition technology is becoming more affordable ([$83 on Amazon today](https://www.cnet.com/home/security/best-facial-recognition-security-cameras/)) and its matchings databases (like [**Clearview AI**](https://www.buzzfeednews.com/article/ryanmac/clearview-ai-local-police-facial-recognition) or [**PimEyes**](https://www.cnn.com/2021/05/04/tech/pimeyes-facial-recognition/index.html)) more accessible, you should be concerned that cameras may be identifying you. Or misidentifying you – there is [evidence](https://news.mit.edu/2018/study-finds-gender-skin-type-bias-artificial-intelligence-systems-0212) that facial recognition technologies are[ ](https://www.netflix.com/gb/title/81328723)[racially biased](https://www.netflix.com/gb/title/81328723) and[ ](https://www.nist.gov/news-events/news/2019/12/nist-study-evaluates-effects-race-age-sex-face-recognition-software)[inaccurate](https://www.nist.gov/news-events/news/2019/12/nist-study-evaluates-effects-race-age-sex-face-recognition-software) when
     it comes to Asian and African Americans. In addition to **facial
     recognition**, cameras may be used to capture other identifying biometrics such as **fingerprint recognition**, **iris recognition,** **gait recognition**, **tattoo recognition**, and more. This data may also be combined with other data in bias-perpetuating systems like **predictive policing**, **real-time crime centers**, or **video analytics**.  
 
@@ -154,7 +154,7 @@ nascent.  
     this trip data can easily be used to connect you to specific sensitive
     trips.  
 
-*   *Other Transportation Location*: In addition to vehicle tracking, other modes of public transportation track your mobility, including **bike share** and **scooters**, and as more transit systems connect personal credit card information to trips: buses, subways, and parking. LADOT's use of the[** Mobility Data Specification**](https://www.openmobilityfoundation.org/about-mds/),
+*   *Other Transportation Location*: In addition to vehicle tracking, other modes of public transportation track your mobility, including **bike share** and **scooters**, and as more transit systems connect personal credit card information to trips: buses, subways, and parking. LADOT's use of the [**Mobility Data Specification**](https://www.openmobilityfoundation.org/about-mds/),
     which shared private-sector "real-time" bike and scooter trip data with
     the government in exchange for permit rights to operate in the
     city, provoked a[ ](https://www.eff.org/press/releases/eff-aclu-file-lawsuit-stop-los-angeles-collecting-real-time-gps-tracking-data)[lawsuit by ACLU and EFF on privacy grounds](https://www.eff.org/press/releases/eff-aclu-file-lawsuit-stop-los-angeles-collecting-real-time-gps-tracking-data). 
@@ -219,7 +219,7 @@ it is used is often not obvious by seeing the sensor in the wild.  
 
 Depending
 on how you slice it, other "smart city" tech items that I have not
-covered above that are definitely watching you may include **Information and Communications Technology (ICT) infrastructure** (**cell-phone towers** powering [all the way up to 5G](https://foreignpolicy.com/2021/04/17/smart-cities-surveillance-privacy-digital-threats-internet-of-things-5g/) and **public wi-fi**), **Internet of Things (IoT) or GPS-system** connectivity to various things such as **electronic monitoring**, and **smart tags/RFID Chips, online activity** (of government websites, financial transactions, social media analysis), **robots** (like Boston Dynamics'[ ](https://www.bostondynamics.com/spot)[robodogs](https://www.bostondynamics.com/spot) or Knightscope's[ ](https://www.youtube.com/watch?v=1UWhfIEjuis)[rolling pickles](https://www.youtube.com/watch?v=1UWhfIEjuis)), and \*\*street computers \*\*(**kiosks** and **USB ports**).  
+covered above that are definitely watching you may include **Information and Communications Technology (ICT) infrastructure** (**cell-phone towers** powering [all the way up to 5G](https://foreignpolicy.com/2021/04/17/smart-cities-surveillance-privacy-digital-threats-internet-of-things-5g/) and **public wi-fi**), **Internet of Things (IoT) or GPS-system** connectivity to various things such as **electronic monitoring**, and **smart tags/RFID Chips, online activity** (of government websites, financial transactions, social media analysis), **robots** (like Boston Dynamics'[ ](https://www.bostondynamics.com/spot)[robodogs](https://www.bostondynamics.com/spot) or Knightscope's[ ](https://www.youtube.com/watch?v=1UWhfIEjuis)[rolling pickles](https://www.youtube.com/watch?v=1UWhfIEjuis)), and street computers (**kiosks** and **USB ports**).  
 
 ## Watch Your City Website 
 
@@ -268,8 +268,6 @@ public records requests through [the public records service, Muckrock](https://
 
 ###### See the types of records received here: 
 
-\<iframe class="airtable-embed" src="https://airtable.com/embed/shruoW3AP30ERIoiY?backgroundColor=pink" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;">\</iframe>
-
 I conducted 62 requests for 30 cities who had smart city projects that
 had been prominently featured in the news or had submitted to the [Department of Transportation Smart City Challenge in 2015](https://www.transportation.gov/smartcity). I received back records for about half of my submissions on a wide variety of technologies and document types: 
 
@@ -305,12 +303,12 @@ In addition to [seeing my work](https://github.com/rebeccawilliams/whosestreets
     of "smart city" keywords. This approach did not work as effectively as I
     had hoped – while it was a specific term to search, often cities could
     not search across their documents for keywords. It was easier for them
-    to look up vendor names based on their procurement systems. **Here is **[**a list of vendor names**](https://github.com/rebeccawilliams/whosestreets/blob/main/Smart%20City%20Tech%20Vendors%20or%20Data%20Brokers.csv)** to get you started**. But
+    to look up vendor names based on their procurement systems. **Here is **[**a list of vendor names**](https://github.com/rebeccawilliams/whosestreets/blob/main/Smart%20City%20Tech%20Vendors%20or%20Data%20Brokers.csv)** to get you started.** But
     you may also want to search for vendors that you hear about in other
     cities in the news. When asking for contracts, you can also specifically
-    request\*\* data exchange agreements, proof-of-concept
-    agreements, public-private partnership agreements, license and
-    subscription agreements, privacy policies\*\*, and **terms of service**.
+    request **data exchange agreements**, **proof-of-concept
+    agreements**, **public-private partnership agreements**, l**icense and
+    subscription agreements**, **privacy policie**s, and **terms of service**.
     It may be helpful to also request lists of contracts or vendor
     distribution lists for related Requests for Information (RFI) or
     Requests for Proposals (RFP). Lastly, you may also want to
