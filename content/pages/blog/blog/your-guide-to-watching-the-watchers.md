@@ -41,7 +41,7 @@ seo:
       value: /images/Coverage.png
       relativeUrl: true
 layout: post
-thumb_image: images/Coverage.png
+thumb_image: images/AmnestyTech.png
 image: images/AmnestyTech.png
 ---
 In
