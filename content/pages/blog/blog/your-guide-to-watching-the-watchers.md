@@ -42,7 +42,7 @@ seo:
       relativeUrl: true
 layout: post
 thumb_image: images/Coverage.png
-image: images/Coverage.png
+image: images/AmnestyTech.png
 ---
 As I have been researching "smart city" harms and prevention tactics, I have reviewed current surveillance technology laws with an eye for how they are being constructed, applied, and subverted. This post summarizes their status to date, what they are missing, and some initial thoughts on where legal protections might go next.
 
