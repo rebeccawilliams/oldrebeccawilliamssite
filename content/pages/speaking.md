@@ -153,7 +153,7 @@ sections:
           ##### July 6 @ 12PM ET
         content_align: left
         actions:
-          - label: lorem-ipsum
+          - label: Register
             url: '#'
             style: link
             has_icon: false
