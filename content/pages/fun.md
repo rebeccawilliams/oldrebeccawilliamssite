@@ -49,17 +49,12 @@ sections:
       - title: New Google
         subtitle: Anti-Google?
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Years later this title seems less satisfying, but New Google searches
+          for government data only. Imagine a Google for government was the
+          thinking. A rouge Data.gov if you will. I made this on top of open
+          source code that was already out there before working at the non-rogue
+          one. 
         content_align: left
         actions: []
         actions_align: left
