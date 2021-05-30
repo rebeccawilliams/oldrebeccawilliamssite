@@ -35,7 +35,16 @@ sections:
     background_image_repeat: no-repeat
     type: features_section
   - title: New Google
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
     grid_items: []
     grid_cols: three
     grid_gap_vert: small
