@@ -40,7 +40,7 @@ sections:
         content: |
           ##### Urban futures: Collective action towards humane digital cities
 
-          ##### June 9, 2021 @ 1:30 ET
+          ##### June 9, 2021 @ 1:30 PM ET
         content_align: left
         actions:
           - label: Register
