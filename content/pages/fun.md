@@ -22,16 +22,7 @@ sections:
     background_image_repeat: no-repeat
     type: features_section
   - title: Projects
-    actions:
-      - label: Visit
-        style: primary
-        has_icon: true
-        icon: arrow-right
-        icon_position: right
-        new_window: false
-        no_follow: false
-        type: action
-        url: 'https://rebeccawilliams.github.io/newgoogle/'
+    actions: []
     grid_items:
       - subtitle: Anti-Google?
         title_align: left
