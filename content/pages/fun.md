@@ -36,7 +36,7 @@ sections:
     type: features_section
   - title: New Google
     actions:
-      - label: lorem-ipsum
+      - label: Visit
         url: '#'
         style: link
         has_icon: false
