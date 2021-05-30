@@ -22,7 +22,6 @@ sections:
         media_width: fifty
         align: left
         type: feature
-        subtitle: More soon.
         title: 'Things I had fun making:'
     feature_padding_vert: medium
     align: center
