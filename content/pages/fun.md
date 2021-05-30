@@ -34,7 +34,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: features_section
-  - title: New Google
+  - title: Projects
     actions:
       - label: Visit
         style: primary
