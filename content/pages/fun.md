@@ -50,11 +50,11 @@ sections:
         subtitle: Anti-Google?
         title_align: left
         content: >
-          Years later this title seems less satisfying, but New Google searches
-          for government data only. Imagine a Google for government was the
-          thinking. A rouge Data.gov if you will. I made this on top of open
-          source code that was already out there before working at the non-rogue
-          one. 
+          Years later this title seems less satisfying, but imagine a Google for
+          government activity was the thinking. New Google searches across
+          government databases, a rouge Data.gov if you will. I made this on top
+          of open source code that was already out there before working at the
+          real Data.gov and before Google launched their Google Dataset Search.
         content_align: left
         actions: []
         actions_align: left
