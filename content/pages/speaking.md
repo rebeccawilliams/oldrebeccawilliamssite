@@ -145,17 +145,12 @@ sections:
         image: images/General_SXSW.0.jpg
       - title: National Shared Mobility Summit
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >
+          ##### "How can data about our cities challenge existing (societal)
+          power structures?"
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          July 6 @ 12PM ET
         content_align: left
         actions: []
         actions_align: left
