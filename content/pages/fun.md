@@ -10,7 +10,7 @@ sections:
   - title: What's the Point If We Can't Have Fun?
     subtitle: You have found the fun page.
     features: []
-    feature_padding_vert: medium
+    feature_padding_vert: small
     align: center
     padding_top: medium
     padding_bottom: medium
