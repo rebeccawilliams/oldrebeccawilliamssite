@@ -10,20 +10,12 @@ sections:
   - title: What's the Point If We Can't Have Fun?
     subtitle: You have found the fun page.
     features:
-      - content: >+
-          *   [Evergreen (still working on
-          this)](https://twitter.com/internetrebecca/status/1375294962749730817?s=20)
+      - content: |
 
 
-          *   [Hannah's
-          Instagram](https://www.instagram.com/hannaharendtthedog/)
-
-
-          *   [Rebecca's TikTok](https://www.tiktok.com/@\_rebeccawilliams?)
-
+          *   [New Google](https://rebeccawilliams.github.io/newgoogle/)
 
           *   [What is Data?](https://whatisdata.info/)
-
         actions: []
         image_alt: lorem-ipsum
         media_position: top
