@@ -91,7 +91,7 @@ grasp their capabilities and how they are used.  
     and to tag them by camera type: dome or bullet. In the app or in life,
     the secret is to always be looking up.  
 
-*   *Hidden Cameras*: In addition to conspicuous cameras, there are many cameras that may not be obvious or have ample signage (see [@surveillance.aesthetics on Instagram](https://www.instagram.com/surveillance.aesthetics/) for some great signs – but know that IG is watching you too). For example, **mirrors**, **parking meters**, **scooters**, **[smart street lights](https://www.bloomberg.com/news/articles/2020-08-06/a-surveillance-standoff-over-smart-streetlights)**,**[smart poles](https://www.elkoep.com/smartpole)**, **traffic cameras**, and **unmanned aerial vehicles (UAVs)** like **drones** or **spy planes** may be wielding a camera. Not to mention **body-worn cameras** and
+*   *Hidden Cameras*: In addition to conspicuous cameras, there are many cameras that may not be obvious or have ample signage (see [@surveillance.aesthetics on Instagram](https://www.instagram.com/surveillance.aesthetics/) for some great signs – but know that IG is watching you too). For example, **mirrors**, **parking meters**, **scooters**, [**smart street lights**](https://www.bloomberg.com/news/articles/2020-08-06/a-surveillance-standoff-over-smart-streetlights),[**smart poles**](https://www.elkoep.com/smartpole), **traffic cameras**, and **unmanned aerial vehicles (UAVs)** like **drones** or **spy planes** may be wielding a camera. Not to mention **body-worn cameras** and
     that most people who are carrying a smartphone. As technology makes
     more powerful and smaller cameras more affordable, it may become
     difficult to know for sure whether or not you're being filmed. 
@@ -133,7 +133,7 @@ nascent.  
     neighborhood, you can look out for [**cell-site simulators**](https://usdgs.com/wp-content/uploads/2019/10/Law-Enforcement-Use-of-Cell-Site-Simulator-and-IMSI-Catcher-post.jpg).
     You can also check out the location data settings on your phone. If
     your phone all of a sudden goes down to 2G, that could indicate a
-    cell-site simulator is in use nearby, but also [cell-site stimulators work all the way up to 5G now](https://www.wired.com/story/5g-security-stingray-surveillance/) and
+    cell-site simulator is in use nearby, but also [cell-site simulators work all the way up to 5G now](https://www.wired.com/story/5g-security-stingray-surveillance/) and
     are notoriously difficult to track. There are few laws on how cell
     phone location data can be collected, shared, or stored. In *Carpenter v. United States*, the Supreme Court ruled that obtaining historical **cell-site location information (CSLI)** containing the physical locations of cell phones without a search warrant violates the Fourth Amendment, but [some lower circuit findings](http://media.ca7.uscourts.gov/cgi-bin/rssExec.pl?Submit=Display\&Path=Y2021/D04-26/C:19-2357:J:St\_\_Eve:aut:T:fnOp:N:2695373:S:0) are beginning to challenge the bounds of that ruling.  
 
@@ -229,7 +229,7 @@ you can find related budget, spending, and legislative information that
 can help you ask more questions. Things you should search your city
 website for include:  
 
-*   *Keywords*: Search your city's website for all of the keywords bolded above. **Here is [a list of keywords](https://github.com/rebeccawilliams/whosestreets/blob/main/Smart%20City%20Tech%20Terms.csv)** to get you started.** Using search engine's advanced options can allow you to search through all the pages of a single website. [Here is an example](https://www.google.com/search?q=%22smart+streetlight%22+OR+%22digital+twin%22+OR+%22facial+recognition+technology%22+site%3Aboston.gov\&lr=\&as_qdr=all\&ei=Xv-nYO7UNKux5NoPrYmGiAk\&oq=%22smart+streetlight%22+OR+%22digital+twin%22+OR+%22facial+recognition+technology%22+site%3Aboston.gov\&gs_lcp=Cgdnd3Mtd2l6EAM6BwgAEEcQsAM6BQgAEJECOggIABCxAxCDAToFCAAQsQM6CAguEMcBEKMCOgIIADoECAAQQzoLCC4QsQMQxwEQowI6CAgAELEDEJECOggILhDHARCvAToCCC46BAgAEAo6CgguEMcBEKMCEAo6BggAEBYQHjoICAAQFhAKEB46BwgAEMkDEAo6CAghEBYQHRAeOgUIIRCgAToFCCEQqwI6BwghEAoQoAE6BAghEApQtH5Y3OcCYNHqAmgJcAV4AIAB2QGIAYlGkgEHNjMuMzIuMZgBA6ABAaoBB2d3cy13aXqwAQDIAQjAAQE\&sclient=gws-wiz\&ved=0ahUKEwju-5SDt9vwAhWrGFkFHa2EAZEQ4dUDCA0\&uact=5) of
+*   *Keywords*: Search your city's website for all of the keywords bolded above. **Here is **[**a list of keywords**](https://github.com/rebeccawilliams/whosestreets/blob/main/Smart%20City%20Tech%20Terms.csv) to get you started.\*\* Using search engine's advanced options can allow you to search through all the pages of a single website. [Here is an example](https://www.google.com/search?q=%22smart+streetlight%22+OR+%22digital+twin%22+OR+%22facial+recognition+technology%22+site%3Aboston.gov\&lr=\&as_qdr=all\&ei=Xv-nYO7UNKux5NoPrYmGiAk\&oq=%22smart+streetlight%22+OR+%22digital+twin%22+OR+%22facial+recognition+technology%22+site%3Aboston.gov\&gs_lcp=Cgdnd3Mtd2l6EAM6BwgAEEcQsAM6BQgAEJECOggIABCxAxCDAToFCAAQsQM6CAguEMcBEKMCOgIIADoECAAQQzoLCC4QsQMQxwEQowI6CAgAELEDEJECOggILhDHARCvAToCCC46BAgAEAo6CgguEMcBEKMCEAo6BggAEBYQHjoICAAQFhAKEB46BwgAEMkDEAo6CAghEBYQHRAeOgUIIRCgAToFCCEQqwI6BwghEAoQoAE6BAghEApQtH5Y3OcCYNHqAmgJcAV4AIAB2QGIAYlGkgEHNjMuMzIuMZgBA6ABAaoBB2d3cy13aXqwAQDIAQjAAQE\&sclient=gws-wiz\&ved=0ahUKEwju-5SDt9vwAhWrGFkFHa2EAZEQ4dUDCA0\&uact=5) of
     what a few keywords above look like for Boston.gov. In addition to the
     keywords above, you can do the same treatment for "smart city" vendors
     that interest you. [Here is an example](https://www.google.com/search?as_q=%22Clearview+AI%22\&as_epq=\&as_oq=\&as_eq=\&as_nlo=\&as_nhi=\&lr=\&cr=\&as_qdr=all\&as_sitesearch=nyc.gov\&as_occt=any\&safe=images\&as_filetype=\&tbs=) of Clearview AI for NYC.gov. Lastly, you can set up notifications with [an alert service](https://www.google.com/alerts) for
@@ -305,7 +305,7 @@ In addition to [seeing my work](https://github.com/rebeccawilliams/whosestreets
     of "smart city" keywords. This approach did not work as effectively as I
     had hoped – while it was a specific term to search, often cities could
     not search across their documents for keywords. It was easier for them
-    to look up vendor names based on their procurement systems. **Here is [a list of vendor names](https://github.com/rebeccawilliams/whosestreets/blob/main/Smart%20City%20Tech%20Vendors%20or%20Data%20Brokers.csv)** to get you started.** But
+    to look up vendor names based on their procurement systems. **Here is **[**a list of vendor names**](https://github.com/rebeccawilliams/whosestreets/blob/main/Smart%20City%20Tech%20Vendors%20or%20Data%20Brokers.csv) to get you started.\*\* But
     you may also want to search for vendors that you hear about in other
     cities in the news. When asking for contracts, you can also specifically
     request **data exchange agreements**, **proof-of-concept
@@ -359,4 +359,4 @@ Check out: [ACLU](https://www.aclu.org/news/privacy-technology/robot-police-dog
 
 Together we can turn the camera lens in the other direction.  
 
-*[Originally posted on The Perspectives on Public Purpose Blog hosted by Harvard Kennedy School Belfer Center’s Technology and Public Purpose Project (TAPP).](https://www.belfercenter.org/publication/your-guide-watching-watchers)*
+[*Originally posted on The Perspectives on Public Purpose Blog hosted by Harvard Kennedy School Belfer Center’s Technology and Public Purpose Project (TAPP).*](https://www.belfercenter.org/publication/your-guide-watching-watchers)
