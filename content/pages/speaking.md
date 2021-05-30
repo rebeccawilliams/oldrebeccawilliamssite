@@ -15,7 +15,7 @@ sections:
           power structures?
 
 
-          ##### July 6 @ 12PM ET
+          ##### July 6, 2021 @ 12PM ET
         content_align: left
         actions:
           - label: Register
