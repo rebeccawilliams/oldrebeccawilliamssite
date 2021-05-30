@@ -9,23 +9,7 @@ sections:
     background_color: primary
   - title: What's the Point If We Can't Have Fun?
     subtitle: You have found the fun page.
-    features:
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
-        content: >
-          I still am working on what to include here. Everyone is allowed one
-          "Coming Soon" page? The above Title is from David Graber's essay by
-          the same name, you can read it
-          [here](https://thebaffler.com/salvos/whats-the-point-if-we-cant-have-fun).
-        actions: []
-        image_alt: lorem-ipsum
-        video_embed_html: >-
-          The above Title is from David Graeber's essay by the same name, which
-          I recommend, you can read it here.
-        media_position: top
-        media_width: fifty
-        align: left
-        type: feature
+    features: []
     feature_padding_vert: medium
     align: center
     padding_top: medium
