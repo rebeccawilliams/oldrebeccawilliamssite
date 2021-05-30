@@ -154,7 +154,7 @@ sections:
         content_align: left
         actions:
           - label: Register
-            url: '#'
+            url: 'https://summit.sharedusemobilitycenter.org/'
             style: link
             has_icon: false
             icon: arrow-left
