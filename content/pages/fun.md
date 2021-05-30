@@ -80,6 +80,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
+    subtitle: I had fun making
 seo:
   title: Fun
   description: This is the community groups page
