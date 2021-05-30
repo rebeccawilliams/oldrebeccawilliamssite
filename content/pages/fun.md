@@ -37,7 +37,7 @@ sections:
   - title: New Google
     actions:
       - label: Visit
-        style: link
+        style: primary
         has_icon: false
         icon: arrow-left
         icon_position: right
