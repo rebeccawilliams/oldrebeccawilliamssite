@@ -46,7 +46,7 @@ sections:
         type: action
         url: 'https://rebeccawilliams.github.io/newgoogle/'
     grid_items:
-      - subtitle: 'I had fun making '
+      - subtitle: Anti-Google?
         title_align: left
         content: >
           Years later this title seems less satisfying, but imagine a Google for
