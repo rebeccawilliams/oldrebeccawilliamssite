@@ -20,8 +20,8 @@ sections:
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
-          The above Title is from David Graeber's essay by the same name, you
-          can read it here.
+          The above Title is from David Graeber's essay by the same name, which
+          I recommend, you can read it here.
         media_position: top
         media_width: fifty
         align: left
