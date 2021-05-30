@@ -37,7 +37,6 @@ sections:
         type: grid_item
         image: images/rc.png
         title: RightsCon
-        subtitle: 'Urban Futures: '
       - title_align: left
         content_align: left
         actions:
