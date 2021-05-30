@@ -23,7 +23,7 @@ sections:
         align: left
         type: feature
         subtitle: More soon.
-        title: 'A few things:'
+        title: 'Things I had fun making:'
     feature_padding_vert: medium
     align: center
     padding_top: medium
