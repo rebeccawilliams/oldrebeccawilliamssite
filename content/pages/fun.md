@@ -47,7 +47,7 @@ sections:
         url: 'https://rebeccawilliams.github.io/newgoogle/'
     grid_items:
       - title: New Google
-        subtitle: lorem-ipsum
+        subtitle: Anti-Google?
         title_align: left
         content: >-
           ## Lorem ipsum
