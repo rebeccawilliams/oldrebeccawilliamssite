@@ -44,7 +44,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-        url: 'https://rebeccawilliams.github.io/newgoogle/#/bus%20stops/1'
+        url: 'https://rebeccawilliams.github.io/newgoogle/'
     grid_items: []
     grid_cols: three
     grid_gap_vert: small
