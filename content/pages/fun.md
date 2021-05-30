@@ -21,7 +21,7 @@ sections:
         image_alt: lorem-ipsum
         video_embed_html: >-
           I still am working on what to include here. Everyone is allowed one
-          "Coming Soon" page? The above Title is from David Graber's essay by
+          "Coming Soon" page? The above Title is from David Graeber's essay by
           the same name, you can read it here.
         media_position: top
         media_width: fifty
