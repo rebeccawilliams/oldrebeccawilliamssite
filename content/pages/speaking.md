@@ -8,6 +8,34 @@ sections:
     subtitle: Featured
     actions: []
     grid_items:
+      - title: National Shared Mobility Summit
+        title_align: left
+        content: >
+          ##### "How can data about our cities challenge existing (societal)
+          power structures?"
+
+
+          ##### July 6 @ 12PM ET
+        content_align: left
+        actions:
+          - label: Register
+            url: 'https://summit.sharedusemobilitycenter.org/'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
+        actions_align: left
+        actions_width: auto
+        image_alt: National Shared Mobility Summit 2021
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
+        image: images/E2Z4NnJXoAsihd5.jpeg
       - title_align: left
         content: |
           ##### Urban futures: Collective action towards humane digital cities
@@ -143,34 +171,6 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/General_SXSW.0.jpg
-      - title: National Shared Mobility Summit
-        title_align: left
-        content: >
-          ##### "How can data about our cities challenge existing (societal)
-          power structures?"
-
-
-          ##### July 6 @ 12PM ET
-        content_align: left
-        actions:
-          - label: Register
-            url: 'https://summit.sharedusemobilitycenter.org/'
-            style: link
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
-        actions_align: left
-        actions_width: auto
-        image_alt: National Shared Mobility Summit 2021
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-        image: images/E2Z4NnJXoAsihd5.jpeg
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
