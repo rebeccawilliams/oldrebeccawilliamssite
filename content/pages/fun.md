@@ -9,20 +9,7 @@ sections:
     background_color: primary
   - title: What's the Point If We Can't Have Fun?
     subtitle: You have found the fun page.
-    features:
-      - content: |
-
-
-          *   [New Google](https://rebeccawilliams.github.io/newgoogle/)
-
-          *   [What is Data?](https://whatisdata.info/)
-        actions: []
-        image_alt: lorem-ipsum
-        media_position: top
-        media_width: fifty
-        align: left
-        type: feature
-        title: 'Things I had fun making:'
+    features: []
     feature_padding_vert: medium
     align: center
     padding_top: medium
