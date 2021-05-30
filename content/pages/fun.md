@@ -20,8 +20,9 @@ sections:
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          I still am working on what to include here. Everyone is allowed one
+          "Coming Soon" page? The above Title is from David Graber's essay by
+          the same name, you can read it here.
         media_position: top
         media_width: fifty
         align: left
