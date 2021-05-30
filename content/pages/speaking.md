@@ -144,7 +144,6 @@ sections:
         type: grid_item
         image: images/General_SXSW.0.jpg
       - title: National Shared Mobility Summit
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
