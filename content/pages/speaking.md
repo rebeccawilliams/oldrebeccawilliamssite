@@ -21,7 +21,7 @@ sections:
           - label: Register
             url: 'https://summit.sharedusemobilitycenter.org/'
             style: primary
-            has_icon: false
+            has_icon: true
             icon: arrow-left
             icon_position: right
             new_window: false
