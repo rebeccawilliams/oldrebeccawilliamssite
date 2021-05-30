@@ -65,7 +65,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/Screen Shot 2021-05-30 at 7.42.48 PM.png
-        title: Projects
+        title: New Google
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
