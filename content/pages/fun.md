@@ -35,7 +35,6 @@ sections:
     background_image_repeat: no-repeat
     type: features_section
   - title: New Google
-    subtitle: lorem-ipsum
     actions: []
     grid_items: []
     grid_cols: three
