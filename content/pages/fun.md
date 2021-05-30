@@ -12,17 +12,11 @@ sections:
     features:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          I still am working on what to include here. Everyone is allowed one
+          "Coming Soon" page? The above Title is from David Graber's essay by
+          the same name, you can read it
+          [here](https://thebaffler.com/salvos/whats-the-point-if-we-cant-have-fun).
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
