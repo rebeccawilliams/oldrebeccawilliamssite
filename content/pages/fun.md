@@ -83,7 +83,7 @@ sections:
     subtitle: 'You have found the fun page. '
 seo:
   title: Fun | Rebecca Williams
-  description: This is the community groups page
+  description: This is Rebecca's fun page.
   extra:
     - name: 'og:type'
       value: website
