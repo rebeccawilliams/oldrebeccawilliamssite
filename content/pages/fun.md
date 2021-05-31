@@ -16,7 +16,6 @@ sections:
           [here](https://thebaffler.com/salvos/whats-the-point-if-we-cant-have-fun). 
         actions: []
         image_alt: lorem-ipsum
-        video_embed_html: 'https://twitter.com/internetrebecca/status/1375294962749730817?s=20'
         media_position: top
         media_width: fifty
         align: center
