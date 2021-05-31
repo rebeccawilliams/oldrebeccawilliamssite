@@ -11,11 +11,11 @@ sections:
       - title: National Shared Mobility Summit
         title_align: left
         content: >
-          ##### How can data about our cities challenge existing (societal)
+          ###### How can data about our cities challenge existing (societal)
           power structures?
 
 
-          ##### July 6, 2021 @ 12:05 PM ET
+          ###### July 6, 2021 @ 12:05 PM ET
         content_align: left
         actions:
           - label: Register
