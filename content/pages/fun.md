@@ -90,7 +90,7 @@ sections:
         type: grid_item
         image: images/Screen Shot 2021-05-30 at 7.42.48 PM.png
         title: New Google
-    grid_cols: three
+    grid_cols: two
     grid_gap_vert: small
     grid_gap_horiz: small
     enable_cards: false
