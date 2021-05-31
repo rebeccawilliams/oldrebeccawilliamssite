@@ -56,17 +56,10 @@ sections:
       - title: What is Data?
         subtitle: According to various statutes
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          This project came out of the beautiful frustration of trying to train
+          folks on implementing some poorly defined data policy laws that will
+          not be mentioned, but might show up if you refresh the page enough. 
         content_align: left
         actions: []
         actions_align: left
