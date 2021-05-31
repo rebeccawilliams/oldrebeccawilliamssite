@@ -34,7 +34,7 @@ sections:
           real Data.gov and before Google launched their Google Dataset Search.
         content_align: left
         actions:
-          - label: lorem-ipsum
+          - label: Visit
             url: '#'
             style: link
             has_icon: false
