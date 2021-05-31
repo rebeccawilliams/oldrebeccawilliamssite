@@ -19,7 +19,7 @@ sections:
         video_embed_html: 'https://twitter.com/internetrebecca/status/1375294962749730817?s=20'
         media_position: top
         media_width: fifty
-        align: left
+        align: center
         type: feature
     feature_padding_vert: small
     align: center
