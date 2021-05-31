@@ -7,8 +7,7 @@ sections:
     padding_top: large
     padding_bottom: small
     background_color: primary
-  - title: What's the Point If We Can't Have Fun?
-    subtitle: You have found the fun page.
+  - subtitle: You have found the fun page.
     features:
       - title: What's the Point If We Can't Have Fun?
         subtitle: You have found the fun page.
