@@ -104,7 +104,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-    subtitle: I had fun making these
+    subtitle: 'You have found the fun page. '
 seo:
   title: Fun
   description: This is the community groups page
