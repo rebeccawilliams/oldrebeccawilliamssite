@@ -31,7 +31,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: features_section
-  - title: Websites
+  - title: What is the
     actions: []
     grid_items:
       - title: What is Data?
