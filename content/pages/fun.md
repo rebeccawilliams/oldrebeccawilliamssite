@@ -7,30 +7,6 @@ sections:
     padding_top: large
     padding_bottom: small
     background_color: primary
-  - features:
-      - title: What's the Point If We Can't Have Fun?
-        subtitle: You have found the fun page.
-        content: >
-          The title above comes from the David Graeber essay by the same name,
-          which I recommend, you can read it
-          [here](https://thebaffler.com/salvos/whats-the-point-if-we-cant-have-fun). 
-        actions: []
-        image_alt: lorem-ipsum
-        media_position: top
-        media_width: fifty
-        align: center
-        type: feature
-    feature_padding_vert: small
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: secondary
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: features_section
   - title: What's The Point If We Can't Have Fun?
     actions: []
     grid_items:
