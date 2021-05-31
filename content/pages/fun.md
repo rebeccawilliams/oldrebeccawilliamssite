@@ -11,7 +11,7 @@ sections:
     subtitle: You have found the fun page.
     features:
       - title: What's the Point If We Can't Have Fun?
-        subtitle: lorem-ipsum
+        subtitle: You have found the fun page.
         content: >-
           ## Lorem ipsum
 
