@@ -64,11 +64,11 @@ sections:
       - subtitle: Anti-Google?
         title_align: left
         content: >
-          Years later this title seems less satisfying, but imagine a Google for
-          government activity was the thinking. New Google searches across
-          government databases, a rouge Data.gov if you will. I made this on top
-          of open source code that was already out there before working at the
-          real Data.gov and before Google launched their Google Dataset Search.
+          Years later this title seems less satisfying, but at the time I was
+          imagining a Google for government activity. New Google searches across
+          government databases, a rogue Data.gov if you will. I made this from
+          open source code that was already out there before working at the real
+          Data.gov and before Google launched their Google Dataset Search.
         content_align: left
         actions:
           - label: Visit
