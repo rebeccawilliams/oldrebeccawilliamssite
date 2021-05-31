@@ -10,7 +10,7 @@ sections:
   - title: What's the Point If We Can't Have Fun?
     subtitle: You have found the fun page.
     features:
-      - title: lorem-ipsum
+      - title: What's the Point If We Can't Have Fun?
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
