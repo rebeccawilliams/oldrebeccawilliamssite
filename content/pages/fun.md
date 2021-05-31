@@ -12,17 +12,10 @@ sections:
     features:
       - title: What's the Point If We Can't Have Fun?
         subtitle: You have found the fun page.
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          The title above comes from the David Graeber essay by the same name,
+          which I recommend, you can read it
+          [here](https://thebaffler.com/salvos/whats-the-point-if-we-cant-have-fun). 
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: 'https://twitter.com/internetrebecca/status/1375294962749730817?s=20'
