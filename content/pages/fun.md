@@ -35,7 +35,7 @@ sections:
         content_align: left
         actions:
           - label: Visit
-            url: '#'
+            url: 'https://rebeccawilliams.github.io/newgoogle/#/'
             style: link
             has_icon: false
             icon: arrow-left
