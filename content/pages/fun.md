@@ -64,7 +64,7 @@ sections:
         actions:
           - label: Visit
             url: 'https://whatisdata.info/'
-            style: link
+            style: primary
             has_icon: false
             icon: arrow-left
             icon_position: right
