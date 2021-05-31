@@ -31,7 +31,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: features_section
-  - title: What is the
+  - title: What's The Point If We Can't Have Fun?
     actions: []
     grid_items:
       - title: What is Data?
