@@ -62,7 +62,7 @@ sections:
           not be mentioned, but might show up if you refresh the page enough. 
         content_align: left
         actions:
-          - label: lorem-ipsum
+          - label: Visit
             url: '#'
             style: link
             has_icon: false
