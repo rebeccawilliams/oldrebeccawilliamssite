@@ -82,7 +82,7 @@ sections:
     type: grid_section
     subtitle: 'You have found the fun page. '
 seo:
-  title: Fun
+  title: Fun | Rebecca Williams
   description: This is the community groups page
   extra:
     - name: 'og:type'
