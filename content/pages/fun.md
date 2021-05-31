@@ -63,7 +63,7 @@ sections:
         content_align: left
         actions:
           - label: Visit
-            url: '#'
+            url: 'https://whatisdata.info/'
             style: link
             has_icon: false
             icon: arrow-left
