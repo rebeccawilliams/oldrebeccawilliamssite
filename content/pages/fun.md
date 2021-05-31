@@ -54,7 +54,7 @@ sections:
         image: images/Screen Shot 2021-05-30 at 7.42.48 PM.png
         title: New Google
       - title: What is Data?
-        subtitle: lorem-ipsum
+        subtitle: According to various statutes
         title_align: left
         content: >-
           ## Lorem ipsum
