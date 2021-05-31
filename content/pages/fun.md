@@ -24,6 +24,33 @@ sections:
   - title: Projects
     actions: []
     grid_items:
+      - title: What is Data?
+        subtitle: According to various statutes
+        title_align: left
+        content: >
+          This project came out of the beautiful frustration of trying to train
+          folks on implementing some poorly defined data policy laws that will
+          not be mentioned, but might show up if you refresh the page enough. 
+        content_align: left
+        actions:
+          - label: Visit
+            url: 'https://whatisdata.info/'
+            style: primary
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        type: grid_item
+        image: images/Screen Shot 2021-05-30 at 7.43.06 PM.png
       - subtitle: Anti-Google?
         title_align: left
         content: >
@@ -53,33 +80,6 @@ sections:
         type: grid_item
         image: images/Screen Shot 2021-05-30 at 7.42.48 PM.png
         title: New Google
-      - title: What is Data?
-        subtitle: According to various statutes
-        title_align: left
-        content: >
-          This project came out of the beautiful frustration of trying to train
-          folks on implementing some poorly defined data policy laws that will
-          not be mentioned, but might show up if you refresh the page enough. 
-        content_align: left
-        actions:
-          - label: Visit
-            url: 'https://whatisdata.info/'
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-        image: images/Screen Shot 2021-05-30 at 7.43.06 PM.png
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
