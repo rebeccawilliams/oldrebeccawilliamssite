@@ -125,7 +125,7 @@ can help you ask more questions. Things you should search your city website for 
 
 ## Watch Your City via Public Records Requests  
 
-Public records access via local Freedom of Information and Right to Know laws are a *right* available to us all that you should use for your own knowledge and the overall civic health of your community. As part of my research, I conducted 60+ public records requests through the public records service,  [Muckrock](https://www.muckrock.com/project/whose-streets-863/#requests). You can check out the template I used and the records I received back via their public platform, as well as [their tips](https://www.youtube.com/watch?v=23L_Wtpnxok) on filing your first records request.  
+Public records access via local Freedom of Information and Right to Know laws are a *right* available to us all that you should use for your own knowledge and the overall civic health of your community. As part of my research, I conducted 60+ public records requests through the public records service, [Muckrock](https://www.muckrock.com/project/whose-streets-863/#requests). You can check out the template I used and the records I received back via their public platform, as well as [their tips](https://www.youtube.com/watch?v=23L_Wtpnxok) on filing your first records request.  
 
 ###### Explore the records here:
 
