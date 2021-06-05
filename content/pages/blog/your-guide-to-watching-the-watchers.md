@@ -305,7 +305,7 @@ In addition to [seeing my work](https://github.com/rebeccawilliams/whosestreets
     of "smart city" keywords. This approach did not work as effectively as I
     had hoped – while it was a specific term to search, often cities could
     not search across their documents for keywords. It was easier for them
-    to look up vendor names based on their procurement systems. *Here is [a list of vendor names**](https://github.com/rebeccawilliams/whosestreets/blob/main/Smart%20City%20Tech%20Vendors%20or%20Data%20Brokers.csv)** to get you started. But
+    to look up vendor names based on their procurement systems. *Here is [a list of vendor names**](https://github.com/rebeccawilliams/whosestreets/blob/main/Smart%20City%20Tech%20Vendors%20or%20Data%20Brokers.csv) to get you started. But
     you may also want to search for vendors that you hear about in other
     cities in the news. When asking for contracts, you can also specifically
     request data exchange agreements, proof-of-concept
