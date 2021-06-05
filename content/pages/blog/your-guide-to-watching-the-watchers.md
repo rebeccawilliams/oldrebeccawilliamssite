@@ -109,13 +109,11 @@ these crucial details.  
     technology to identify you and include you in a wide range of analyses.
     Even the most benign analyses that identify you could put your privacy
     and security at risk and seriously inhibit civil liberties. Because [facial recognition technology laws](https://ainowinstitute.org/regulatingbiometrics-spivack-garvie.pdf),[ ](https://www.jdsupra.com/legalnews/state-biometric-laws-are-trending-and-2640319/)[biometric laws](https://www.jdsupra.com/legalnews/state-biometric-laws-are-trending-and-2640319/), and[ ](https://iapp.org/resources/article/state-comparison-table/)[consumer privacy laws](https://iapp.org/resources/article/state-comparison-table/) are currently limited in the U.S. and facial recognition technology is becoming more affordable ([$83 on Amazon today](https://www.cnet.com/home/security/best-facial-recognition-security-cameras/)) and its matchings databases (like [**Clearview AI**](https://www.buzzfeednews.com/article/ryanmac/clearview-ai-local-police-facial-recognition) or [**PimEyes**](https://www.cnn.com/2021/05/04/tech/pimeyes-facial-recognition/index.html)) more accessible, you should be concerned that cameras may be identifying you. Or misidentifying you – there is [evidence](https://news.mit.edu/2018/study-finds-gender-skin-type-bias-artificial-intelligence-systems-0212) that facial recognition technologies are[ ](https://www.netflix.com/gb/title/81328723)[racially biased](https://www.netflix.com/gb/title/81328723) and[ ](https://www.nist.gov/news-events/news/2019/12/nist-study-evaluates-effects-race-age-sex-face-recognition-software)[inaccurate](https://www.nist.gov/news-events/news/2019/12/nist-study-evaluates-effects-race-age-sex-face-recognition-software) when
-    it comes to Asian and African Americans. In addition to **facial
-    recognition**, cameras may be used to capture other identifying biometrics such as **fingerprint recognition**, **iris recognition,** **gait recognition**, **tattoo recognition**, and more. This data may also be combined with other data in bias-perpetuating systems like **predictive policing**, **real-time crime centers**, or **video analytics**.  
+    it comes to Asian and African Americans. In addition to **facial recognition**, cameras may be used to capture other identifying biometrics such as **fingerprint recognition**, **iris recognition,** **gait recognition**, **tattoo recognition**, and more. This data may also be combined with other data in bias-perpetuating systems like **predictive policing**, **real-time crime centers**, or **video analytics**.  
 
 ### Mobility Tracking 
 
-This
-next bucket of tools is admittedly a bit abstract, but when
+This next bucket of tools is admittedly a bit abstract, but when
 you are mobile around your city, I invite you to reflect on all the ways
 you might be tracked, whether it be in vehicles, or other modes of
 transportation, or simply walking around carrying a cell phone. Mobility
@@ -229,7 +227,7 @@ you can find related budget, spending, and legislative information that
 can help you ask more questions. Things you should search your city
 website for include:  
 
-*   *Keywords*: Search your city's website for all of the keywords bolded above. \*\*Here is \*\*[**a list of keywords**](https://github.com/rebeccawilliams/whosestreets/blob/main/Smart%20City%20Tech%20Terms.csv) to get you started.\*\* Using search engine's advanced options can allow you to search through all the pages of a single website. [Here is an example](https://www.google.com/search?q=%22smart+streetlight%22+OR+%22digital+twin%22+OR+%22facial+recognition+technology%22+site%3Aboston.gov\&lr=\&as_qdr=all\&ei=Xv-nYO7UNKux5NoPrYmGiAk\&oq=%22smart+streetlight%22+OR+%22digital+twin%22+OR+%22facial+recognition+technology%22+site%3Aboston.gov\&gs_lcp=Cgdnd3Mtd2l6EAM6BwgAEEcQsAM6BQgAEJECOggIABCxAxCDAToFCAAQsQM6CAguEMcBEKMCOgIIADoECAAQQzoLCC4QsQMQxwEQowI6CAgAELEDEJECOggILhDHARCvAToCCC46BAgAEAo6CgguEMcBEKMCEAo6BggAEBYQHjoICAAQFhAKEB46BwgAEMkDEAo6CAghEBYQHRAeOgUIIRCgAToFCCEQqwI6BwghEAoQoAE6BAghEApQtH5Y3OcCYNHqAmgJcAV4AIAB2QGIAYlGkgEHNjMuMzIuMZgBA6ABAaoBB2d3cy13aXqwAQDIAQjAAQE\&sclient=gws-wiz\&ved=0ahUKEwju-5SDt9vwAhWrGFkFHa2EAZEQ4dUDCA0\&uact=5) of
+*   *Keywords*: Search your city's website for all of the keywords bolded above. **Here is **[**a list of keywords**](https://github.com/rebeccawilliams/whosestreets/blob/main/Smart%20City%20Tech%20Terms.csv)** to get you started. **Using search engine's advanced options can allow you to search through all the pages of a single website. [Here is an example](https://www.google.com/search?q=%22smart+streetlight%22+OR+%22digital+twin%22+OR+%22facial+recognition+technology%22+site%3Aboston.gov\&lr=\&as_qdr=all\&ei=Xv-nYO7UNKux5NoPrYmGiAk\&oq=%22smart+streetlight%22+OR+%22digital+twin%22+OR+%22facial+recognition+technology%22+site%3Aboston.gov\&gs_lcp=Cgdnd3Mtd2l6EAM6BwgAEEcQsAM6BQgAEJECOggIABCxAxCDAToFCAAQsQM6CAguEMcBEKMCOgIIADoECAAQQzoLCC4QsQMQxwEQowI6CAgAELEDEJECOggILhDHARCvAToCCC46BAgAEAo6CgguEMcBEKMCEAo6BggAEBYQHjoICAAQFhAKEB46BwgAEMkDEAo6CAghEBYQHRAeOgUIIRCgAToFCCEQqwI6BwghEAoQoAE6BAghEApQtH5Y3OcCYNHqAmgJcAV4AIAB2QGIAYlGkgEHNjMuMzIuMZgBA6ABAaoBB2d3cy13aXqwAQDIAQjAAQE\&sclient=gws-wiz\&ved=0ahUKEwju-5SDt9vwAhWrGFkFHa2EAZEQ4dUDCA0\&uact=5) of
     what a few keywords above look like for Boston.gov. In addition to the
     keywords above, you can do the same treatment for "smart city" vendors
     that interest you. [Here is an example](https://www.google.com/search?as_q=%22Clearview+AI%22\&as_epq=\&as_oq=\&as_eq=\&as_nlo=\&as_nhi=\&lr=\&cr=\&as_qdr=all\&as_sitesearch=nyc.gov\&as_occt=any\&safe=images\&as_filetype=\&tbs=) of Clearview AI for NYC.gov. Lastly, you can set up notifications with [an alert service](https://www.google.com/alerts) for
@@ -245,20 +243,19 @@ website for include:  
     City Council contact information, meeting times, and meeting minutes to
     engage your representative on these matters.  
 
-*   *Data*: In
-    addition to searching the city website for keywords and documents to
+*   *Data*: In addition to searching the city website for keywords and documents to
     uncover current "smart city" tech practices and policies, you can search
     for specific open datasets, including spending data and CCTV location
     data. If your city does not post this information proactively, you can
     request those records (see below), or check out third-party sites
-    like EFF's [*Atlas of Surveillance*](https://atlasofsurveillance.org/)\* or if you're in *ChicagoLucy Parson Lab's* [Police Surveillance guide](https://www.redshiftzero.com/policesurveillance/) to see if your city's surveillance technologies have been mapped.  
+    like EFF's [*Atlas of Surveillance*](https://atlasofsurveillance.org/)* or if you're in Chicago, Lucy Parson Lab's* [Police Surveillance guide](https://www.redshiftzero.com/policesurveillance/) to see if your city's surveillance technologies have been mapped.  
 
 ## Watch Your City via Public Records Requests  
 
 Public records access via local Freedom of Information and Right to Know laws are a *right* available
 to us all that you should use for your own knowledge and the overall
 civic health of your community. As part of my research, I conducted 60+
-public records requests through [the public records service, Muckrock](https://www.muckrock.com/project/whose-streets-863/#requests). You can check out the template I used and the records I received back via their public platform, as well as [their tips](https://www.youtube.com/watch?v=23L_Wtpnxok) on filing your first records request.  
+public records requests through the public reocrds service,  [Muckrock](https://www.muckrock.com/project/whose-streets-863/#requests). You can check out the template I used and the records I received back via their public platform, as well as [their tips](https://www.youtube.com/watch?v=23L_Wtpnxok) on filing your first records request.  
 
 ###### Explore the records here:
 
@@ -305,12 +302,12 @@ In addition to [seeing my work](https://github.com/rebeccawilliams/whosestreets
     of "smart city" keywords. This approach did not work as effectively as I
     had hoped – while it was a specific term to search, often cities could
     not search across their documents for keywords. It was easier for them
-    to look up vendor names based on their procurement systems. **Here is [a list of vendor names](https://github.com/rebeccawilliams/whosestreets/blob/main/Smart%20City%20Tech%20Vendors%20or%20Data%20Brokers.csv) to get you started**. But
+    to look up vendor names based on their procurement systems. **Here is **[**a list of vendor names**](https://github.com/rebeccawilliams/whosestreets/blob/main/Smart%20City%20Tech%20Vendors%20or%20Data%20Brokers.csv)** to get you started**. But
     you may also want to search for vendors that you hear about in other
     cities in the news. When asking for contracts, you can also specifically
-    request data exchange agreements, proof-of-concept
-    agreements, public-private partnership agreements, license and
-    subscription agreements**, **privacy policie**s, and **terms of service**.
+    **request data exchange agreements, proof-of-concept
+    agreements, public-private partnership agreements, license **and**
+    subscription agreements,** **privacy policie**s, and **terms of service**.
     It may be helpful to also request lists of contracts or vendor
     distribution lists for related Requests for Information (RFI) or
     Requests for Proposals (RFP). Lastly, you may also want to
