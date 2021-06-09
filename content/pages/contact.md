@@ -15,7 +15,7 @@ sections:
       Email is the best way to reach Rebecca: rebecca@rebeccawilliams.us.
 
 
-      Follow her on social (see footer).
+      Follow her on social (see Footer).
 
 
       If you want to be formal, use the form.
