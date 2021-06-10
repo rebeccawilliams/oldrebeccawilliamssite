@@ -37,8 +37,6 @@ sections:
         type: grid_item
         image: images/E2Z4NnJXoAsihd5.jpeg
       - title_align: left
-        content: |
-          ######
         content_align: left
         actions:
           - label: Surveillance in Urban Space
