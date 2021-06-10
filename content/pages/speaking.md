@@ -39,7 +39,7 @@ sections:
       - title_align: left
         content_align: left
         actions:
-          - label: Surveillance in Urban Space
+          - label: Surveillance in Urban Space (2021)
             url: >-
               https://www.rightscon.org/program/?fwp_session_category=privacy-and-surveillance
             style: primary
