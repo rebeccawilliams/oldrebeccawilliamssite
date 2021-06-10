@@ -43,7 +43,7 @@ sections:
           ###### June 9, 2021 @ 1:30 PM ET
         content_align: left
         actions:
-          - label: Register
+          - label: Surveillance in Urban Space
             url: >-
               https://www.rightscon.org/program/?fwp_session_category=privacy-and-surveillance
             style: primary
