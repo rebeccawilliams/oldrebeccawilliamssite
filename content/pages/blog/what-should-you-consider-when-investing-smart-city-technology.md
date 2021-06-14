@@ -249,7 +249,7 @@ information. Additionally, open standards often provide opportunities to be in d
 
 Long term value creation for smart city technology is not just about pure profitability but also ensuring a startup is solving a real problem experienced in cities in exchange for money.  
 
-**Create long term value for the public and for business. **Companies are IPOing and raising millions from VCs without turning a profit or signaling sustainable growth indicated by consumers, businesses or governments paying for their product or service at full price. For public purpose, this also
+**Create long term value for the public and for business.** Companies are IPOing and raising millions from VCs without turning a profit or signaling sustainable growth indicated by consumers, businesses or governments paying for their product or service at full price. For public purpose, this also
 means evaluating value and problem-solving in the long term (>10 years) and in an equitable way. VCs should compare startups to existing
 solutions in the market to understand if the technology provides incremental (small dent in problem), fundamental (problem mostly solved) or transformative change (problem eliminated or a brand new movement) and assess how that level of change will impact the public-- jobs, the economy, the environment, human rights, security, and privacy. 
 
