@@ -14,9 +14,7 @@ sections:
           ######
         content_align: left
         actions:
-          - label: >-
-              How can data about our cities challenge existing (societal) power
-              structures?
+          - label: How can data challenge existing (societal) power structures?
             url: 'https://summit.sharedusemobilitycenter.org/'
             style: primary
             has_icon: true
