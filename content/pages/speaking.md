@@ -12,7 +12,7 @@ sections:
         title_align: left
         content_align: left
         actions:
-          - label: Data x Societal Power Structures
+          - label: Data x Power Structures (2021)
             url: 'https://summit.sharedusemobilitycenter.org/'
             style: primary
             has_icon: true
