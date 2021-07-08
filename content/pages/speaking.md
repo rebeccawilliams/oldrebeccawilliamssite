@@ -16,7 +16,7 @@ sections:
         actions:
           - label: >-
               How can data about our cities challenge existing (societal) power
-              structures? July 6, 2021 @ 12:05 PM ET
+              structures?
             url: 'https://summit.sharedusemobilitycenter.org/'
             style: primary
             has_icon: true
