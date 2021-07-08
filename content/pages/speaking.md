@@ -12,7 +12,7 @@ sections:
         title_align: left
         content_align: left
         actions:
-          - label: Data power structures?
+          - label: Data & societal power structures?
             url: 'https://summit.sharedusemobilitycenter.org/'
             style: primary
             has_icon: true
