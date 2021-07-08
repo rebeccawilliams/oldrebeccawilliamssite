@@ -12,7 +12,7 @@ sections:
         title_align: left
         content_align: left
         actions:
-          - label: How can data challenge power structures?
+          - label: Data power structures?
             url: 'https://summit.sharedusemobilitycenter.org/'
             style: primary
             has_icon: true
