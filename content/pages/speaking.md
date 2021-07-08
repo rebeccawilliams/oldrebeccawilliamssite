@@ -10,8 +10,6 @@ sections:
     grid_items:
       - title: National Shared Mobility Summit
         title_align: left
-        content: |
-          ######
         content_align: left
         actions:
           - label: How can data challenge power structures?
