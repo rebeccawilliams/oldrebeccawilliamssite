@@ -38,7 +38,7 @@ seo:
       relativeUrl: true
 layout: post
 thumb_image: images/AmnestyTech.png
-image: images/AmnestyTech.png
+image: images/WhoseStreetsCover.jpg
 ---
 In the spirit of Watching the Watchers, I thought I would share some tips for examining what "smart city" tech is deployed in your city from my
 research experience. Below I describe what "smart city" tech to look out for (offline and on), how to find it, and how to request related public
