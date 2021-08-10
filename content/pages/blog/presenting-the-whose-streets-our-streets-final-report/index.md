@@ -11,7 +11,7 @@ tags: []
 excerpt: A Guide to Tracking Surveillance Tech in Your City On and Offline
 thumb_image_alt: 'Whose Streets? Our Streets! (Tech Edition) report cover '
 image_alt: 'Whose Streets? Our Streets! (Tech Edition) report cover '
-image_position: left
+image_position: top
 seo:
   title: Your Guide to Watching the Watchers
   description: A Guide to Tracking Surveillance Tech in Your City On and Offline
