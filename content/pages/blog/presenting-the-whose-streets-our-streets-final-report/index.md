@@ -3,7 +3,7 @@ title: Presenting the Whose Streets? Our Streets! (Tech Edition) Final Report
 subtitle: >-
   The culmination of 2020-21 research on harms to civil liberties posed by
   "smart city" technology.
-date: '2021-08-06'
+date: '2021-08-09'
 categories:
   - content/data/categories/category-apoc3kfww.json
   - content/data/categories/category-64t9y3n0h.json
