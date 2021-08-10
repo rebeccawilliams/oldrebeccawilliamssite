@@ -1,6 +1,8 @@
 ---
 title: Presenting the Whose Streets? Our Streets! (Tech Edition) Final Report
-subtitle: A Guide to Tracking Surveillance Tech in Your City On and Offline
+subtitle: >-
+  The culmination of 2020-21 research on harms to civil liberties posed by
+  "smart city" technology.
 date: '2021-05-25'
 categories:
   - content/data/categories/category-apoc3kfww.json
