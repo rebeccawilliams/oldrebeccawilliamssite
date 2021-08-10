@@ -37,7 +37,7 @@ seo:
       value: /images/Coverage.png
       relativeUrl: true
 layout: post
-thumb_image: images/AmnestyTech.png
+thumb_image: images/WhoseStreetsCover.jpg
 image: images/WhoseStreetsCover.jpg
 ---
 In the spirit of Watching the Watchers, I thought I would share some tips for examining what "smart city" tech is deployed in your city from my
