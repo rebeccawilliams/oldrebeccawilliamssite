@@ -63,4 +63,4 @@ researched harms to civil liberties posed by “smart city” technology. This r
 
 ## ![](images/TOC.jpg)
 
-[**Read the Report**](https://www.belfercenter.org/sites/default/files/2021-08/WhoseStreets.pdf).
+[**Read the Report**](https://www.belfercenter.org/sites/default/files/2021-08/WhoseStreets.pdf)
