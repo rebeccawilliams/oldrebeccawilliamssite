@@ -13,7 +13,7 @@ thumb_image_alt: 'Whose Streets? Our Streets! (Tech Edition) report cover '
 image_alt: 'Whose Streets? Our Streets! (Tech Edition) report cover '
 image_position: left
 seo:
-  title: Your Guide to Watching the Watchers
+  title: Presenting the Whose Streets? Our Streets! (Tech Edition) Final Report
   description: A Guide to Tracking Surveillance Tech in Your City On and Offline
   extra:
     - name: 'og:type'
