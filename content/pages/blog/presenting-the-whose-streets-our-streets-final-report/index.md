@@ -7,7 +7,7 @@ categories:
   - content/data/categories/category-64t9y3n0h.json
 tags: []
 excerpt: A Guide to Tracking Surveillance Tech in Your City On and Offline
-thumb_image_alt: 'Whose Streets? Our Streets! (Tech Edition)  '
+thumb_image_alt: 'Whose Streets? Our Streets! (Tech Edition) report cover '
 image_alt: 'Image Credit: Amnesty International Decoders '
 image_position: right
 seo:
