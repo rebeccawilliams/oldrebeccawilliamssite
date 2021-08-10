@@ -1,5 +1,5 @@
 ---
-title: Your Guide to Watching the Watchers
+title: Presenting the Whose Streets? Our Streets! (Tech Edition) Final Report
 subtitle: A Guide to Tracking Surveillance Tech in Your City On and Offline
 date: '2021-05-25'
 categories:
