@@ -43,7 +43,7 @@ seo:
       value: /images/Coverage.png
       relativeUrl: true
 layout: post
-thumb_image: images/WhoseStreetsCoverSmall.jpg
+thumb_image: images/WhoseStreetsCoverCropped.jpg
 image: images/WhoseStreetsCover.jpg
 ---
 For Harvard Kennedy School’s Belfer Center for Science and International Affairs’ Technology and Public Purpose (TAPP) Project, I
