@@ -8,7 +8,9 @@ categories:
   - content/data/categories/category-apoc3kfww.json
   - content/data/categories/category-64t9y3n0h.json
 tags: []
-excerpt: A Guide to Tracking Surveillance Tech in Your City On and Offline
+excerpt: >-
+  The culmination of 2020-21 research on harms to civil liberties posed by
+  "smart city" technology.
 thumb_image_alt: 'Whose Streets? Our Streets! (Tech Edition) report cover '
 image_alt: 'Whose Streets? Our Streets! (Tech Edition) report cover '
 image_position: left
