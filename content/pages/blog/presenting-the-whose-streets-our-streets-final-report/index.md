@@ -57,6 +57,6 @@ researched harms to civil liberties posed by “smart city” technology. This r
 
 *   10 calls to action that summarize related 2020-21 regulatory approaches to build on and communities to get involved with. These calls to action ask that we *Stop Harmful “Smart City” Technology, Data, and Uses; Build Our Collective Capacity to Evaluate How Technology Impacts Democracy*; and *Fortify Old and Build New Democratic Spaces*.
 
+![](https://cdn.substack.com/image/fetch/w\_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F49a38eb7-a1bc-4e72-ae7a-625e3aaa2432\_2446x1583.jpeg)
 
-
-[**Read the Report**](https://www.belfercenter.org/sites/default/files/2021-08/WhoseStreets.pdf)
+[**Read the Report.**](https://www.belfercenter.org/sites/default/files/2021-08/WhoseStreets.pdf)
