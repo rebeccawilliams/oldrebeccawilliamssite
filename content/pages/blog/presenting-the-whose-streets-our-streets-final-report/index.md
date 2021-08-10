@@ -14,7 +14,9 @@ image_alt: 'Whose Streets? Our Streets! (Tech Edition) report cover '
 image_position: left
 seo:
   title: Presenting the Whose Streets? Our Streets! (Tech Edition) Final Report
-  description: A Guide to Tracking Surveillance Tech in Your City On and Offline
+  description: >-
+    The culmination of 2020-21 research on harms to civil liberties posed by
+    "smart city" technology.
   extra:
     - name: 'og:type'
       value: article
