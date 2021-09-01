@@ -263,4 +263,4 @@ For more on Venture Capital and Public Purpose, follow [Liz’s research.](ht
 
 Special thanks to [Kevin Webb](https://kevinwebb.io/about/) for his input on this blog post.  
 
-[*Originally posted on The Perspectives on Public Purpose Blog hosted by Harvard  Kennedy School Belfer Center’s Technology and Public Purpose Project (TAPP)*](https://www.belfercenter.org/index.php/publication/what-should-you-consider-when-investing-smart-city-technology).
+[*Originally posted on The Perspectives on Public Purpose Blog hosted by Harvard Kennedy School Belfer Center’s Technology and Public Purpose (TAPP)Project*](https://www.belfercenter.org/index.php/publication/what-should-you-consider-when-investing-smart-city-technology).
