@@ -184,4 +184,4 @@ Check out: [ACLU](https://www.aclu.org/news/privacy-technology/robot-police-dog
 
 Together we can turn the camera lens in the other direction.  
 
-[*Originally posted on The Perspectives on Public Purpose Blog hosted by Harvard Kennedy School Belfer Center’s Technology and Public Purpose (TAPP)Project.*](https://www.belfercenter.org/publication/your-guide-watching-watchers)
+[*Originally posted on The Perspectives on Public Purpose Blog hosted by Harvard Kennedy School Belfer Center’s Technology and Public Purpose (TAPP) Project.*](https://www.belfercenter.org/publication/your-guide-watching-watchers)
