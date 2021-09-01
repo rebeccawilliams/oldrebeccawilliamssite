@@ -77,4 +77,4 @@ If you have examples of any of the above or suggestions for where I should dig f
 
 [*Originally posted on The Perspectives on Public Purpose Blog hosted by Harvard Kennedy School Belfer Center’s Technology and Public Purpose Project (TAPP)*](https://www.belfercenter.org/publication/introducing-whose-streets-our-streets-developing-interventions-protect-civil-liberties)
 
-*Image Credit: Cyber city by Twitter user *[*@MIRAI_MIZUE*](https://twitter.com/MIRAI_MIZUE)
+*Image Credit: Cyber city by Twitter user [*@MIRAI_MIZUE*](https://twitter.com/MIRAI_MIZUE)*
