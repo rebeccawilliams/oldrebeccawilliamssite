@@ -177,6 +177,13 @@ sections:
     type: grid_section
   - title: Other Appearances
     content: >
+      *   8/2021 - [Chi Hack Night](https://www.youtube.com/watch?v=aL0HDlaoBFA)
+
+
+      *   7/2021 - [National Shared Mobility
+      Summit](https://www.youtube.com/watch?v=uDduKkE_hgE\&list=PL33a12nhRxsRgYEL564DppsQqXRVdDHv6)
+
+
       *   5/2020 - [csv,conf,v5](https://csvconf.com/speakers/)
 
 
