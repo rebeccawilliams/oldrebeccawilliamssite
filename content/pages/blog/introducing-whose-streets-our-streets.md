@@ -60,6 +60,6 @@ These conversations and examples have helped me refine the goals of this researc
 
 If you have examples of any of the above or suggestions for where I should dig further, please do not hesitate to be in touch: <rebeccawilliams@hks.harvard.edu>
 
-[*Originally posted on The Perspectives on Public Purpose Blog hosted by Harvard Kennedy School Belfer Center’s Technology and Public Purpose (TAPP)Project.*](https://www.belfercenter.org/publication/introducing-whose-streets-our-streets-developing-interventions-protect-civil-liberties)
+[*Originally posted on The Perspectives on Public Purpose Blog hosted by Harvard Kennedy School Belfer Center’s Technology and Public Purpose (TAPP) Project.*](https://www.belfercenter.org/publication/introducing-whose-streets-our-streets-developing-interventions-protect-civil-liberties)
 
 *Image Credit: Cyber city by Twitter user [@MIRAI_MIZUE](https://twitter.com/MIRAI_MIZUE)*
