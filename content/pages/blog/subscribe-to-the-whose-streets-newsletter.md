@@ -68,4 +68,4 @@ governments, and vendors. This newsletter may also be of interest to anyone stud
 
 Check out [current issues](http://whosestreets.substack.com), [subscribe](https://whosestreets.substack.com/), [spread the word](https://whosestreets.substack.com/?utm_source=substack\&utm_medium=email\&utm_content=share\&action=share), and send us tips and special issue ideas: [rebeccawilliams.hks.harvard.edu](mailto:rebeccawilliams@hks.harvard.edu).
 
-[*Originally posted on The Perspectives on Public Purpose Blog hosted by Harvard Kennedy School Belfer Center’s Technology and Public Purpose (TAPP)Project*](https://www.belfercenter.org/index.php/publication/subscribe-whose-streets-newsletter)
+[*Originally posted on The Perspectives on Public Purpose Blog hosted by Harvard Kennedy School Belfer Center’s Technology and Public Purpose (TAPP)Project.*](https://www.belfercenter.org/index.php/publication/subscribe-whose-streets-newsletter)
