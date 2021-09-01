@@ -63,7 +63,6 @@ researched harms to civil liberties posed by “smart city” technology. This r
 
 [*Originally posted on The Perspectives on Public Purpose Blog hosted by Harvard Kennedy School Belfer Center’s Technology and Public Purpose Project (TAPP)*](https://www.belfercenter.org/publication/whose-streets-our-streets-tech-edition)
 
-
 **[Read the report online.](https://www.belfercenter.org/publication/whose-streets-our-streets-tech-edition)**
 
 **[Download the PDF.](https://www.belfercenter.org/sites/default/files/2021-08/WhoseStreets.pdf)**
