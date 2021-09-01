@@ -8,28 +8,6 @@ sections:
     subtitle: Featured
     actions: []
     grid_items:
-      - title: National Shared Mobility Summit
-        title_align: left
-        content_align: left
-        actions:
-          - label: Data x Power Structures (2021)
-            url: 'https://summit.sharedusemobilitycenter.org/'
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
-        actions_align: left
-        actions_width: auto
-        image_alt: National Shared Mobility Summit 2021
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
-        image: images/E2Z4NnJXoAsihd5.jpeg
       - title_align: left
         content_align: left
         actions:
