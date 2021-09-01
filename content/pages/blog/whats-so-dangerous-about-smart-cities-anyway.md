@@ -135,6 +135,6 @@ of harms and collecting examples of current “smart city” tech use and policy
 
 Please send feedback to <rebeccawilliams@hks.harvard.edu> by January 31, 2021.
 
-[*Originally posted on The Perspectives on Public Purpose Blog hosted by Harvard Kennedy School Belfer Center’s Technology and Public Purpose (TAPP)Project*](https://www.belfercenter.org/publication/whats-so-dangerous-about-smart-cities-anyway)
+[*Originally posted on The Perspectives on Public Purpose Blog hosted by Harvard Kennedy School Belfer Center’s Technology and Public Purpose (TAPP)Project.*](https://www.belfercenter.org/publication/whats-so-dangerous-about-smart-cities-anyway)
 
 *Image Credit: Screenshots from Nuclear Energy videos (2015) by Kurzgesagt via* [*letstalkscience.ca*](https://letstalkscience.ca)
