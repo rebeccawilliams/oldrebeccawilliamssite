@@ -33,7 +33,7 @@ sections:
         subtitle: 2013-2020 (Co-organizer)
         image: images/Screen Shot 2021-05-12 at 9.18.55 PM.png
         actions:
-          - label: Read More
+          - label: Join
             url: 'https://dc.legalhackers.org/'
             style: primary
             has_icon: true
