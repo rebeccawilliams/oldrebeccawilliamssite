@@ -151,7 +151,7 @@ seo:
     - name: 'twitter:description'
       value: By Rebecca Williams
     - name: 'twitter:image'
-      value: images/182807135_476900523429092_4675646858129349934_n.jpg
+      value: /images/IMG_1103%202.jpg
       relativeUrl: true
 layout: advanced
 ---
