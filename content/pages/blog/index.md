@@ -45,7 +45,7 @@ seo:
     - name: 'twitter:title'
       value: Blog | Rebecca Williams
     - name: 'twitter:description'
-      value: This is the blog page
+      value: This is a collection of Rebecca Williams' writing.
     - name: 'twitter:image'
       value: /images/caring-sage.gif
       relativeUrl: true
