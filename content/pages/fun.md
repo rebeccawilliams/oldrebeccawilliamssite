@@ -135,7 +135,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Fun
+      value: Fun | Rebecca Williams
       keyName: property
     - name: 'og:description'
       value: By Rebecca Williams
