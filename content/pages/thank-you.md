@@ -27,4 +27,8 @@ seo:
       value: Thank You | Rebecca Williams
       keyName: property
       relativeUrl: false
+    - name: 'og:description'
+      value: 'Thank you for reaching out to Rebecca Williams. '
+      keyName: property
+      relativeUrl: false
 ---
