@@ -48,7 +48,7 @@ sections:
             type: action
         actions_align: left
         actions_width: auto
-        image_alt: A screenshot of New Google homepage
+        image_alt: newgoogle homepage
         image_position: top
         image_width: fifty
         image_align: left
