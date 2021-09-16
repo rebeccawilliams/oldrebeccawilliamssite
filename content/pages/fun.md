@@ -141,7 +141,7 @@ seo:
       value: By Rebecca Williams
       keyName: property
     - name: 'og:image'
-      value: images/182807135_476900523429092_4675646858129349934_n.jpg
+      value: /images/IMG_1103%202.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
