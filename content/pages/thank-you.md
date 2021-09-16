@@ -35,4 +35,8 @@ seo:
       value: Thank You | Rebecca Williams
       keyName: name
       relativeUrl: false
+    - name: 'twitter:description'
+      value: Thank you for reaching out to Rebecca Williams.
+      keyName: name
+      relativeUrl: false
 ---
