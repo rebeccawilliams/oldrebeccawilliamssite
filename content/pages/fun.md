@@ -14,7 +14,6 @@ sections:
     actions: []
     grid_items:
       - title: What is Data?
-        subtitle: According To Various Statutes
         title_align: left
         content: >
           This project came out of the beautiful frustration of trying to train
