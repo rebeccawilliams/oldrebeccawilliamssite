@@ -38,8 +38,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/Screen Shot 2021-05-30 at 7.43.06 PM.png
-      - subtitle: Anti-Google?
-        title_align: left
+      - title_align: left
         content: >
           Years later this title seems less satisfying, but at the time I was
           imagining a Google for government activity. New Google searches across
