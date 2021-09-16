@@ -149,7 +149,7 @@ seo:
     - name: 'twitter:title'
       value: Fun
     - name: 'twitter:description'
-      value: This is the community groups page
+      value: By Rebecca Williams
     - name: 'twitter:image'
       value: images/182807135_476900523429092_4675646858129349934_n.jpg
       relativeUrl: true
