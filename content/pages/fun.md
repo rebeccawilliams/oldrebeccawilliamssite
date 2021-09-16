@@ -141,7 +141,7 @@ seo:
       value: What is the point if we can't have fun?
       keyName: property
     - name: 'og:image'
-      value: /images/IMG_1103%202.jpg
+      value: images/182920539_275946007524386_6325088862398751420_n.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
