@@ -138,7 +138,7 @@ seo:
       value: Fun
       keyName: property
     - name: 'og:description'
-      value: Rebecca Williams
+      value: By Rebecca Williams
       keyName: property
     - name: 'og:image'
       value: images/182807135_476900523429092_4675646858129349934_n.jpg
