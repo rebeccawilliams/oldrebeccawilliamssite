@@ -13,8 +13,7 @@ sections:
   - title: Websites
     actions: []
     grid_items:
-      - title: What is Data?
-        title_align: left
+      - title_align: left
         content: >
           This project came out of the beautiful frustration of trying to train
           folks on implementing some poorly defined data policy laws that will
