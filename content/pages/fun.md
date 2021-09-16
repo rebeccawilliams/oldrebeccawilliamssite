@@ -89,8 +89,7 @@ sections:
       - title_align: left
         content_align: left
         actions:
-          - label: lorem-ipsum
-            url: '<a href=https://www.instagram.com/paintingrebecca'
+          - url: '<a href=https://www.instagram.com/paintingrebecca'
             style: link
             has_icon: true
             icon: instagram
