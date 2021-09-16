@@ -18,5 +18,9 @@ seo:
   title: ''
   description: ''
   robots: []
-  extra: []
+  extra:
+    - name: 'og:image'
+      value: images/Rebecca head.jpg
+      keyName: property
+      relativeUrl: true
 ---
