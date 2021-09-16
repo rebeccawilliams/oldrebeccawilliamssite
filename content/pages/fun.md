@@ -149,7 +149,7 @@ seo:
     - name: 'twitter:title'
       value: Fun | Rebecca
     - name: 'twitter:description'
-      value: 'This is Rebecca WIlliams'' Fun page. '
+      value: 'This is Rebecca Williams'' fun page. '
     - name: 'twitter:image'
       value: /images/IMG_1103%202.jpg
       relativeUrl: true
