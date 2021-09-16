@@ -77,11 +77,6 @@ seo:
     - name: 'og:title'
       value: Community | Rebecca Williams
       keyName: property
-    - name: 'og:description'
-      value: >-
-        This is a page of educational communities Rebecca Williams has
-        facilitated.
-      keyName: property
     - name: 'og:image'
       value: /images/IMG_1103%202.jpg
       keyName: property
