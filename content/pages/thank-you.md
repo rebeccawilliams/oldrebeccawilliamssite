@@ -23,4 +23,8 @@ seo:
       value: images/Rebecca head.jpg
       keyName: property
       relativeUrl: true
+    - name: 'og:title'
+      value: Thank You | Rebecca Williams
+      keyName: property
+      relativeUrl: false
 ---
