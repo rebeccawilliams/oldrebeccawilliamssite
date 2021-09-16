@@ -78,7 +78,7 @@ seo:
       value: Contact | Rebecca Williams
       keyName: property
     - name: 'og:description'
-      value: This is Rebecca Williams' contact page.
+      value: This is how to contact Rebecca Williams.
       keyName: property
     - name: 'twitter:card'
       value: summary
