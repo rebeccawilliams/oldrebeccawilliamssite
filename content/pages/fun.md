@@ -7,8 +7,9 @@ sections:
     padding_top: large
     padding_bottom: small
     background_color: primary
-    content: |
-      What is the point if we can't have fun?
+    content: >
+      [What is the point if we can't have
+      fun?](https://thebaffler.com/salvos/whats-the-point-if-we-cant-have-fun)
   - title: Websites
     actions: []
     grid_items:
