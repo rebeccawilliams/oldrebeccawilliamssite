@@ -86,9 +86,7 @@ seo:
     - name: 'twitter:title'
       value: Community | Rebecca Williams
     - name: 'twitter:description'
-      value: >-
-        This is a page of educational communities Rebecca Williams has
-        facilitated.
+      value: Educational communities Rebecca Williams has facilitated.
     - name: 'twitter:image'
       value: /images/IMG_1103%202.jpg
       relativeUrl: true
