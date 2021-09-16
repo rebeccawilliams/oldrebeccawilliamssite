@@ -35,12 +35,6 @@ sections:
         type: grid_item
         image: images/Screen Shot 2021-05-30 at 7.43.06 PM.png
       - title_align: left
-        content: >
-          Years later this title seems less satisfying, but at the time I was
-          imagining a Google for government activity. New Google searches across
-          government databases, a rogue Data.gov if you will. I made this from
-          open source code that was already out there before working at the real
-          Data.gov and before Google launched their Google Dataset Search.
         content_align: left
         actions:
           - label: Visit
