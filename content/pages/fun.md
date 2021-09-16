@@ -94,7 +94,7 @@ sections:
             icon_position: center
             new_window: true
             no_follow: false
-        actions_align: left
+        actions_align: center
         actions_width: auto
         image_alt: texts
         image_position: top
