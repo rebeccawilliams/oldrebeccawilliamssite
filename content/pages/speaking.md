@@ -354,8 +354,6 @@ seo:
       value: summary_large_image
     - name: 'twitter:title'
       value: 'Speaking | Rebecca Williams '
-    - name: 'twitter:description'
-      value: This is Rebecca Williams' Speaking page.
     - name: 'twitter:image'
       value: /images/IMG_1103%202.jpg
       relativeUrl: true
