@@ -9,7 +9,7 @@ sections:
     background_color: primary
     content: |
       What is the point if we can't have fun?
-  - title: What's The Point If We Can't Have Fun?
+  - title: Websites
     actions: []
     grid_items:
       - title: What is Data?
