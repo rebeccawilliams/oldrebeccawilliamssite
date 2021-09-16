@@ -147,7 +147,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Fun
+      value: Fun | Rebecca
     - name: 'twitter:description'
       value: By Rebecca Williams
     - name: 'twitter:image'
