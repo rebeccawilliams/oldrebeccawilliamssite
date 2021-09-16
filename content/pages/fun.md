@@ -104,8 +104,7 @@ sections:
         image_align: left
         image_has_padding: false
         image: images/182920539_275946007524386_6325088862398751420_n.jpg
-      - subtitle: lorem-ipsum
-        title_align: left
+      - title_align: left
         content: >-
           ## Lorem ipsum
 
