@@ -27,7 +27,7 @@ sections:
             label: Visit
         actions_align: left
         actions_width: auto
-        image_alt: lorem-ipsum
+        image_alt: whatisdata
         image_position: top
         image_width: fifty
         image_align: left
