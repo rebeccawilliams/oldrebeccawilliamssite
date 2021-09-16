@@ -147,7 +147,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Community Groups
+      value: Fun
     - name: 'twitter:description'
       value: This is the community groups page
     - name: 'twitter:image'
