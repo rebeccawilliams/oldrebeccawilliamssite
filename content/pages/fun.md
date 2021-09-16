@@ -138,7 +138,7 @@ seo:
       value: Fun | Rebecca Williams
       keyName: property
     - name: 'og:description'
-      value: 'This is Rebecca Williams'' fun page. '
+      value: What is the point if we can't have fun?
       keyName: property
     - name: 'og:image'
       value: /images/IMG_1103%202.jpg
