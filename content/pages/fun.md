@@ -16,8 +16,7 @@ sections:
       - title_align: left
         content_align: left
         actions:
-          - label: Visit
-            url: 'https://whatisdata.info/'
+          - url: 'https://whatisdata.info/'
             style: primary
             has_icon: true
             icon: arrow-right
