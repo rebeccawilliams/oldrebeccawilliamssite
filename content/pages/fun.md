@@ -127,6 +127,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
+        image: images/182920539_275946007524386_6325088862398751420_n.jpg
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
