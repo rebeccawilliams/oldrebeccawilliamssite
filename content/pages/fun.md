@@ -138,7 +138,7 @@ seo:
       value: Fun | Rebecca Williams
       keyName: property
     - name: 'og:description'
-      value: 'This is Rebecca Williams'' Fun Page. '
+      value: 'This is Rebecca Williams'' fun page. '
       keyName: property
     - name: 'og:image'
       value: /images/IMG_1103%202.jpg
