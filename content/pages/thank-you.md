@@ -32,7 +32,7 @@ seo:
       keyName: property
       relativeUrl: false
     - name: 'twitter:title'
-      value: Thank
+      value: Thank You | Rebecca Williams
       keyName: name
       relativeUrl: false
 ---
