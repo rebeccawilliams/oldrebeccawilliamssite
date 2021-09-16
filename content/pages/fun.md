@@ -92,7 +92,7 @@ sections:
           - label: lorem-ipsum
             url: '<a href=https://www.instagram.com/paintingrebecca'
             style: link
-            has_icon: false
+            has_icon: true
             icon: arrow-left
             icon_position: right
             new_window: false
