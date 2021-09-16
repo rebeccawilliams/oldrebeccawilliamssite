@@ -361,5 +361,9 @@ seo:
       value: Conferences and press appearances by Rebecca Williams.
       keyName: property
       relativeUrl: false
+    - name: 'twitter:description'
+      value: Conferences and press appearances by Rebecca Williams.
+      keyName: name
+      relativeUrl: false
 layout: advanced
 ---
