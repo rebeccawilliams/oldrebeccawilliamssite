@@ -92,5 +92,11 @@ seo:
     - name: 'twitter:image'
       value: /images/IMG_1103%202.jpg
       relativeUrl: true
+    - name: 'og:description'
+      value: >-
+        This is a page of educational communities Rebecca Williams has
+        facilitated.
+      keyName: property
+      relativeUrl: false
 layout: advanced
 ---
