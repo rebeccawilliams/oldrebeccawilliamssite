@@ -151,7 +151,7 @@ seo:
     - name: 'twitter:description'
       value: This is the community groups page
     - name: 'twitter:image'
-      value: images/about-3.jpg
+      value: images/182807135_476900523429092_4675646858129349934_n.jpg
       relativeUrl: true
 layout: advanced
 ---
