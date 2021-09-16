@@ -89,7 +89,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Community
+      value: Community | Rebecca Williams
     - name: 'twitter:description'
       value: >-
         This is a page of educational communities Rebecca Williams has
