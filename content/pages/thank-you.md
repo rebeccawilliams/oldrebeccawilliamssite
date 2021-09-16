@@ -39,4 +39,8 @@ seo:
       value: Thank you for reaching out to Rebecca Williams.
       keyName: name
       relativeUrl: false
+    - name: 'twitter:image'
+      value: images/Rebecca head.jpg
+      keyName: property
+      relativeUrl: true
 ---
