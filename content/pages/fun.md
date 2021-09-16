@@ -151,7 +151,7 @@ seo:
     - name: 'twitter:description'
       value: 'What is the point if we can''t have fun? '
     - name: 'twitter:image'
-      value: /images/IMG_1103%202.jpg
+      value: images/182920539_275946007524386_6325088862398751420_n.jpg
       relativeUrl: true
 layout: advanced
 ---
