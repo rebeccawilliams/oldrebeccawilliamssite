@@ -85,7 +85,15 @@ sections:
         image: images/182807135_476900523429092_4675646858129349934_n.jpg
       - title_align: left
         content_align: left
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
         actions_align: left
         actions_width: auto
         image_alt: texts
