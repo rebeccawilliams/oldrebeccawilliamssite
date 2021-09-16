@@ -88,14 +88,7 @@ sections:
     grid_items:
       - title_align: left
         content_align: left
-        actions:
-          - url: '<a href=https://www.instagram.com/paintingrebecca'
-            style: link
-            has_icon: true
-            icon: instagram
-            icon_position: center
-            new_window: true
-            no_follow: false
+        actions: []
         actions_align: left
         actions_width: auto
         image_alt: waves
