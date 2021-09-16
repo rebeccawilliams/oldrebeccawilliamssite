@@ -31,4 +31,8 @@ seo:
       value: 'Thank you for reaching out to Rebecca Williams. '
       keyName: property
       relativeUrl: false
+    - name: 'twitter:title'
+      value: Thank
+      keyName: name
+      relativeUrl: false
 ---
