@@ -43,7 +43,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Blog
+      value: Blog | Rebecca Williams
     - name: 'twitter:description'
       value: This is the blog page
     - name: 'twitter:image'
