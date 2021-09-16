@@ -82,7 +82,6 @@ sections:
     type: grid_section
     subtitle: 'You have found the fun page. '
   - title: Paintings
-    subtitle: lorem-ipsum
     actions: []
     grid_items: []
     grid_cols: three
