@@ -81,7 +81,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
     subtitle: 'You have found the fun page. '
-  - title: lorem-ipsum
+  - title: Paintings
     subtitle: lorem-ipsum
     actions: []
     grid_items: []
