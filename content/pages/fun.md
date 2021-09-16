@@ -7,6 +7,8 @@ sections:
     padding_top: large
     padding_bottom: small
     background_color: primary
+    content: |
+      What is the point if we can't have fun?
   - title: What's The Point If We Can't Have Fun?
     actions: []
     grid_items:
