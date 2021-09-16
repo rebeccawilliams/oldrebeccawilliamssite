@@ -357,5 +357,9 @@ seo:
     - name: 'twitter:image'
       value: /images/IMG_1103%202.jpg
       relativeUrl: true
+    - name: 'og:description'
+      value: Conferences and press appearances by Rebecca Williams.
+      keyName: property
+      relativeUrl: false
 layout: advanced
 ---
