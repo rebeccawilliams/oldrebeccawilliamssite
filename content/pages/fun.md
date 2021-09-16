@@ -7,7 +7,7 @@ sections:
     padding_top: large
     padding_bottom: small
     background_color: primary
-    subtitle: What is the P
+    subtitle: 'What '
   - title: What's The Point If We Can't Have Fun?
     actions: []
     grid_items:
