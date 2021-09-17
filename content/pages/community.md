@@ -10,7 +10,17 @@ sections:
   - type: grid_section
     grid_items:
       - title: Civic Tech Book Club
-        content: "A virtual book club with a critical lens on civics ∩\_ technology.\n\nCivic Tech Book Club was created in 2015 by Forest Gregg, Rebecca Ackerman, and Rebecca Williams (members of the “civic tech” community) who lived far apart from each other and wanted a space to discuss readings. Since the pandemic, the virtual group has taken on a new life and meets more frequently.\n"
+        content: >+
+          Civic Tech Book Club is a virtual book club that meets sporadically to
+          discuss readings related to civics and technology. The group was
+          created in 2015 by [Forest Gregg](https://github.com/fgregg), [Rebecca
+          Ackerman](https://github.com/rcackerman), and [Rebecca
+          Williams](https://github.com/rebeccawilliams) who lived far apart from
+          each other and wanted a space to discuss readings related to civic
+          technology studies. Since the pandemic, the virtual group has taken on
+          a new life and meets more frequently and often has authors join for
+          discussions. 
+
         image: images/knowledgeable-mahogany.png
         image_alt: Civic Tech Book Club screenshot
         subtitle: 2015-present (Organizer)
