@@ -70,7 +70,7 @@ seo:
       value: About | Rebecca Williams
       keyName: property
     - name: 'og:description'
-      value: This is Rebecca Williams' about page.
+      value: 'Rebecca Williams'' short bio. '
       keyName: property
     - name: 'og:image'
       value: /images/IMG_1103%202.jpg
