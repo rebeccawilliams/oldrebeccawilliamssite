@@ -23,7 +23,7 @@ sections:
 
         image: images/knowledgeable-mahogany.png
         image_alt: Civic Tech Book Club screenshot
-        subtitle: 2015-present (Organizer)
+        subtitle: 2015-present (rganizer)
         actions:
           - label: Join or Read Along
             url: 'https://civictechbook.club'
