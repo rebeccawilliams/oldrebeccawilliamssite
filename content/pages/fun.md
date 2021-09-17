@@ -88,23 +88,23 @@ sections:
         actions: []
         actions_align: left
         actions_width: auto
-        image_alt: iceberg2
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        image: images/182601199_3825969150849116_9068216903795039255_n.jpg
-      - title_align: left
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
         image_alt: texts
         image_position: top
         image_width: fifty
         image_align: left
         image_has_padding: false
         image: images/182920539_275946007524386_6325088862398751420_n-0c4cc599.jpg
+      - title_align: left
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: iceberg2
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        image: images/182601199_3825969150849116_9068216903795039255_n.jpg
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
