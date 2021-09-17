@@ -10,6 +10,7 @@ sections:
     content: >
       [What's the Point If We Can't Have
       Fun?](https://thebaffler.com/salvos/whats-the-point-if-we-cant-have-fun)
+    subtitle: What's the Point If We Can't Have Fun?
   - title: Websites
     actions: []
     grid_items:
