@@ -83,7 +83,7 @@ seo:
     - name: 'twitter:description'
       value: 'Rebecca Williams'' short bio. '
     - name: 'twitter:image'
-      value: images/about-1.jpg
+      value: /images/IMG_1103%202.jpg
       relativeUrl: true
 layout: advanced
 ---
