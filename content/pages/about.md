@@ -61,7 +61,7 @@ sections:
     background_color: secondary
 seo:
   title: About | Rebecca Williams
-  description: This is Rebecca Williams' about page.
+  description: Rebecca Williams' short bio.
   extra:
     - name: 'og:type'
       value: website
