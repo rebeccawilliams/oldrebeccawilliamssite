@@ -81,7 +81,7 @@ seo:
     - name: 'twitter:title'
       value: About
     - name: 'twitter:description'
-      value: This is the about us page
+      value: 'Rebecca Williams'' short bio. '
     - name: 'twitter:image'
       value: images/about-1.jpg
       relativeUrl: true
