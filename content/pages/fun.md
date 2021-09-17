@@ -77,7 +77,7 @@ sections:
         has_icon: true
         icon: instagram
         icon_position: center
-        new_window: false
+        new_window: true
         no_follow: false
     grid_items:
       - title_align: left
