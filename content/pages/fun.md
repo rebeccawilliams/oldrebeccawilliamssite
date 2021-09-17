@@ -129,7 +129,7 @@ sections:
     type: grid_section
 seo:
   title: Fun | Rebecca Williams
-  description: This is Rebecca's fun page.
+  description: What is the point if we can't have fun?
   extra:
     - name: 'og:type'
       value: website
