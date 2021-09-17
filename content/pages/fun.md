@@ -72,7 +72,7 @@ sections:
   - title: Paintings
     actions:
       - label: lorem-ipsum
-        url: '#'
+        url: 'https://www.instagram.com/paintingrebecca/'
         style: link
         has_icon: true
         icon: instagram
