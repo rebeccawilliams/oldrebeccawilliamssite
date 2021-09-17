@@ -149,7 +149,7 @@ seo:
     - name: 'twitter:title'
       value: Fun | Rebecca
     - name: 'twitter:description'
-      value: 'What is the point if we can''t have fun? '
+      value: What’s the Point If We Can’t Have Fun?
     - name: 'twitter:image'
       value: images/182920539_275946007524386_6325088862398751420_n.jpg
       relativeUrl: true
