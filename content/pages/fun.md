@@ -8,8 +8,8 @@ sections:
     padding_bottom: small
     background_color: primary
     content: >
-      [What is the point if we can't have
-      fun?](https://thebaffler.com/salvos/whats-the-point-if-we-cant-have-fun)
+      [What's the Point If We Can't Have
+      Fun?](https://thebaffler.com/salvos/whats-the-point-if-we-cant-have-fun)
   - title: Websites
     actions: []
     grid_items:
