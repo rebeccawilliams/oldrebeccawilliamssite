@@ -129,7 +129,7 @@ sections:
     type: grid_section
 seo:
   title: Fun | Rebecca Williams
-  description: What is the point if we can't have fun?
+  description: What’s the Point If We Can’t Have Fun?
   extra:
     - name: 'og:type'
       value: website
