@@ -79,7 +79,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: About
+      value: About | Rebecca Williams
     - name: 'twitter:description'
       value: 'Rebecca Williams'' short bio. '
     - name: 'twitter:image'
