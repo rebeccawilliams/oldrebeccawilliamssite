@@ -85,25 +85,6 @@ sections:
         image: images/182807135_476900523429092_4675646858129349934_n.jpg
       - title_align: left
         content_align: left
-        actions:
-          - label: lorem-ipsum
-            url: 'https://www.instagram.com/paintingrebecca/'
-            style: link
-            has_icon: true
-            icon: instagram
-            icon_position: center
-            new_window: true
-            no_follow: false
-        actions_align: center
-        actions_width: auto
-        image_alt: texts
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        image: images/182920539_275946007524386_6325088862398751420_n.jpg
-      - title_align: left
-        content_align: left
         actions: []
         actions_align: left
         actions_width: auto
