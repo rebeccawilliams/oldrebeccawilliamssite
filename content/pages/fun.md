@@ -138,7 +138,7 @@ seo:
       value: Fun | Rebecca Williams
       keyName: property
     - name: 'og:description'
-      value: What is the point if we can't have fun?
+      value: What’s the Point If We Can’t Have Fun?
       keyName: property
     - name: 'og:image'
       value: images/182920539_275946007524386_6325088862398751420_n.jpg
