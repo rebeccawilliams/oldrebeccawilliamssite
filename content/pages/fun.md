@@ -95,7 +95,6 @@ sections:
         image_has_padding: false
         image: images/182601199_3825969150849116_9068216903795039255_n.jpg
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
         title_align: left
         content_align: left
         actions: []
