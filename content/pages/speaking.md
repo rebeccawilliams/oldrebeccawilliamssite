@@ -159,6 +159,7 @@ sections:
         image_align: left
         image_has_padding: false
         image: images/1500x500.jpg
+        subtitle: November
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
