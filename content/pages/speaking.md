@@ -143,7 +143,7 @@ sections:
         title_align: left
         content_align: left
         actions:
-          - label: lorem-ipsum
+          - label: Register
             url: '#'
             style: link
             has_icon: false
