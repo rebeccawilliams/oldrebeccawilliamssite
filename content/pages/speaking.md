@@ -159,7 +159,7 @@ sections:
         image_align: left
         image_has_padding: false
         image: images/1500x500.jpg
-        subtitle: November
+        subtitle: 'November 8-10, 2021'
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
