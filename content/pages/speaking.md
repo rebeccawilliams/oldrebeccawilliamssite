@@ -8,6 +8,27 @@ sections:
     subtitle: Featured
     actions: []
     grid_items:
+      - title: Urban Tech SCNY Summit @ Cornell Tech
+        title_align: left
+        content_align: left
+        actions:
+          - label: Register
+            url: '#'
+            style: primary
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+            new_window: false
+            no_follow: false
+        actions_align: left
+        actions_width: auto
+        image_alt: ubran tech summit logo
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        image: images/1500x500.jpg
+        subtitle: 'November 8-10, 2021'
       - title_align: left
         content_align: left
         actions:
@@ -139,27 +160,6 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/General_SXSW.0.jpg
-      - title: Urban Tech SCNY Summit @ Cornell Tech
-        title_align: left
-        content_align: left
-        actions:
-          - label: Register
-            url: '#'
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-            new_window: false
-            no_follow: false
-        actions_align: left
-        actions_width: auto
-        image_alt: ubran tech summit logo
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        image: images/1500x500.jpg
-        subtitle: 'November 8-10, 2021'
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
