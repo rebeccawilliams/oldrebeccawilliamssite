@@ -13,7 +13,7 @@ sections:
         content_align: left
         actions:
           - label: Register
-            url: '#'
+            url: 'https://www.scnyurbantech.com/program'
             style: primary
             has_icon: true
             icon: arrow-right
