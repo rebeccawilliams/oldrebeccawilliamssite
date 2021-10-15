@@ -51,9 +51,7 @@ export default class CtaSection extends React.Component {
                 				<h1 className="cta__title">{_.get(section, 'title', null)}</h1>
                 				)}
                 				{_.get(section, 'content', null) && (
-                				<div className="cta__copy">
-                					{markdownify(_.get(section, 'content', null))}
-                				</div>
+                				this.newMethod(section)
                 				)}
                 			</div>
                 			)}
@@ -69,5 +67,11 @@ export default class CtaSection extends React.Component {
                 </section>
             </React.Fragment>
         );
+    }
+
+    newMethod(section) {
+        return <div className="cta__copy">
+            {markdownify(_.get(section, 'content', null))}
+        </div>;
     }
 }
