@@ -176,7 +176,9 @@ sections:
     type: grid_section
   - title: Other Appearances
     content: >
-      *
+
+
+      *   10/2021 - threesixtyCITY New Cities podcast
 
 
       *   8/2021 - [Chi Hack Night](https://www.youtube.com/watch?v=aL0HDlaoBFA)
