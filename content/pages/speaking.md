@@ -178,7 +178,7 @@ sections:
     content: >
 
 
-      *   10/2021 - threesixtyCITY New Cities podcast
+      *   10/2021 - [threesixtyCITY New Cities podcast](https://threesixtycity.zencast.website/episodes/32-whose-streeets-our-streets-with-rebecca-williams)
 
 
       *   8/2021 - [Chi Hack Night](https://www.youtube.com/watch?v=aL0HDlaoBFA)
