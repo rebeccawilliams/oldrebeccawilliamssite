@@ -12,7 +12,7 @@ sections:
         title_align: left
         content_align: left
         actions:
-          - label: Register
+          - label: New Scren Deal (2021)
             url: 'https://www.scnyurbantech.com/program'
             style: primary
             has_icon: true
@@ -178,7 +178,8 @@ sections:
     content: >
 
 
-      *   10/2021 - [threesixtyCITY New Cities podcast](https://threesixtycity.zencast.website/episodes/32-whose-streeets-our-streets-with-rebecca-williams)
+      *   10/2021 - [threesixtyCITY New Cities
+      podcast](https://threesixtycity.zencast.website/episodes/32-whose-streeets-our-streets-with-rebecca-williams)
 
 
       *   8/2021 - [Chi Hack Night](https://www.youtube.com/watch?v=aL0HDlaoBFA)
