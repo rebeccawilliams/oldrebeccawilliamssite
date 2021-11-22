@@ -15,10 +15,10 @@ sections:
         subtitle: A TBD newsletter critically examing civic tech.
         title_align: left
         content: >
-          This casual newsletter is inspired by the rich academic discipline of
+          This TBD newsletter is inspired by the rich academic discipline of
           science and technology studies which study *“how society, politics,
           and culture affect scientific research and technological innovation,
-          and how these, in turn, affect society, politics, and culture,” *but
+          and how these, in turn, affect society, politics, and culture,”* but
           is focused primarily on the technology used by civil society and
           governments for “civics.”
         content_align: left
