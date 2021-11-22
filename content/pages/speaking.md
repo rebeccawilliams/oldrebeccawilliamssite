@@ -154,10 +154,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
   - content: >
-      ### Additional 
-
-
-      # Appearances
+      ## Additional Appearances
 
 
       #### Upcoming:
