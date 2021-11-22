@@ -62,7 +62,7 @@ sections:
         actions:
           - label: Read the Archive
             url: 'https://whosestreets.substack.com/'
-            style: link
+            style: secondary
             has_icon: false
             icon: arrow-left
             icon_position: right
