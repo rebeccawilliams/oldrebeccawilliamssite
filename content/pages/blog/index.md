@@ -60,7 +60,7 @@ sections:
           us watch cities, the market, policy, and the watchers.
         content_align: left
         actions:
-          - label: lorem-ipsum
+          - label: Read Archive
             url: '#'
             style: link
             has_icon: false
