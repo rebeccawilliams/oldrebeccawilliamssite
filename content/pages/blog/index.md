@@ -52,7 +52,7 @@ sections:
         subtitle: A weekly newsletter on public surveillance news.
         title_align: left
         content: >
-          ###### (10/2020-5/2021)
+          ###### (11/2020-5/2021)
 
 
           As a companion to my TAPP research, with the help of Madeline Smith, I
