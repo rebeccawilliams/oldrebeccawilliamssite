@@ -176,6 +176,8 @@ sections:
     type: grid_section
   - title: Other Appearances
     content: >
+      *   11/2021 - [SCNY Urban Tech Summit at Cornell
+      Tech](https://www.scnyurbantech.com/program)
 
 
       *   10/2021 - [threesixtyCITY New Cities
