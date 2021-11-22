@@ -12,7 +12,7 @@ sections:
         title_align: left
         content_align: left
         actions:
-          - label: New Screen Deal (2021)
+          - label: The New Screen Deal (2021)
             url: 'https://www.scnyurbantech.com/program'
             style: primary
             has_icon: true
