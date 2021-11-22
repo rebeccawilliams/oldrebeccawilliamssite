@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Speaking
     background_color: primary
-  - title: Featured Appearances
+  - title: Appearances
     actions: []
     grid_items:
       - title_align: left
