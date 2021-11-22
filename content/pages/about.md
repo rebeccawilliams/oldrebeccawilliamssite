@@ -35,21 +35,11 @@ sections:
             no_follow: false
             type: action
       - content: >
-          She would like to see modern tools–with all their capabilities–used in
-          the service of justice and democracy and speaks about how that is too
-          often not the case in niche and broad ways on Twitter and elsewhere.
-          She is the daughter of a psychologist and tax attorney from a
-          struggling "most dangerous city" who understands all the bottom lines.
-
-
-          According to her father, she is a true millennial. Whether she is or
-          not, she can faithfully attest to what she sees as fundamental
-          generational pressures and trends. She sees the world in power
-          struggles, trajectories, and people talking past each other. She
-          believes in art, balance, cutting out what doesn't work, density,
-          diversity, and humor. She wants to ask you about the latest thing you
-          enjoyed and why over a coffee, tea, or a drink to better understand
-          you, herself, and the world.
+          Rebecca sees the world in power struggles, trajectories, and people
+          talking past each other. She believes in art, balance, cutting out
+          what doesn't work, density, diversity, and humor. She wants to ask you
+          about the latest thing you enjoyed over a beverage or on a walk to
+          better understand you, herself, and the world.
         actions: []
         image_alt: with hannah
         media_position: left
