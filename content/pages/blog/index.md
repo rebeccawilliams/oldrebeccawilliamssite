@@ -48,7 +48,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title: lorem-ipsum
+      - title: Whose Streets? Our Streets! (Tech Edition)
         subtitle: A weekly newsletter on public surveillance news.
         title_align: left
         content: >
