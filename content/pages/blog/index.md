@@ -49,7 +49,7 @@ sections:
         image_align: left
         image_has_padding: false
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
+        subtitle: A weekly newsletter on public surveillance news.
         title_align: left
         content: >
           ###### (10/2020-5/2021)
