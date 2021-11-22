@@ -37,7 +37,7 @@ sections:
           civics and technology with Civic Tech Book Club and DC Legal Hackers.
           She believes in art, balance, cutting out what doesn't work, density,
           diversity, and humor. She wants to ask you about the latest thing you
-          enjoyed to better understand you, the world, and herself.
+          enjoyed to better understand you, the world, and herself. 
         actions: []
         image_alt: with hannah
         media_position: left
