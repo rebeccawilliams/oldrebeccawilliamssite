@@ -21,7 +21,6 @@ sections:
     padding_bottom: large
     has_border: true
     background_color: secondary
-    subtitle: From across the web.
     title: Recent Publications
   - title: Newsletters
     actions: []
