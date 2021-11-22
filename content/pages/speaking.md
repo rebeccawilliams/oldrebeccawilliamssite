@@ -11,15 +11,7 @@ sections:
       - title: Urban Tech SCNY Summit @ Cornell Tech
         title_align: left
         content_align: left
-        actions:
-          - label: The New Screen Deal (2021)
-            url: 'https://www.scnyurbantech.com/program'
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-            new_window: false
-            no_follow: false
+        actions: []
         actions_align: left
         actions_width: auto
         image_alt: ubran tech summit logo
