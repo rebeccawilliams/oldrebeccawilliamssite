@@ -39,7 +39,7 @@ sections:
         actions:
           - label: Subscribe
             url: 'https://civictechstudies.substack.com/about'
-            style: link
+            style: primary
             has_icon: false
             icon: arrow-left
             icon_position: right
