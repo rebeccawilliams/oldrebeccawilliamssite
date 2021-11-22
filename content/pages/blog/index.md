@@ -26,7 +26,7 @@ sections:
     actions: []
     grid_items:
       - title: Civic Tech Studies
-        subtitle: A monthly newsletter crtically examinining civic tech.
+        subtitle: A TBD newsletter critically examing civic tech.
         title_align: left
         content: >-
           ## Lorem ipsum
