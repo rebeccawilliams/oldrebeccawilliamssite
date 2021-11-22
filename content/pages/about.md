@@ -47,6 +47,7 @@ sections:
         image: images/2019-02-24-hannah_2880.webp
         title: ' '
     background_color: secondary
+    title: Researcher & Writer
 seo:
   title: About | Rebecca Williams
   description: Rebecca Williams' short bio.
