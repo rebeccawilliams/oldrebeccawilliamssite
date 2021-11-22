@@ -12,10 +12,7 @@ sections:
           and technology policy. She has worked at all jurisdiction levels,
           inside and outside of government, as a civil servant, consultant, and
           advocate at Harvard, the Sunlight Foundation, the White House, and
-          more. Committed to her continuous learning and everyone's, she has
-          hosted online and offline groups in her spare time to discuss issues
-          betwixt civics and technology with Civic Tech Book Club and DC Legal
-          Hackers. She holds a B.A. in Communication from the University of
+          more. She holds a B.A. in Communication from the University of
           Massachusetts Amherst and a J.D. from Western New England University
           School of Law. She has won numerous legal tech awards, including
           American Bar Association's first 10 Women to Watch in Legal Tech.
