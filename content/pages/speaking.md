@@ -5,7 +5,6 @@ sections:
     title: Speaking
     background_color: primary
   - title: Featured Appearances
-    subtitle: Featured
     actions: []
     grid_items:
       - title_align: left
