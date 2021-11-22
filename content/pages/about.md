@@ -7,8 +7,7 @@ sections:
     background_color: primary
   - type: features_section
     features:
-      - subtitle: Civic Technology and Information Policy Analyst
-        content: >
+      - content: >
           **Rebecca Williams** is a researcher and writer with expertise in data
           and technology policy. She has worked at all jurisdiction levels,
           inside and outside of government, as a civil servant, consultant, and
