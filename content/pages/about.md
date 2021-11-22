@@ -33,12 +33,12 @@ sections:
       - content: >
           Rebecca sees the world in power struggles, trajectories, and people
           talking past each other. Committed to her continuous learning and
-          everyone's, she has hosted extracurcuilar online and offline groups to
-          discuss issues betwixt civics and technology with Civic Tech Book Club
-          and DC Legal Hackers. She believes in art, balance, cutting out what
-          doesn't work, density, diversity, and humor. She wants to ask you
-          about the latest thing you enjoyed over a beverage or on a walk to
-          better understand you, herself, and the world. 
+          everyone's, she has hosted community groups to discuss issues betwixt
+          civics and technology with Civic Tech Book Club and DC Legal Hackers.
+          She believes in art, balance, cutting out what doesn't work, density,
+          diversity, and humor. She wants to ask you about the latest thing you
+          enjoyed over a beverage or on a walk to better understand you, the
+          world, and herself.
         actions: []
         image_alt: with hannah
         media_position: left
