@@ -37,7 +37,7 @@ sections:
           governments for “civics.”
         content_align: left
         actions:
-          - label: lorem-ipsum
+          - label: Sub
             url: '#'
             style: link
             has_icon: false
