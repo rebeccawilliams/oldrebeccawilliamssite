@@ -261,7 +261,7 @@ sections:
     background_image_repeat: no-repeat
     type: cta_section
     title: Additional Appearances
-  - title: Press
+  - title: Featured Press
     subtitle: Featured
     actions: []
     grid_items:
