@@ -38,7 +38,7 @@ sections:
         content_align: left
         actions:
           - label: Subscribe
-            url: '#'
+            url: 'https://civictechstudies.substack.com/about'
             style: link
             has_icon: false
             icon: arrow-left
