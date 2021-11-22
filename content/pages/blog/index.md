@@ -25,7 +25,7 @@ sections:
   - title: Newsletters
     actions: []
     grid_items:
-      - title: lorem-ipsum
+      - title: Civic Tech Studies
         subtitle: lorem-ipsum
         title_align: left
         content: >-
