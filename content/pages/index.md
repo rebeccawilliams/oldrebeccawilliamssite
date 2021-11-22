@@ -70,7 +70,7 @@ sections:
     background_color: secondary
   - type: blog_feed_section
     title: Writing
-    subtitle: Read Recent
+    subtitle: Recent
     actions:
       - label: View All
         url: /blog
