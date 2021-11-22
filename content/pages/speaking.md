@@ -8,19 +8,6 @@ sections:
     subtitle: Featured
     actions: []
     grid_items:
-      - title: Urban Tech SCNY Summit @ Cornell Tech
-        title_align: left
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: ubran tech summit logo
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        image: images/1500x500.jpg
-        subtitle: 'November 8-10, 2021'
       - title_align: left
         content_align: left
         actions:
