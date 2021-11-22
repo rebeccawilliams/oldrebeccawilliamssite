@@ -155,7 +155,7 @@ sections:
     type: grid_section
   - title: Other Appearances
     content: >
-      ## Upcoming:
+      #### Upcoming:
 
 
       *   2/10/2022 from 9:30-15:30 ET @ the Center for Interdisciplinary
@@ -163,7 +163,7 @@ sections:
       and Public Trust*
 
 
-      ### Past:
+      #### Past:
 
 
       *   11/2021 - [SCNY Urban Tech Summit at Cornell
