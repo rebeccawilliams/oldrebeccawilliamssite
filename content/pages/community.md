@@ -64,7 +64,6 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: secondary
-    subtitle: Organized to learn about tech and society issues together.
     title: Organizing
   - title: Teaching & Trainings
     content: "*   November 2019 - Lecturer, [Law Jobs For Humans NYC](https://www.eventbrite.com/e/law-jobs-for-humans-nyc-a-career-fair-for-futurists-tickets-66681170175)\n\n*   Fall 2019 - Lecturer, Data, Digital + Social Impact Seminar, Georgetown University\n\n*   Spring 2018 - Lecturer, Open Government Data, George Washington Law School\n\n*   November 2017 - Lecturer, [Equal Justice Works: Leadership Development Training](https://web.archive.org/web/20180910100504/http://www.equaljusticeworks.org:80/post-grad/equal-justice-works-fellowships/leadership-development-training)\n\n*   Fall 2017 - Instructor, Performance Analytics - Tools & Techniques, Johns Hopkins University\n\n*   August 2017 - Organizer & Host, [Digital Security Training](https://digitalsecurity.splashthat.com/)\n\n*   Spring 2015\_- Lecturer, Digital Tools and Access to Justice, Georgetown Law School\n\n*   December 2013 - Lecturer, [Tech Lady Hackathon API Workshop](https://twitter.com/leahbannon/status/409378930764677120)\n\n*   Spring 2009 - Teaching Assistant, Dynamics of Human Habitations, UMASS\n"
