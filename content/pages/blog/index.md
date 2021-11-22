@@ -28,17 +28,13 @@ sections:
       - title: Civic Tech Studies
         subtitle: A TBD newsletter critically examing civic tech.
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          This casual newsletter is inspired by the rich academic discipline of
+          science and technology studies which study *“how society, politics,
+          and culture affect scientific research and technological innovation,
+          and how these, in turn, affect society, politics, and culture,” *but
+          is focused primarily on the technology used by civil society and
+          governments for “civics.”
         content_align: left
         actions: []
         actions_align: left
