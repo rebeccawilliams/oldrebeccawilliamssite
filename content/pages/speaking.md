@@ -154,7 +154,7 @@ sections:
     type: grid_section
     subtitle: Featured
   - content: >
-      ## Additional Appearances
+      ### Additional Appearances
 
 
       #### Upcoming:
