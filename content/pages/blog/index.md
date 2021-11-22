@@ -44,6 +44,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
+        image: images/Screen Shot 2021-11-22 at 12.56.21 PM.png
       - title: Whose Streets? Our Streets! (Tech Edition)
         subtitle: A weekly newsletter on public surveillance news.
         title_align: left
