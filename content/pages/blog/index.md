@@ -43,12 +43,9 @@ sections:
         subtitle: A weekly newsletter on public surveillance news.
         title_align: left
         content: >
-          ###### (11/2020-5/2021)
-
-
           As a companion to my TAPP research, with the help of Madeline Smith, I
           collected weekly global news related to public surveillance
-          technology. 
+          technology.
 
 
           Curious what street surveillance happened between 2020-2021? You can
