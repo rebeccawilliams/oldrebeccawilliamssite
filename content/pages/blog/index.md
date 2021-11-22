@@ -23,7 +23,7 @@ sections:
     background_color: secondary
     subtitle: From across the web.
     title: Recent Publications
-  - title: lorem-ipsum
+  - title: Newsletters
     subtitle: lorem-ipsum
     actions: []
     grid_items: []
