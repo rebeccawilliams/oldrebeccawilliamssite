@@ -52,12 +52,6 @@ sections:
         subtitle: lorem-ipsum
         title_align: left
         content: >
-          ## Whose Streets? Our Streets! (Tech Edition)
-
-
-          #### A weekly newsletter on public surveillance news.
-
-
           ###### (10/2020-5/2021)
 
 
