@@ -262,7 +262,6 @@ sections:
     type: cta_section
     title: Additional Appearances
   - title: Featured Press
-    subtitle: Featured
     actions: []
     grid_items:
       - title: >-
