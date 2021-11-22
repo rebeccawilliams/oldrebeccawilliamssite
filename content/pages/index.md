@@ -46,23 +46,6 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
-      - title: Whose Streets? Our Streets! (Tech Edition)
-        content: >
-          As a companion to my TAPP research, with the help of Madeline Smith, I
-          collect weekly news related to public surveillance technology. Watch
-          us watch cities, the market, policy, and the watchers.
-        actions:
-          - label: Read the Archive
-            url: 'https://whosestreets.substack.com/'
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        image: images/Screen Shot 2021-03-28 at 9.18.28 PM.png
-        image_alt: Feature 2 placeholder image
-        media_position: left
-        media_width: fifty
-        subtitle: A weekly newsletter on public surveillance news.
       - title: Civic Tech Book Club
         subtitle: "A virtual book club with a critical lens on civics ∩\_ technology."
         content: >
