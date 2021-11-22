@@ -353,6 +353,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
+    subtitle: Featured
 seo:
   title: Speaking | Rebecca Williams
   description: This is Rebecca Williams' Speaking page.
