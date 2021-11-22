@@ -30,7 +30,7 @@ sections:
             new_window: true
             no_follow: false
             type: action
-        title: Rese
+        title: Researcher & Writer
       - content: >
           Rebecca sees the world in power struggles, trajectories, and people
           talking past each other. Committed to her continuous learning and
