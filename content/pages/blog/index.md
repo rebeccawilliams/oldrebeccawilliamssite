@@ -51,17 +51,19 @@ sections:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >
+          ## Whose Streets? Our Streets! (Tech Edition)
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          #### A weekly newsletter on public surveillance news.
 
 
-          - Lorem ipsum
+          ###### (10/2020-5/2021)
 
-          - dolor sit amet
+
+          As a companion to my TAPP research, with the help of Madeline Smith, I
+          collect weekly news related to public surveillance technology. Watch
+          us watch cities, the market, policy, and the watchers.
         content_align: left
         actions: []
         actions_align: left
