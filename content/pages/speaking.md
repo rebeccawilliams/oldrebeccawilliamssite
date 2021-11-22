@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Speaking
     background_color: primary
-  - title: Appearances
+  - title: Featured Appearances
     subtitle: Featured
     actions: []
     grid_items:
