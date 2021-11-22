@@ -159,8 +159,8 @@ sections:
 
 
       *   2/10/2022 from 9:30-15:30 ET @ the Center for Interdisciplinary
-      Research on Montreal (CIRM)'s *AI in the City: Building Civic Engagement
-      and Public Trust*
+      Research on Montreal's *AI in the City: Building Civic Engagement and
+      Public Trust*
 
 
       #### Past:
