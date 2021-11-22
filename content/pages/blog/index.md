@@ -24,7 +24,6 @@ sections:
     subtitle: From across the web.
     title: Recent Publications
   - title: Newsletters
-    subtitle: lorem-ipsum
     actions: []
     grid_items: []
     grid_cols: three
