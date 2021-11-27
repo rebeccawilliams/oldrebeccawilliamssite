@@ -160,7 +160,7 @@ sections:
       #### Upcoming:
 
 
-      *   2/10/2022, 9:30-15:30 ET - Center for Interdisciplinary Research on
+      *   2/10/2022, 11:00-12:00 EST - Center for Interdisciplinary Research on
       Montreal's *AI in the City: Building Civic Engagement and Public Trust*
 
 
@@ -169,6 +169,10 @@ sections:
 
       *   11/2021 - [SCNY Urban Tech Summit at Cornell
       Tech](https://www.scnyurbantech.com/program)
+
+
+      *   10/2021 - [Silicon Flatirons](https://siliconflatirons.org) Tech Legal
+      Roundtable
 
 
       *   10/2021 - [threesixtyCITY New Cities
