@@ -14,8 +14,11 @@ sections:
           advocate at Harvard, the Sunlight Foundation, the White House, and
           more. She holds a B.A. in Communication from the University of
           Massachusetts Amherst and a J.D. from Western New England University
-          School of Law. She has won numerous legal tech awards, including
-          American Bar Association's first 10 Women to Watch in Legal Tech.
+          School of Law. Committed to continuous learning with others, in her
+          free time she has hosted community groups to discuss issues betwixt
+          civics and technology with Civic Tech Book Club and DC Legal Hackers.
+          She has won numerous legal tech awards, including American Bar
+          Association's first 10 Women to Watch in Legal Tech.
         image: images/superb-tulip.png
         image_alt: People in conversation in the office lounge area
         media_position: right
