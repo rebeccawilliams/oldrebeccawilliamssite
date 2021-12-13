@@ -35,13 +35,13 @@ sections:
             type: action
         title: Researcher & Writer
       - content: >
-          Rebecca sees the world in power struggles, trajectories, and people
-          talking past each other. Committed to her continuous learning and
-          everyone's, she has hosted community groups to discuss issues betwixt
-          civics and technology with Civic Tech Book Club and DC Legal Hackers.
-          She believes in art, balance, cutting out what doesn't work, density,
-          diversity, and humor. She wants to ask you about the latest thing you
-          enjoyed to better understand you, the world, and herself. 
+          Rebecca was raised by a psychologist and tax attorney in Springfield,
+          MA where she learned from an early age to study critically all of the
+          ways the world is not fair. Rebecca sees the world in power struggles,
+          trajectories, and people talking past each other.  She believes in
+          art, balance, diversity, and humor. She wants to ask you about the
+          latest thing you enjoyed to better understand you, the world, and
+          herself.
         actions: []
         image_alt: with hannah
         media_position: left
