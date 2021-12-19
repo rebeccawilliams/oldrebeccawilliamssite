@@ -90,7 +90,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        image: images/182807135_476900523429092_4675646858129349934_n.jpg
+        image: images/WavePainting.jpg
       - title_align: left
         content_align: left
         actions: []
