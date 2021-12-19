@@ -14,7 +14,7 @@ sections:
         url: /about
         style: secondary
     image: images/RebeccaCircleHeadshot.png
-    image_alt: Rebecca
+    image_alt: Rebecca headshot
     media_position: left
     media_width: fifty
     align: left
