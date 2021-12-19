@@ -19,8 +19,8 @@ sections:
           civics and technology with Civic Tech Book Club and DC Legal Hackers.
           She has won numerous legal tech awards, including American Bar
           Association's first 10 Women to Watch in Legal Tech.
-        image: images/superb-tulip.png
-        image_alt: People in conversation in the office lounge area
+        image: images/Rebecca_Professional_Headshot.png
+        image_alt: Rebecca Headshot
         media_position: right
         media_width: fifty
         actions:
@@ -43,7 +43,7 @@ sections:
           latest thing you enjoyed to better understand you, the world, and
           herself.
         actions: []
-        image_alt: with hannah
+        image_alt: Rebecca with a dog named Hannah
         media_position: left
         media_width: fifty
         align: left

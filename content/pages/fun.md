@@ -27,13 +27,13 @@ sections:
             label: Visit
         actions_align: left
         actions_width: auto
-        image_alt: whatisdata
+        image_alt: Screenshot of the What is Data? website
         image_position: top
         image_width: fifty
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/Screen Shot 2021-05-30 at 7.43.06 PM.png
+        image: images/WhatIsData_Screenshot.png
       - title_align: left
         content_align: left
         actions:
@@ -48,13 +48,13 @@ sections:
             type: action
         actions_align: left
         actions_width: auto
-        image_alt: newgoogle homepage
+        image_alt: Screenshot of the New Google website
         image_position: top
         image_width: fifty
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/Screen Shot 2021-05-30 at 7.42.48 PM.png
+        image: images/New_Google_Screenshot.png
     grid_cols: two
     grid_gap_vert: small
     grid_gap_horiz: small
@@ -85,34 +85,34 @@ sections:
         actions: []
         actions_align: left
         actions_width: auto
-        image_alt: waves
+        image_alt: Painting of waves
         image_position: top
         image_width: fifty
         image_align: left
         image_has_padding: false
-        image: images/182807135_476900523429092_4675646858129349934_n.jpg
+        image: images/WavePainting.jpg
       - title_align: left
         content_align: left
         actions: []
         actions_align: left
         actions_width: auto
-        image_alt: texts
+        image_alt: Painting of blue text messages
         image_position: top
         image_width: fifty
         image_align: left
         image_has_padding: false
-        image: images/182920539_275946007524386_6325088862398751420_n-0c4cc599.jpg
+        image: images/LeftOnReadPainting.jpg
       - title_align: left
         content_align: left
         actions: []
         actions_align: left
         actions_width: auto
-        image_alt: iceberg2
+        image_alt: Painting of an iceberg
         image_position: top
         image_width: fifty
         image_align: left
         image_has_padding: false
-        image: images/182601199_3825969150849116_9068216903795039255_n.jpg
+        image: images/IcebergPainting.jpg
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small

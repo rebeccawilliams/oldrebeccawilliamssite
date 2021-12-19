@@ -61,7 +61,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/harvardlogo.svg
+        image: images/Harvard_TAPP_Logo.png
         title: 'Harvard Kennedy School '
         subtitle: Technology and Public Purpose Series
       - title: National Institute for Computer-Assisted Reporting
