@@ -38,7 +38,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        image: images/Screen Shot 2021-11-22 at 12.56.21 PM.png
+        image: images/CivicTechStudies_Newsletter.png
       - title: Whose Streets? Our Streets! (Tech Edition)
         subtitle: >-
           A weekly newsletter that ran from 11/2020-5/2021 on public
