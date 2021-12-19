@@ -13,7 +13,7 @@ sections:
       - label: Read Full Bio
         url: /about
         style: secondary
-    image: images/rebecca.png
+    image: images/RebeccaCircleHeadshot.png
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
