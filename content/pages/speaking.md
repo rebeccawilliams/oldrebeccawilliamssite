@@ -61,7 +61,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/Screen Shot 2021-05-13 at 2.59.45 AM.png
+        image: images/harvardlogo.svg
         title: 'Harvard Kennedy School '
         subtitle: Technology and Public Purpose Series
       - title: National Institute for Computer-Assisted Reporting
