@@ -56,7 +56,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-        image_alt: 'DC Legal Hackers website '
+        image_alt: 'Screenshot of DC Legal Hackers website '
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
