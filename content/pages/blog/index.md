@@ -70,7 +70,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        image: images/Screen Shot 2021-03-28 at 9.18.28 PM-afb9ea2d.png
+        image: images/WhoseStreetsNewsletterArchive.png
     grid_cols: two
     grid_gap_vert: small
     grid_gap_horiz: small
