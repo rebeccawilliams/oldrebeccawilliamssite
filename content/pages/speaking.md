@@ -55,13 +55,13 @@ sections:
             type: action
         actions_align: left
         actions_width: auto
-        image_alt: lorem-ipsum
+        image_alt: Harvard Kennedy School logo
         image_position: top
         image_width: fifty
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/Screen Shot 2021-05-13 at 2.59.45 AM.png
+        image: images/harvardlogo.svg
         title: 'Harvard Kennedy School '
         subtitle: Technology and Public Purpose Series
       - title: National Institute for Computer-Assisted Reporting
@@ -100,13 +100,13 @@ sections:
             label: Open Data from w/in Gov (2016)
         actions_align: left
         actions_width: auto
-        image_alt: lorem-ipsum
+        image_alt: NICAR logo
         image_position: top
         image_width: fifty
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/ire_and_nicar_thumbnail.jpg
+        image: images/NICARlogo.jpg
       - title: South by Southwest
         title_align: left
         content_align: left
@@ -131,13 +131,13 @@ sections:
             type: action
         actions_align: left
         actions_width: auto
-        image_alt: lorem-ipsum
+        image_alt: SXSW logo
         image_position: top
         image_width: fifty
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/General_SXSW.0.jpg
+        image: images/SXSWlogo.jpg
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
@@ -296,7 +296,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/the-verge-vector-logo.png
+        image: images/TheVergeLogo.png
       - title: How Legal Hackers Are Changing The Legal Industry
         subtitle: Valentin Pivovarov
         title_align: left
@@ -320,7 +320,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/forbes logo.png
+        image: images/ForbesLogo.png
       - title: Hackers Aren't the Only Ones Defending Your Right to Federal Data
         subtitle: Megan Molteni
         title_align: left
