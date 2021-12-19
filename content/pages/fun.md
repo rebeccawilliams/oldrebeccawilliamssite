@@ -96,7 +96,7 @@ sections:
         actions: []
         actions_align: left
         actions_width: auto
-        image_alt: texts
+        image_alt: Painting of blue text messages
         image_position: top
         image_width: fifty
         image_align: left
