@@ -45,7 +45,7 @@ sections:
           that time, she also served on the board of [Legal Hackers
           ](legalhackers.org)which shepherds 130+ chapters around the world.
         subtitle: 2013-2020 (Co-organizer)
-        image: images/Screen Shot 2021-04-02 at 12.17.48 AM.png
+        image: images/Screen Shot 2021-04-02 at 12.19.16 AM.png
         actions:
           - label: Join
             url: 'https://dc.legalhackers.org/'
