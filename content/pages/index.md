@@ -42,7 +42,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/Screen Shot 2021-05-13 at 2.59.45 AM.png
+        image: images/Harvard_TAPP_Logo.png
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
