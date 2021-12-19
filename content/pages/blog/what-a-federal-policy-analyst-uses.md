@@ -47,7 +47,7 @@ seo:
       value: /images/superb-kangaroo.jpg
       relativeUrl: true
 layout: post
-thumb_image: images/superb-kangaroo.jpg
+thumb_image: images/UsesThisSmall.jpg
 image: images/usesthis.jpg
 ---
 ### Who are you, and what do you do?

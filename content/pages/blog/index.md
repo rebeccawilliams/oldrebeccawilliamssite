@@ -33,12 +33,12 @@ sections:
             no_follow: false
         actions_align: left
         actions_width: auto
-        image_alt: civictechstudiesimage
+        image_alt: Screenshot of Civic Tech Studies Newsletter
         image_position: top
         image_width: fifty
         image_align: left
         image_has_padding: false
-        image: images/Screen Shot 2021-11-22 at 12.56.21 PM.png
+        image: images/CivicTechStudies_Newsletter.png
       - title: Whose Streets? Our Streets! (Tech Edition)
         subtitle: >-
           A weekly newsletter that ran from 11/2020-5/2021 on public
@@ -65,12 +65,12 @@ sections:
             no_follow: false
         actions_align: left
         actions_width: auto
-        image_alt: lorem-ipsum
+        image_alt: Screenshot of Whose Streets newseltter
         image_position: top
         image_width: fifty
         image_align: left
         image_has_padding: false
-        image: images/Screen Shot 2021-03-28 at 9.18.28 PM-afb9ea2d.png
+        image: images/WhoseStreetsNewsletterArchive.png
     grid_cols: two
     grid_gap_vert: small
     grid_gap_horiz: small
