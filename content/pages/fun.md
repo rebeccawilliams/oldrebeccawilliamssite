@@ -48,7 +48,7 @@ sections:
             type: action
         actions_align: left
         actions_width: auto
-        image_alt: Screenshot of the What is Data? website
+        image_alt: Screenshot of the New Google website
         image_position: top
         image_width: fifty
         image_align: left
