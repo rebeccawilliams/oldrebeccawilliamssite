@@ -43,7 +43,7 @@ sections:
             icon: arrow-right
             icon_position: right
         image: images/Harvard_TAPP_Logo.png
-        image_alt: Feature 1 placeholder image
+        image_alt: Hava
         media_position: right
         media_width: fifty
       - title: Civic Tech Book Club
