@@ -14,7 +14,7 @@ sections:
         url: /about
         style: secondary
     image: images/RebeccaCircleHeadshot.png
-    image_alt: Hero section placeholder image
+    image_alt: Rebecca
     media_position: left
     media_width: fifty
     align: left
