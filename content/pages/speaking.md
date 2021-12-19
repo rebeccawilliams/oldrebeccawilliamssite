@@ -131,7 +131,7 @@ sections:
             type: action
         actions_align: left
         actions_width: auto
-        image_alt: lorem-ipsum
+        image_alt: SXSW logo
         image_position: top
         image_width: fifty
         image_align: left
