@@ -37,7 +37,7 @@ seo:
       value: /images/caring-sage.gif
       relativeUrl: true
 layout: post
-thumb_image: images/caring-sage.gif
+thumb_image: images/smallcybercity.gif
 image: images/cybercity.gif
 ---
 As part of Harvard Kennedy School’s Belfer Center for Science and International Affairs’ new [ Technology and Public Purpose](https://medium.com/r/?url=httpsundefined2Fundefined2Fproject%2Ftechnology-and-public-purpose) (TAPP) project, I am spending the 2020-21 academic year assessing risks to civil liberties posed by “smart city” technologies and developing recommended interventions. As part of this research, I will be regularly blogging updates on my thinking and overall project progress, as well as soliciting input. With this first post, I hope to introduce myself, describe the impetus for the project, and describe the evolving goals of the research.
