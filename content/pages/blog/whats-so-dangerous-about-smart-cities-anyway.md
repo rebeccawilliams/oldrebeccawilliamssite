@@ -41,7 +41,7 @@ seo:
       value: /images/pros_cons_nuclear_energy.png
       relativeUrl: true
 layout: post
-thumb_image: images/superb-paprika.png
+thumb_image: images/NuclearSmall.png
 image: images/pros_cons_nuclear_energy.png
 ---
 The Belfer Center, home of the Technology and Public Purpose (TAPP) project, was originally created to analyze dangers posed by nuclear
