@@ -112,7 +112,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        image: images/182601199_3825969150849116_9068216903795039255_n.jpg
+        image: images/IcebergPainting.jpg
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
