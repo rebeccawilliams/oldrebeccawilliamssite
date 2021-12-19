@@ -13,8 +13,8 @@ sections:
       - label: Read Full Bio
         url: /about
         style: secondary
-    image: images/rebecca.png
-    image_alt: Hero section placeholder image
+    image: images/RebeccaCircleHeadshot.png
+    image_alt: Rebecca headshot
     media_position: left
     media_width: fifty
     align: left
@@ -42,8 +42,8 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/Screen Shot 2021-05-13 at 2.59.45 AM.png
-        image_alt: Feature 1 placeholder image
+        image: images/Harvard_TAPP_Logo.png
+        image_alt: Havard TAPP logo
         media_position: right
         media_width: fifty
       - title: Civic Tech Book Club
