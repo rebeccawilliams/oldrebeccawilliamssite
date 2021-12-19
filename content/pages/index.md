@@ -100,7 +100,7 @@ seo:
       value: Rebecca Williams
       keyName: property
     - name: 'og:description'
-      value: 'The website of Rebecca Williams. Enjoy. '
+      value: Rebecca Williams' personal website.
       keyName: property
     - name: 'og:image'
       value: images/Rebecca head.jpg
