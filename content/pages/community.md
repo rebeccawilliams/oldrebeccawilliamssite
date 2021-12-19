@@ -25,7 +25,7 @@ sections:
           discussions.
         image: images/BookClubBooks.png
         image_alt: Civic Tech Book Club screenshot
-        subtitle: 2015-present (Co-organizer)
+        subtitle: 2015-Present (Co-organizer)
         actions:
           - label: Join or Read Along
             url: 'https://civictechbook.club'
