@@ -61,7 +61,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/Screen Shot 2021-03-28 at 5.38.05 PM.png
+        image: images/fabulous-crane.png
         image_alt: Feature 3 placeholder image
         media_position: left
         media_width: fifty
