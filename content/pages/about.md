@@ -43,7 +43,7 @@ sections:
           latest thing you enjoyed to better understand you, the world, and
           herself.
         actions: []
-        image_alt: with hannah
+        image_alt: Rebecca with a dog named Hannah
         media_position: left
         media_width: fifty
         align: left
