@@ -23,7 +23,7 @@ sections:
           technology studies. Since the pandemic, the virtual group has taken on
           a new life and meets more frequently and often has authors join for
           discussions.
-        image: images/fabulous-crane.png
+        image: images/BookClubBooks.png
         image_alt: Civic Tech Book Club screenshot
         subtitle: 2015-present (Co-organizer)
         actions:
