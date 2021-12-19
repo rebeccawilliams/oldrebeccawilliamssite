@@ -48,7 +48,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-        image: images/2019-02-24-hannah_2880.webp
+        image: images/2019-02-24-hannah_2880-736af12e.webp
         title: ' '
     background_color: secondary
 seo:
