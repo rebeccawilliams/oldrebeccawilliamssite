@@ -54,7 +54,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/Screen Shot 2021-05-30 at 7.42.48 PM.png
+        image: images/New_Google_Screenshot.png
     grid_cols: two
     grid_gap_vert: small
     grid_gap_horiz: small
