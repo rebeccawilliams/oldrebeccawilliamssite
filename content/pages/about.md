@@ -19,7 +19,7 @@ sections:
           civics and technology with Civic Tech Book Club and DC Legal Hackers.
           She has won numerous legal tech awards, including American Bar
           Association's first 10 Women to Watch in Legal Tech.
-        image: images/superb-tulip.png
+        image: images/Rebecca_Professional_Headshot.png
         image_alt: People in conversation in the office lounge area
         media_position: right
         media_width: fifty
