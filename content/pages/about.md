@@ -20,7 +20,7 @@ sections:
           She has won numerous legal tech awards, including American Bar
           Association's first 10 Women to Watch in Legal Tech.
         image: images/Rebecca_Professional_Headshot.png
-        image_alt: People in conversation in the office lounge area
+        image_alt: Rebecca Headshot
         media_position: right
         media_width: fifty
         actions:
