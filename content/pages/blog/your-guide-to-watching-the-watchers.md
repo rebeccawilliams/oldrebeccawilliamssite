@@ -36,7 +36,7 @@ seo:
       relativeUrl: true
 layout: post
 thumb_image: images/AmnestyTech.png
-image: images/AmnestyTech.png
+image: images/AmnestyTechCameras.png
 date: '2021-05-25'
 thumb_image_alt: 'Image Credit: Amnesty International Decoders '
 ---
