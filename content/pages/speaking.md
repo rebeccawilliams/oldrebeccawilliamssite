@@ -392,35 +392,34 @@ sections:
       by Shira Schoenberg for MassLive
 
       *   9/2014 - ["Sunlight's Williams to GSA, Shellshock to a computer near
-      you and data center savings" by FCW Staff for
-      FCW](https://fcw.com/security/2014/09/sunlights-williams-to-gsa-shellshock-to-a-computer-near-you-and-data-center-savings/254604/)
-
-
-      <!---->
-
+      you and data center
+      savings"](https://fcw.com/security/2014/09/sunlights-williams-to-gsa-shellshock-to-a-computer-near-you-and-data-center-savings/254604/)
+      by FCW Staff for FCW
 
       *   8/2014 - ["New York City Takes Giant Step to Unlock Its Published
-      Data" by Michael Grass for Route
-      Fifty](https://www.route-fifty.com/management/2014/08/nyc-city-record-de-blasio-data/91076/)
+      Data"](https://www.route-fifty.com/management/2014/08/nyc-city-record-de-blasio-data/91076/)
+      by Michael Grass for Route Fifty
 
-      *   7/2014 - ["Texas Gets High Marks for Executive Order Transparency" by
-      Gilad Edleman for Government
-      Technology](https://www.govtech.com/workforce/texas-gets-high-marks-for-executive-order-transparency.html)
+      *   7/2014 - ["Texas Gets High Marks for Executive Order
+      Transparency"](https://www.govtech.com/workforce/texas-gets-high-marks-for-executive-order-transparency.html)
+      by Gilad Edleman for Government Technology
 
       *   7/2014 - ["Searchable Video May Bolster Government Transparency in
-      California" by Brian Heaton for
-      techwire](https://www.techwire.net/news/searchable-video-may-bolster-government-transparency-california.html?\_amp=true)
+      California"](https://www.techwire.net/news/searchable-video-may-bolster-government-transparency-california.html?\_amp=true)
+      by Brian Heaton for techwire
 
       *   3/2014 - ["Understanding the Super-Boring But Super-Important New City
-      Data Ordinance" by Scott Lucas for San Francisco
-      Magazine](https://sanfran.com/understanding-the-super-boring-super-important-new-city-data-ordinance)
+      Data
+      Ordinance"](https://sanfran.com/understanding-the-super-boring-super-important-new-city-data-ordinance)
+      by Scott Lucas for San Francisco Magazine
 
       *   3/2014 - ["Ordinance requires Pittsburgh government to publish data
-      online" by Melissa Daniels for
-      TribLIVE](https://archive.triblive.com/news/ordinance-requires-pittsburgh-government-to-publish-data-online/)
+      online"](https://archive.triblive.com/news/ordinance-requires-pittsburgh-government-to-publish-data-online/)
+      by Melissa Daniels for TribLIVE
 
-      *   5/2013 - ["Vote for Mayor Sunshine!" by Nancy Scola for Next
-      City](https://nextcity.org/urbanist-news/vote-for-mayor-sunshine)
+      *   5/2013 - ["Vote for Mayor
+      Sunshine!"](https://nextcity.org/urbanist-news/vote-for-mayor-sunshine) by
+      Nancy Scola for Next City
     actions: []
     actions_position: bottom
     actions_width: fourty
