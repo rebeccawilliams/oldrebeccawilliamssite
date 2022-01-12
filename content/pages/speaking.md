@@ -368,7 +368,6 @@ sections:
         type: grid_item
         image: images/unnamed.png
       - title: 'Garcetti orders release of city data, but scope uncertain'
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
