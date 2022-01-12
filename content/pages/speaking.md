@@ -383,7 +383,7 @@ sections:
     type: grid_section
     subtitle: Featured
   - content: >
-      # Additional Press:
+      ### Additional Press:
 
 
       *   3/2019 - ["The state website that works: Voting rights activist Adam
