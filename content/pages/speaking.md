@@ -387,13 +387,17 @@ sections:
 
 
       *   3/2019 - ["The state website that works: Voting rights activist Adam
-      Friedman is the man behind Massachusetts election results database" by
-      Shira Schoenberg for
-      MassLive](https://www.masslive.com/politics/2014/03/the_state_website_that_works_adam_friedman_behind_massachusetts_election_results_website.html)
+      Friedman is the man behind Massachusetts election results
+      database"](https://www.masslive.com/politics/2014/03/the_state_website_that_works_adam_friedman_behind_massachusetts_election_results_website.html)
+      by Shira Schoenberg for MassLive
 
       *   9/2014 - ["Sunlight's Williams to GSA, Shellshock to a computer near
       you and data center savings" by FCW Staff for
       FCW](https://fcw.com/security/2014/09/sunlights-williams-to-gsa-shellshock-to-a-computer-near-you-and-data-center-savings/254604/)
+
+
+      <!---->
+
 
       *   8/2014 - ["New York City Takes Giant Step to Unlock Its Published
       Data" by Michael Grass for Route
@@ -401,7 +405,7 @@ sections:
 
       *   7/2014 - ["Texas Gets High Marks for Executive Order Transparency" by
       Gilad Edleman for Government
-      Technology](https://www.govtech.com/workforce/texas-gets-high-marks-for-executive-order-transparency.html) 
+      Technology](https://www.govtech.com/workforce/texas-gets-high-marks-for-executive-order-transparency.html)
 
       *   7/2014 - ["Searchable Video May Bolster Government Transparency in
       California" by Brian Heaton for
