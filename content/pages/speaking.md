@@ -271,6 +271,28 @@ sections:
   - title: Press
     actions: []
     grid_items:
+      - title: Is New Orleans Trading Internet Access for Corporate Surveillance?
+        subtitle: Nick Taber
+        title_align: left
+        content_align: left
+        actions:
+          - label: Read
+            url: >-
+              https://newrepublic.com/article/164876/new-orleans-free-wifi-surveillance
+            style: primary
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+            new_window: false
+            no_follow: false
+        actions_align: left
+        actions_width: auto
+        image_alt: The New Republic logo
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        image: images/thenewrepubliclogo.png
       - title: >-
           Unemployment Checks Are Being Held Up by a Coding Language Almost
           Nobody Knows
@@ -345,28 +367,6 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/unnamed.png
-      - title: Is New Orleans Trading Internet Access for Corporate Surveillance?
-        subtitle: Nick Taber
-        title_align: left
-        content_align: left
-        actions:
-          - label: Read
-            url: >-
-              https://newrepublic.com/article/164876/new-orleans-free-wifi-surveillance
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-            new_window: false
-            no_follow: false
-        actions_align: left
-        actions_width: auto
-        image_alt: The New Republic logo
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        image: images/thenewrepubliclogo.png
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
