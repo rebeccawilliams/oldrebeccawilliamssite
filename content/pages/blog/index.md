@@ -53,7 +53,6 @@ sections:
         image_align: left
         image_has_padding: false
       - title: Whose Streets? Our Streets! (Tech Edition)
-        subtitle: A newsletter that ran from 11/2020-5/2021 on public surveillance news.
         title_align: left
         content: >
           As a companion to my TAPP research, with the help of Madeline Smith, I
