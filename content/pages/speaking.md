@@ -379,6 +379,7 @@ sections:
         image_align: left
         image_has_padding: false
         subtitle: Michael Finnegan and Ben Welsh
+        image: images/LATimeslogo.jpg
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
