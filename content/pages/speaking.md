@@ -346,7 +346,7 @@ sections:
         type: grid_item
         image: images/unnamed.png
       - title: Is New Orleans Trading Internet Access for Corporate Surveillance?
-        subtitle: lorem-ipsum
+        subtitle: Nick Taber
         title_align: left
         content: >-
           Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
