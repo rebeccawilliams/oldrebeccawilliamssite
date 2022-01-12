@@ -39,10 +39,10 @@ sections:
       - title: DC Legal Hackers
         content: >
           [DC Legal Hackers](dc.legalhackers.org) is a meetup group of 1700+
-          technologists, lawyers, and policymakers that meet to discuss and hack
-          everything betwixt law and technology. Rebecca co-founded the group
-          and hosted 70+ panels, trainings, and hackathons over 7 years. During
-          that time, she also served on the board of [Legal
+          technologists, lawyers, and policymakers that meet to discuss (and
+          hack) everything betwixt law and technology. Rebecca co-founded the
+          group and hosted 70+ panels, trainings, and hackathons over 7 years.
+          During that time, she also served on the board of [Legal
           Hackers](legalhackers.org), which shepherds 130+ chapters around the
           world.
         subtitle: 2013-2020 (Co-organizer)
