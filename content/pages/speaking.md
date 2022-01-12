@@ -351,7 +351,8 @@ sections:
         content_align: left
         actions:
           - label: Read
-            url: '#'
+            url: >-
+              https://newrepublic.com/article/164876/new-orleans-free-wifi-surveillance?utm_medium=Social&utm_campaign=EB_TNR&utm_source=Twitter#Echobox=1640285653
             style: link
             has_icon: false
             icon: arrow-left
