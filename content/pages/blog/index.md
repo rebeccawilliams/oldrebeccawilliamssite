@@ -52,7 +52,6 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-        image: images/subtacklogo.jpg
       - title: Whose Streets? Our Streets! (Tech Edition)
         subtitle: >-
           A weekly newsletter that ran from 11/2020-5/2021 on public
