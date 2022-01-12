@@ -268,23 +268,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: cta_section
-  - content: |
-      Additional Press
-
-      *   1
-    actions: []
-    actions_position: bottom
-    actions_width: fourty
-    align: left
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: cta_section
   - title: Press
     actions: []
     grid_items:
@@ -399,6 +382,23 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
     subtitle: Featured
+  - content: |
+      Additional Press
+
+      *   1
+    actions: []
+    actions_position: bottom
+    actions_width: fourty
+    align: left
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: none
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: cta_section
 seo:
   title: Speaking | Rebecca Williams
   description: This is Rebecca Williams' Speaking page.
