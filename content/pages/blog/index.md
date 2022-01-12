@@ -26,7 +26,6 @@ sections:
     actions: []
     grid_items:
       - title: Civic Tech Studies
-        subtitle: A TBD newsletter critically examing civic tech.
         title_align: left
         content: >
           This TBD newsletter is inspired by the rich academic discipline of
