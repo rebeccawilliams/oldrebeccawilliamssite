@@ -56,11 +56,8 @@ sections:
         content: >
           As a companion to my TAPP research, with the help of Madeline Smith, I
           collected weekly global news related to public surveillance
-          technology.
-
-
-          Curious what street surveillance happened between 2020-2021? You can
-          search past issues
+          technology. Curious what street surveillance happened between
+          2020-2021? You can search past issues
           [here](https://www.google.com/search?as_q=smart+search\&as_epq=\&as_oq=\&as_eq=\&as_nlo=\&as_nhi=\&lr=\&cr=\&as_qdr=all\&as_sitesearch=whosestreets.substack.com\&as_occt=any\&safe=images\&as_filetype=\&tbs=).
         content_align: left
         actions:
