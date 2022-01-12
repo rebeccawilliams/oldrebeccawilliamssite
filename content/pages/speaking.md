@@ -375,7 +375,7 @@ sections:
             url: >-
               https://www.latimes.com/local/lanow/la-me-ln-garcetti-open-data20131218-story.html
             style: primary
-            has_icon: false
+            has_icon: true
             icon: arrow-left
             icon_position: right
             new_window: false
