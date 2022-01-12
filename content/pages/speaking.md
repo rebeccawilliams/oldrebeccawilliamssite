@@ -353,7 +353,7 @@ sections:
           - label: Read
             url: >-
               https://newrepublic.com/article/164876/new-orleans-free-wifi-surveillance
-            style: link
+            style: secondary
             has_icon: false
             icon: arrow-left
             icon_position: right
