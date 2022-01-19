@@ -3,7 +3,7 @@ title: Thank You
 sections:
   - type: hero_section
     title: Thank you for reaching out!
-    subtitle: I will get back in touch with you soon. Have a great day!
+    subtitle: 'I will get back in touch with you soon. Have a great day. :)'
     actions:
       - label: Back to homepage
         url: /
