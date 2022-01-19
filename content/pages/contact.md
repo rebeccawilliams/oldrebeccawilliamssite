@@ -12,7 +12,7 @@ sections:
       ### Stay in Touch
 
 
-      Email is the best way to reach Rebecca: rebecca@rebeccawilliams.us.
+      Email is the best way to reach Rebecca: rebecca@rebeccawilliams.info.
 
 
       Follow her on social (see Footer).
