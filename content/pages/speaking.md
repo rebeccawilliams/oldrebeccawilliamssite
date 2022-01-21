@@ -271,6 +271,28 @@ sections:
   - title: Press
     actions: []
     grid_items:
+      - title: Biden Taps the Power of the Postal Service for Free Covid Test Program
+        subtitle: Kriston Capps
+        title_align: left
+        content_align: left
+        actions:
+          - label: Read
+            url: >-
+              https://www.bloomberg.com/news/articles/2022-01-20/the-power-of-free-covid-tests-by-mail
+            style: primary
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+            new_window: false
+            no_follow: false
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        image: images/bloombergcitylablogo.png
       - title: Is New Orleans Trading Internet Access for Corporate Surveillance?
         subtitle: Nick Taber
         title_align: left
@@ -389,28 +411,6 @@ sections:
         image_has_padding: false
         subtitle: Michael Finnegan and Ben Welsh
         image: images/LATimeslogo.jpg
-      - title: Biden Taps the Power of the Postal Service for Free Covid Test Program
-        subtitle: Kriston Capps
-        title_align: left
-        content_align: left
-        actions:
-          - label: Read
-            url: >-
-              https://www.bloomberg.com/news/articles/2022-01-20/the-power-of-free-covid-tests-by-mail
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-            new_window: false
-            no_follow: false
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        image: images/bloombergcitylablogo.png
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
