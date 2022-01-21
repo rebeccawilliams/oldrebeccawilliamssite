@@ -390,7 +390,7 @@ sections:
         subtitle: Michael Finnegan and Ben Welsh
         image: images/LATimeslogo.jpg
       - title: Biden Taps the Power of the Postal Service for Free Covid Test Program
-        subtitle: lorem-ipsum
+        subtitle: Kriston Capps
         title_align: left
         content: >-
           Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
