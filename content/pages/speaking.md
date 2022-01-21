@@ -395,7 +395,8 @@ sections:
         content_align: left
         actions:
           - label: Read
-            url: '#'
+            url: >-
+              https://www.bloomberg.com/news/articles/2022-01-20/the-power-of-free-covid-tests-by-mail
             style: link
             has_icon: false
             icon: arrow-left
