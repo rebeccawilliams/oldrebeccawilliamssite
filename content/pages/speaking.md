@@ -193,6 +193,11 @@ sections:
       Meeting](https://memberaccess.aals.org/eweb/DynamicPage.aspx?WebKey=51F9EC45-5CD0-4957-BE72-C4B89FD07778\&RegPath=EventRegFees\&REg_evt_key=bcc3d06a-9b37-467d-8916-ca46aa97a78f\&Site=AALS)
 
 
+      *   10/2019 - [Beeck Center for Social Impact + Innovation's Balancing
+      Data Use with Data Privacy
+      Seminar](https://beeckcenter.georgetown.edu/event/data-digital-social-impact-seminar-series/)
+
+
       *   9/2019 - [2019 NOAA Environmental Data Management Workshop
       (Keynote)](https://noaaedm19.sched.com/)
 
