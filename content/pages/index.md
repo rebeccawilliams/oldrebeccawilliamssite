@@ -15,7 +15,7 @@ sections:
         style: secondary
     image: images/headshot.png
     image_alt: Rebecca headshot
-    media_position: right
+    media_position: top
     media_width: fifty
     align: left
     padding_top: large
