@@ -113,7 +113,7 @@ seo:
     - name: 'twitter:description'
       value: 'The website of Rebecca Williams. Enjoy. '
     - name: 'twitter:image'
-      value: images/Rebecca head.jpg
+      value: images/rebeccaheadshot-modified.png
       relativeUrl: true
 layout: advanced
 ---
