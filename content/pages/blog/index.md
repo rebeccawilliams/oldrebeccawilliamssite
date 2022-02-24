@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Writing
 sections:
   - type: hero_section
     title: Writing
