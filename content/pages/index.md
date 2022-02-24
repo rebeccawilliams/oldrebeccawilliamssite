@@ -103,7 +103,7 @@ seo:
       value: 'The website of Rebecca Williams. Enjoy. '
       keyName: property
     - name: 'og:image'
-      value: images/rebeccaheadshot-modified.png
+      value: images/rebeccaheadshot.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
