@@ -104,7 +104,7 @@ seo:
       value: This is a collection of Rebecca Williams' writing.
       keyName: property
     - name: 'og:image'
-      value: /images/caring-sage.gif
+      value: images/rebeccaheadshot-90783bdc.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
