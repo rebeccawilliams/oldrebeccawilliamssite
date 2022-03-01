@@ -98,7 +98,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Blog | Rebecca Williams
+      value: Writing | Rebecca Williams
       keyName: property
     - name: 'og:description'
       value: This is a collection of Rebecca Williams' writing.
