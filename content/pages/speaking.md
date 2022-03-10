@@ -37,7 +37,7 @@ sections:
             url: >-
               https://www.belfercenter.org/event/whose-streets-our-streets-tech-edition#!watch-here-
             style: primary
-            has_icon: true
+            has_icon: false
             icon: youtube
             icon_position: right
             new_window: false
