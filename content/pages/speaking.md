@@ -415,6 +415,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: cta_section
+    title: Additional Press
 seo:
   title: Speaking | Rebecca Williams
   description: This is Rebecca Williams' Speaking page.
