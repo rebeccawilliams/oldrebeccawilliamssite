@@ -1,5 +1,5 @@
 ---
-title: Fun
+title: Creating
 sections:
   - type: hero_section
     title: Fun
