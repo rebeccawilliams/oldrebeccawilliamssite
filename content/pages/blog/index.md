@@ -112,7 +112,7 @@ sections:
     subtitle: lorem-ipsum
     actions: []
     grid_items:
-      - title: lorem-ipsum
+      - title: Whose Streets? Our Steets! (Tech Edition)
         subtitle: lorem-ipsum
         title_align: left
         content: >-
