@@ -154,9 +154,6 @@ sections:
     type: grid_section
     subtitle: Featured
   - content: >
-      ### Additional Appearances
-
-
       *   2/2022 - Center for Interdisciplinary Research on Montreal's *AI in
       the City: Building Civic Engagement and Public Trust*
 
@@ -267,6 +264,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: cta_section
+    title: Additional Appearances
   - title: Press
     actions: []
     grid_items:
