@@ -10,7 +10,7 @@ sections:
       - title_align: left
         content_align: left
         actions:
-          - label: M
+          - label: More Information
             url: >-
               https://www.rightscon.org/program/?fwp_session_category=privacy-and-surveillance
             style: primary
