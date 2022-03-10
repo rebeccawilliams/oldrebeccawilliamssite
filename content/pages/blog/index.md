@@ -109,7 +109,6 @@ sections:
     background_color: secondary
     title: Recent Publications
   - title: Reports
-    subtitle: lorem-ipsum
     actions: []
     grid_items:
       - title: Whose Streets? Our Steets! (Tech Edition)
