@@ -143,7 +143,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Fun | Rebecca Williams
+      value: Creating | Rebecca Williams
       keyName: property
     - name: 'og:description'
       value: What’s the Point If We Can’t Have Fun?
