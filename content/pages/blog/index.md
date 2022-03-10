@@ -120,7 +120,7 @@ sections:
             icon_position: right
             new_window: false
             no_follow: false
-          - label: lorem-ipsum
+          - label: Download the PDF
             url: '#'
             style: link
             has_icon: false
