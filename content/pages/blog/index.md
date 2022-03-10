@@ -8,6 +8,92 @@ sections:
     padding_bottom: none
     background_color: primary
     subtitle: ' '
+  - title: Newsletters
+    actions: []
+    grid_items:
+      - title: Civic Tech Studies
+        title_align: center
+        content: >
+          Critical studies of "civic tech" based on the science and technology
+          studies academic discipline.
+        content_align: left
+        actions:
+          - label: Subscribe
+            url: 'https://civictechstudies.substack.com/about'
+            style: primary
+            has_icon: false
+            icon: arrow-right
+            icon_position: right
+            new_window: false
+            no_follow: false
+        actions_align: center
+        actions_width: auto
+        image_alt: Screenshot of Civic Tech Studies Newsletter
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        image: images/ctsicon.png
+      - title: Block x Block
+        title_align: center
+        content_align: left
+        actions:
+          - label: Subscribe
+            url: 'https://blockxblock.substack.com/about'
+            style: primary
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: true
+            no_follow: false
+        actions_align: center
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        content: >
+          A newsletter that documents the worst city (block) investments in
+          blockchain.
+        image: images/blockicon.png
+      - title: Whose Streets? Our Streets! (Tech Edition)
+        title_align: center
+        content: >
+          Co-authored w/ Madeline Smith. Global public surveillance technology
+          stories  from 2020-2021.
+        content_align: left
+        actions:
+          - label: Read the Archive
+            url: 'https://whosestreets.substack.com/'
+            style: secondary
+            has_icon: false
+            icon: arrow-right
+            icon_position: right
+            new_window: false
+            no_follow: false
+        actions_align: center
+        actions_width: auto
+        image_alt: Screenshot of Whose Streets newseltter
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        image: images/whoseicon.png
+    grid_cols: three
+    grid_gap_vert: small
+    grid_gap_horiz: small
+    enable_cards: false
+    align: center
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: none
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: grid_section
   - type: blog_feed_section
     blog_feed_cols: three
     enable_cards: true
@@ -21,62 +107,35 @@ sections:
     padding_bottom: large
     has_border: true
     background_color: secondary
-    title: Recent Publications
-  - title: Newsletters
+    title: 'Articles, Blogging, Essays'
+  - title: Reports
     actions: []
     grid_items:
-      - title: Civic Tech Studies
-        title_align: left
-        content: >
-          This TBD newsletter is inspired by the rich academic discipline of
-          science and technology studies which study *“how society, politics,
-          and culture affect scientific research and technological innovation,
-          and how these, in turn, affect society, politics, and culture,”* but
-          is focused primarily on the technology used by civil society and
-          governments for “civics.”
+      - title: Whose Streets? Our Steets! (Tech Edition)
+        title_align: center
         content_align: left
         actions:
-          - label: Subscribe
-            url: 'https://civictechstudies.substack.com/about'
+          - label: Read Online
+            url: >-
+              https://www.belfercenter.org/publication/whose-streets-our-streets-tech-edition
             style: primary
-            has_icon: true
-            icon: arrow-right
+            has_icon: false
+            icon: arrow-left
             icon_position: right
             new_window: false
             no_follow: false
         actions_align: left
         actions_width: auto
-        image_alt: Screenshot of Civic Tech Studies Newsletter
+        image_alt: lorem-ipsum
         image_position: top
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title: Whose Streets? Our Streets! (Tech Edition)
-        title_align: left
-        content: >
-          As a companion to my TAPP research, with the help of Madeline Smith, I
-          collected weekly global news related to public surveillance
-          technology. Curious what street surveillance happened between
-          2020-2021? You can search past issues
-          [here](https://www.google.com/search?as_q=smart+search\&as_epq=\&as_oq=\&as_eq=\&as_nlo=\&as_nhi=\&lr=\&cr=\&as_qdr=all\&as_sitesearch=whosestreets.substack.com\&as_occt=any\&safe=images\&as_filetype=\&tbs=).
-        content_align: left
-        actions:
-          - label: Read the Archive
-            url: 'https://whosestreets.substack.com/'
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-            new_window: false
-            no_follow: false
-        actions_align: left
-        actions_width: auto
-        image_alt: Screenshot of Whose Streets newseltter
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-    grid_cols: two
+        image: images/WhoseStreetsCover.jpg
+        subtitle: >-
+          2020-21 “Smart City” Cautionary Trends & 10 Calls to Action to Protect
+          and Promote Democracy
+    grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
     enable_cards: false
