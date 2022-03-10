@@ -37,7 +37,7 @@ sections:
         title_align: left
         content_align: left
         actions:
-          - label: Subscrine
+          - label: Subscribe
             url: '#'
             style: link
             has_icon: false
