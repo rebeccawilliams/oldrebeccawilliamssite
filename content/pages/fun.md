@@ -20,7 +20,7 @@ sections:
         icon_position: center
         new_window: true
         no_follow: false
-      - label: lorem-ipsum
+      - label: '@rebecca.williams.art'
         url: '#'
         style: link
         has_icon: false
