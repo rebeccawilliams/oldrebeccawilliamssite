@@ -30,7 +30,6 @@ sections:
         type: grid_item
         image: images/rc.png
         title: RightsCon
-        subtitle: Surveillance in Urban Space (2021)
       - title_align: left
         content_align: left
         actions:
