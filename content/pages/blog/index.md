@@ -37,31 +37,6 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title: Whose Streets? Our Streets! (Tech Edition)
-        title_align: left
-        content: >
-          As a companion to my TAPP research, with the help of Madeline Smith, I
-          collected weekly global news related to public surveillance
-          technology. Curious what street surveillance happened between
-          2020-2021? You can search past issues
-          [here](https://www.google.com/search?as_q=smart+search\&as_epq=\&as_oq=\&as_eq=\&as_nlo=\&as_nhi=\&lr=\&cr=\&as_qdr=all\&as_sitesearch=whosestreets.substack.com\&as_occt=any\&safe=images\&as_filetype=\&tbs=).
-        content_align: left
-        actions:
-          - label: Read the Archive
-            url: 'https://whosestreets.substack.com/'
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-            new_window: false
-            no_follow: false
-        actions_align: left
-        actions_width: auto
-        image_alt: Screenshot of Whose Streets newseltter
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
       - title: Block x Block
         subtitle: lorem-ipsum
         title_align: left
@@ -104,6 +79,31 @@ sections:
         actions_align: left
         actions_width: auto
         image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+      - title: Whose Streets? Our Streets! (Tech Edition)
+        title_align: left
+        content: >
+          As a companion to my TAPP research, with the help of Madeline Smith, I
+          collected weekly global news related to public surveillance
+          technology. Curious what street surveillance happened between
+          2020-2021? You can search past issues
+          [here](https://www.google.com/search?as_q=smart+search\&as_epq=\&as_oq=\&as_eq=\&as_nlo=\&as_nhi=\&lr=\&cr=\&as_qdr=all\&as_sitesearch=whosestreets.substack.com\&as_occt=any\&safe=images\&as_filetype=\&tbs=).
+        content_align: left
+        actions:
+          - label: Read the Archive
+            url: 'https://whosestreets.substack.com/'
+            style: primary
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+            new_window: false
+            no_follow: false
+        actions_align: left
+        actions_width: auto
+        image_alt: Screenshot of Whose Streets newseltter
         image_position: top
         image_width: fifty
         image_align: left
