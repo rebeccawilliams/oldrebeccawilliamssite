@@ -62,7 +62,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title: lorem-ipsum
+      - title: Block x Block
         subtitle: lorem-ipsum
         title_align: left
         content: >-
