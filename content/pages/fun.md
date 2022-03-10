@@ -21,7 +21,7 @@ sections:
         new_window: true
         no_follow: false
       - label: '@rebecca.williams.art'
-        url: '#'
+        url: 'https://www.tiktok.com/@rebecca.williams.art'
         style: link
         has_icon: false
         icon: arrow-left
