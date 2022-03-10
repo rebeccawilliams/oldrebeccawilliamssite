@@ -121,7 +121,8 @@ sections:
             new_window: false
             no_follow: false
           - label: Download the PDF
-            url: '#'
+            url: >-
+              https://www.belfercenter.org/sites/default/files/2021-08/WhoseStreets.pdf
             style: link
             has_icon: false
             icon: arrow-left
