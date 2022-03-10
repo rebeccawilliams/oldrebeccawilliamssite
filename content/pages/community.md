@@ -83,7 +83,7 @@ sections:
     background_image_repeat: no-repeat
     type: cta_section
 seo:
-  title: Community | Rebecca Williams
+  title: Learning | Rebecca Williams
   description: This is a page of educational communities Rebecca Williams has facilitated.
   extra:
     - name: 'og:type'
