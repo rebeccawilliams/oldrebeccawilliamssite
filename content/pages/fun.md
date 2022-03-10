@@ -24,7 +24,7 @@ sections:
         url: 'https://www.tiktok.com/@rebecca.williams.art'
         style: link
         has_icon: false
-        icon: arrow-left
+        icon: vimeo
         icon_position: right
         new_window: false
         no_follow: false
