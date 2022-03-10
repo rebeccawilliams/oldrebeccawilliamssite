@@ -82,7 +82,7 @@ sections:
       - label: lorem-ipsum
         url: '#'
         style: link
-        has_icon: false
+        has_icon: true
         icon: vimeo
         icon_position: right
         new_window: false
