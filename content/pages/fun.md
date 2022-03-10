@@ -71,7 +71,7 @@ sections:
     type: grid_section
   - title: Paintings
     actions:
-      - label: rebecca.williams.art
+      - label: '@rebecca.williams.art'
         url: 'https://www.instagram.com/rebecca.williams.art'
         style: link
         has_icon: true
