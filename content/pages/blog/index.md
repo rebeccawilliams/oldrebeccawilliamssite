@@ -135,8 +135,7 @@ sections:
         subtitle: >-
           2020-21 “Smart City” Cautionary Trends & 10 Calls to Action to Protect
           and Promote Democracy
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
+      - subtitle: lorem-ipsum
         title_align: left
         content: >-
           Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
