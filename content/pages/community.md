@@ -1,5 +1,5 @@
 ---
-title: Community
+title: Learning
 sections:
   - type: hero_section
     title: Community
