@@ -73,7 +73,7 @@ sections:
     actions:
       - label: '@rebecca.williams.art'
         url: 'https://www.instagram.com/rebecca.williams.art'
-        style: link
+        style: primary
         has_icon: true
         icon: instagram
         icon_position: center
