@@ -58,7 +58,7 @@ sections:
           blockchain.
         image: images/blockicon.png
       - title: Whose Streets? Our Streets! (Tech Edition)
-        title_align: left
+        title_align: center
         content: >
           Co-authored w/ Madeline Smith. Global public surveillance technology
           stories  from 2020-2021.
