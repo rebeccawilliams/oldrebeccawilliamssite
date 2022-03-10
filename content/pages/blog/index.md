@@ -35,7 +35,7 @@ sections:
         image_has_padding: false
         image: images/ctsicon.png
       - title: Block x Block
-        title_align: left
+        title_align: center
         content_align: left
         actions:
           - label: Subscribe
