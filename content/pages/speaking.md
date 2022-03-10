@@ -154,7 +154,7 @@ sections:
     type: grid_section
     subtitle: Featured
   - content: >
-      ### Additional Appearances
+      ###
 
 
       *   2/2022 - Center for Interdisciplinary Research on Montreal's *AI in
