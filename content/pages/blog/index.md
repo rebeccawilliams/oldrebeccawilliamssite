@@ -39,7 +39,7 @@ sections:
         content_align: left
         actions:
           - label: Subscribe
-            url: '#'
+            url: 'https://blockxblock.substack.com/about'
             style: primary
             has_icon: false
             icon: arrow-left
