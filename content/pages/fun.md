@@ -12,11 +12,19 @@ sections:
       Fun?](https://thebaffler.com/salvos/whats-the-point-if-we-cant-have-fun)
   - title: Art
     actions:
-      - label: '@rebecca.williams.art'
+      - label: instagram
         url: 'https://www.instagram.com/rebecca.williams.art'
-        style: primary
+        style: link
         has_icon: true
         icon: instagram
+        icon_position: center
+        new_window: true
+        no_follow: false
+      - label: 'tiktok   '
+        url: 'https://www.tiktok.com/@rebecca.williams.art'
+        style: link
+        has_icon: true
+        icon: vimeo
         icon_position: center
         new_window: true
         no_follow: false
@@ -62,7 +70,7 @@ sections:
     padding_top: medium
     padding_bottom: medium
     has_border: false
-    background_color: primary
+    background_color: secondary
     background_image_opacity: 0
     background_image_size: cover
     background_image_position: center center
@@ -121,7 +129,7 @@ sections:
     padding_top: medium
     padding_bottom: medium
     has_border: false
-    background_color: secondary
+    background_color: none
     background_image_opacity: 0
     background_image_size: cover
     background_image_position: center center
