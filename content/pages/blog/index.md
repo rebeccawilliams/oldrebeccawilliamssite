@@ -123,7 +123,7 @@ sections:
           - label: Download the PDF
             url: >-
               https://www.belfercenter.org/sites/default/files/2021-08/WhoseStreets.pdf
-            style: link
+            style: secondary
             has_icon: false
             icon: arrow-left
             icon_position: right
