@@ -72,7 +72,7 @@ sections:
     title: Writing
     subtitle: Recent
     actions:
-      - label: View All
+      - label: More Writing
         url: /writing
         style: primary
     blog_feed_cols: three
