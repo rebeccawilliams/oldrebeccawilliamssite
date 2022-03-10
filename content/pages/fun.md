@@ -26,7 +26,7 @@ sections:
         has_icon: false
         icon: vimeo
         icon_position: right
-        new_window: false
+        new_window: true
         no_follow: false
     grid_items:
       - title_align: left
