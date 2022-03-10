@@ -94,23 +94,19 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-  - type: blog_feed_section
-    blog_feed_cols: three
-    enable_cards: true
-    show_recent: false
-    show_date: true
-    show_categories: true
-    show_author: true
-    show_excerpt: true
-    show_image: true
-    padding_top: small
-    padding_bottom: large
-    has_border: true
-    background_color: secondary
-    title: 'Articles, Blogging, Essays'
   - title: Reports
     actions: []
     grid_items:
+      - title_align: left
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
       - title: Whose Streets? Our Steets! (Tech Edition)
         title_align: center
         content_align: left
@@ -124,7 +120,16 @@ sections:
             icon_position: right
             new_window: false
             no_follow: false
-        actions_align: left
+          - label: Download the PDF
+            url: >-
+              https://www.belfercenter.org/sites/default/files/2021-08/WhoseStreets.pdf
+            style: primary
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+        actions_align: center
         actions_width: auto
         image_alt: lorem-ipsum
         image_position: top
@@ -143,12 +148,26 @@ sections:
     padding_top: medium
     padding_bottom: medium
     has_border: false
-    background_color: none
+    background_color: secondary
     background_image_opacity: 0
     background_image_size: cover
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
+  - type: blog_feed_section
+    blog_feed_cols: three
+    enable_cards: true
+    show_recent: false
+    show_date: true
+    show_categories: true
+    show_author: true
+    show_excerpt: true
+    show_image: true
+    padding_top: small
+    padding_bottom: large
+    has_border: true
+    background_color: none
+    title: Blogging
 seo:
   title: Blog | Rebecca Williams
   description: 'This is a collection of Rebecca Williams'' writing. '
