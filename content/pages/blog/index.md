@@ -62,7 +62,7 @@ sections:
         content: >
           Co-authored w/ Madeline Smith. Global public surveillance technology
           stories  from 2020-2021.
-        content_align: left
+        content_align: center
         actions:
           - label: Read the Archive
             url: 'https://whosestreets.substack.com/'
