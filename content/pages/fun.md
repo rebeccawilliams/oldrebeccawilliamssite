@@ -2,7 +2,7 @@
 title: Creating
 sections:
   - type: hero_section
-    title: Fun
+    title: Creating
     align: center
     padding_top: large
     padding_bottom: small
