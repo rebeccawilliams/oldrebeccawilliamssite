@@ -2,7 +2,7 @@
 title: Learning
 sections:
   - type: hero_section
-    title: Community
+    title: Learning
     align: center
     padding_top: large
     padding_bottom: small

@@ -2,7 +2,7 @@
 title: Creating
 sections:
   - type: hero_section
-    title: Fun
+    title: Creating
     align: center
     padding_top: large
     padding_bottom: small
@@ -136,14 +136,14 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
 seo:
-  title: Fun | Rebecca Williams
+  title: Creating | Rebecca Williams
   description: What’s the Point If We Can’t Have Fun?
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Fun | Rebecca Williams
+      value: Creating | Rebecca Williams
       keyName: property
     - name: 'og:description'
       value: What’s the Point If We Can’t Have Fun?

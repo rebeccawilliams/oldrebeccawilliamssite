@@ -28,12 +28,12 @@
             },
             {
                 "label": "Learning",
-                "url": "/learning",
+                "url": "/community",
                 "style": "link"
             },
             {
                 "label": "Creating",
-                "url": "/creating",
+                "url": "/fun",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
