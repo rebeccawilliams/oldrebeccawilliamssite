@@ -157,7 +157,7 @@ sections:
     padding_top: small
     padding_bottom: large
     has_border: true
-    background_color: secondary
+    background_color: none
     title: 'Articles, Blogging, Essays'
 seo:
   title: Blog | Rebecca Williams
