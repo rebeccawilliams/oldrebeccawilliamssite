@@ -21,7 +21,7 @@ sections:
           - label: Subscribe
             url: 'https://civictechstudies.substack.com/about'
             style: primary
-            has_icon: true
+            has_icon: false
             icon: arrow-right
             icon_position: right
             new_window: false
