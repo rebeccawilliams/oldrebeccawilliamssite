@@ -116,7 +116,8 @@ sections:
         content_align: left
         actions:
           - label: Read Online
-            url: '#'
+            url: >-
+              https://www.belfercenter.org/publication/whose-streets-our-streets-tech-edition
             style: primary
             has_icon: false
             icon: arrow-left
