@@ -157,14 +157,8 @@ sections:
       ### Additional Appearances
 
 
-      #### Upcoming:
-
-
-      *   2/10/2022, 11:00-12:00 EST - Center for Interdisciplinary Research on
+      *   2/2022, 11:00-12:00 EST - Center for Interdisciplinary Research on
       Montreal's *AI in the City: Building Civic Engagement and Public Trust*
-
-
-      #### Past:
 
 
       *   11/2021 - [SCNY Urban Tech Summit at Cornell
