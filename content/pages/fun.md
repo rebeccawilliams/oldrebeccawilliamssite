@@ -12,7 +12,7 @@ sections:
       Fun?](https://thebaffler.com/salvos/whats-the-point-if-we-cant-have-fun)
   - title: Art
     actions:
-      - label: '@rebecca.williams.art'
+      - label: instagram
         url: 'https://www.instagram.com/rebecca.williams.art'
         style: link
         has_icon: true
