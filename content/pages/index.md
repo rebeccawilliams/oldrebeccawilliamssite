@@ -73,7 +73,7 @@ sections:
     subtitle: Recent
     actions:
       - label: View All
-        url: /blog
+        url: /writing
         style: primary
     blog_feed_cols: three
     enable_cards: true
