@@ -33,6 +33,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
+        image: images/CivicTechStudies_Newsletter.png
       - title: Block x Block
         title_align: left
         content_align: left
