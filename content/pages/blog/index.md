@@ -56,7 +56,7 @@ sections:
         content: >
           A newsletter that documents the worst city (block) investments in
           blockchain.
-        image: images/blockxblock.png
+        image: images/blockicon.png
       - title: Whose Streets? Our Streets! (Tech Edition)
         title_align: left
         content: >
