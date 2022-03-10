@@ -154,8 +154,9 @@ sections:
     type: grid_section
     subtitle: Featured
   - content: >
-      *   2/2022 - Center for Interdisciplinary Research on Montreal's *AI in
-      the City: Building Civic Engagement and Public Trust*
+      *   2/2022 - [*AI in the City: Building Civic Engagement and Public
+      Trust*](https://www.mcgill.ca/centre-montreal/channels/event/symposium-ai-city-building-civic-engagement-and-public-trust-337139)*
+      Roundtable*
 
 
       *   11/2021 - [SCNY Urban Tech Summit at Cornell
