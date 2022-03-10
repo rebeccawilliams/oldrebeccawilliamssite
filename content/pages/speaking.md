@@ -14,7 +14,7 @@ sections:
             url: >-
               https://www.rightscon.org/program/?fwp_session_category=privacy-and-surveillance
             style: primary
-            has_icon: true
+            has_icon: false
             icon: arrow-right
             icon_position: right
             new_window: false
@@ -37,7 +37,7 @@ sections:
             url: >-
               https://www.belfercenter.org/event/whose-streets-our-streets-tech-edition#!watch-here-
             style: primary
-            has_icon: true
+            has_icon: false
             icon: youtube
             icon_position: right
             new_window: false
@@ -47,7 +47,7 @@ sections:
             url: >-
               https://www.belfercenter.org/event/every-sectors-role-protecting-and-promoting-democracy-technology
             style: primary
-            has_icon: true
+            has_icon: false
             icon: youtube
             icon_position: right
             new_window: false
@@ -72,7 +72,7 @@ sections:
             url: >-
               https://web.archive.org/web/20200925010406/https://www.ire.org/events-and-training/event/3433/4401
             style: primary
-            has_icon: true
+            has_icon: false
             icon: arrow-right
             icon_position: right
             new_window: false
@@ -82,7 +82,7 @@ sections:
             url: >-
               https://web.archive.org/web/20201022215006/https://www.ire.org/events-and-training/event/3189/
             style: primary
-            has_icon: true
+            has_icon: false
             icon: arrow-right
             icon_position: right
             new_window: false
@@ -91,7 +91,7 @@ sections:
           - url: >-
               https://web.archive.org/web/20201022215006/https://www.ire.org/events-and-training/event/3189/
             style: primary
-            has_icon: true
+            has_icon: false
             icon: arrow-right
             icon_position: right
             new_window: false
@@ -114,7 +114,7 @@ sections:
           - label: 'Your Laws, Your Data (2015)'
             url: 'https://schedule.sxsw.com/2015/events/event_IAP35484'
             style: primary
-            has_icon: true
+            has_icon: false
             icon: arrow-right
             icon_position: right
             new_window: false
@@ -123,7 +123,7 @@ sections:
           - label: Fighting Crime with Data (2017)
             url: 'https://schedule.sxsw.com/2017/events/PP65197'
             style: primary
-            has_icon: true
+            has_icon: false
             icon: arrow-right
             icon_position: right
             new_window: false
