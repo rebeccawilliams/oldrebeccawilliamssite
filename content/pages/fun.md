@@ -79,14 +79,6 @@ sections:
         icon_position: center
         new_window: true
         no_follow: false
-      - label: lorem-ipsum
-        url: 'https://www.tiktok.com/@rebecca.williams.art'
-        style: link
-        has_icon: true
-        icon: vimeo
-        icon_position: right
-        new_window: false
-        no_follow: false
     grid_items:
       - title_align: left
         content_align: left
