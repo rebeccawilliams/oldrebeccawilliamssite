@@ -25,7 +25,7 @@ sections:
         style: link
         has_icon: true
         icon: vimeo
-        icon_position: right
+        icon_position: center
         new_window: true
         no_follow: false
     grid_items:
