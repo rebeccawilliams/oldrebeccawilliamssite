@@ -107,7 +107,7 @@ sections:
     padding_bottom: large
     has_border: true
     background_color: secondary
-    title: Recent Publications
+    title: 'Articles, Blogging, Essays'
   - title: Reports
     actions: []
     grid_items:
