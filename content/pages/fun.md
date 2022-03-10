@@ -20,7 +20,7 @@ sections:
         icon_position: center
         new_window: true
         no_follow: false
-      - label: '@rebecca.williams.art'
+      - label: '@rebecca.williams.art           '
         url: 'https://www.tiktok.com/@rebecca.williams.art'
         style: link
         has_icon: true
