@@ -113,7 +113,7 @@ sections:
     grid_items:
       - title: Whose Streets? Our Steets! (Tech Edition)
         title_align: center
-        content_align: center
+        content_align: left
         actions:
           - label: Read Online
             url: '#'
