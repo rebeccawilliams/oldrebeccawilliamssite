@@ -108,7 +108,7 @@ sections:
     has_border: true
     background_color: secondary
     title: Recent Publications
-  - title: lorem-ipsum
+  - title: Reports
     subtitle: lorem-ipsum
     actions: []
     grid_items: []
