@@ -10,6 +10,64 @@ sections:
     content: >
       [What's the Point If We Can't Have
       Fun?](https://thebaffler.com/salvos/whats-the-point-if-we-cant-have-fun)
+  - title: Art
+    actions:
+      - label: '@rebecca.williams.art'
+        url: 'https://www.instagram.com/rebecca.williams.art'
+        style: primary
+        has_icon: true
+        icon: instagram
+        icon_position: center
+        new_window: true
+        no_follow: false
+    grid_items:
+      - title_align: left
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: Painting of waves
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        image: images/WavePainting.jpg
+      - title_align: left
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: Painting of blue text messages
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        image: images/LeftOnReadPainting.jpg
+      - title_align: left
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: Painting of an iceberg
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+        image: images/IcebergPainting.jpg
+    grid_cols: three
+    grid_gap_vert: small
+    grid_gap_horiz: small
+    enable_cards: false
+    align: center
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: primary
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: grid_section
   - title: Websites
     actions: []
     grid_items:
@@ -64,64 +122,6 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: secondary
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: grid_section
-  - title: Paintings
-    actions:
-      - label: lorem-ipsum
-        url: 'https://www.instagram.com/paintingrebecca/'
-        style: link
-        has_icon: true
-        icon: instagram
-        icon_position: center
-        new_window: true
-        no_follow: false
-    grid_items:
-      - title_align: left
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: Painting of waves
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        image: images/WavePainting.jpg
-      - title_align: left
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: Painting of blue text messages
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        image: images/LeftOnReadPainting.jpg
-      - title_align: left
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: Painting of an iceberg
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        image: images/IcebergPainting.jpg
-    grid_cols: three
-    grid_gap_vert: small
-    grid_gap_horiz: small
-    enable_cards: false
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: primary
     background_image_opacity: 0
     background_image_size: cover
     background_image_position: center center
