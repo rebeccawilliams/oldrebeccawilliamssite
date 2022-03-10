@@ -14,12 +14,8 @@ sections:
       - title: Civic Tech Studies
         title_align: left
         content: >
-          This TBD newsletter is inspired by the rich academic discipline of
-          science and technology studies which study *“how society, politics,
-          and culture affect scientific research and technological innovation,
-          and how these, in turn, affect society, politics, and culture,”* but
-          is focused primarily on the technology used by civil society and
-          governments for “civics.”
+          Critical studies of "civic tech" based on the science and technology
+          studies academic discipline.
         content_align: left
         actions:
           - label: Subscribe
