@@ -80,7 +80,7 @@ sections:
         new_window: true
         no_follow: false
       - label: lorem-ipsum
-        url: '#'
+        url: 'https://www.tiktok.com/@rebecca.williams.art'
         style: link
         has_icon: true
         icon: vimeo
