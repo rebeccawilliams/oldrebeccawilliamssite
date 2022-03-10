@@ -18,7 +18,7 @@
             },
             {
                 "label": "Writing",
-                "url": "/blog",
+                "url": "/writing",
                 "style": "link"
             },
             {
@@ -27,13 +27,13 @@
                 "style": "link"
             },
             {
-                "label": "Community",
-                "url": "/community",
+                "label": "Learning",
+                "url": "/learning",
                 "style": "link"
             },
             {
-                "label": "Fun",
-                "url": "/fun",
+                "label": "Creating",
+                "url": "/creating",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
