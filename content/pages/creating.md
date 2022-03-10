@@ -90,7 +90,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-            label: Visit
+            label: whatisdata.info
         actions_align: left
         actions_width: auto
         image_alt: Screenshot of the What is Data? website
