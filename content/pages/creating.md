@@ -103,7 +103,7 @@ sections:
       - title_align: left
         content_align: left
         actions:
-          - label: Visit
+          - label: New Google
             url: 'https://rebeccawilliams.github.io/newgoogle/#/'
             style: primary
             has_icon: true
