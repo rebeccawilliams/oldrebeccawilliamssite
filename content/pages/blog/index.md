@@ -158,7 +158,7 @@ sections:
     padding_bottom: large
     has_border: true
     background_color: none
-    title: 'Articles, Blogging, Essays'
+    title: Blog
 seo:
   title: Blog | Rebecca Williams
   description: 'This is a collection of Rebecca Williams'' writing. '
