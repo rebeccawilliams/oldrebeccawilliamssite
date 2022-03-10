@@ -69,7 +69,7 @@ sections:
     align: center
     background_color: secondary
   - type: blog_feed_section
-    title: Writing
+    title: Blogging
     subtitle: Recent
     actions:
       - label: More Writing
