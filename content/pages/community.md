@@ -1,5 +1,5 @@
 ---
-title: Learning
+title: Test
 sections:
   - type: hero_section
     title: Learning
