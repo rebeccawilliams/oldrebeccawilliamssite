@@ -116,30 +116,6 @@ sections:
         subtitle: lorem-ipsum
         title_align: left
         content: >
-          # Presenting the Whose Streets? Our Streets! (Tech Edition) Final
-          Report
-
-
-          The culmination of 2020-21 research on harms to civil liberties posed
-          by "smart city" technology.
-
-
-          For Harvard Kennedy School’s Belfer Center for Science and
-          International Affairs’ Technology and Public Purpose (TAPP) Project, I
-          researched harms to civil liberties posed by “smart city” technology.
-          This research was [originally
-          inspired](https://www.belfercenter.org/publication/introducing-whose-streets-our-streets-developing-interventions-protect-civil-liberties)
-          by protests to high-profile “smart city” projects like Sidewalk
-          Toronto and a nascent regulatory landscape for surveillance
-          technologies. After many interviews, [public records
-          requests](https://www.muckrock.com/project/whose-streets-our-streets-tech-edition-863/),
-          and the methodical tracking of related news during the fellowship via
-          the [*Whose Streets? Our Streets!
-          Newsletter*](https://whosestreets.substack.com/), this report
-          culminates my research and serves as a 2020-21 time capsule  of “smart
-          city” cautionary trends and 10 calls to action to blunt these trends.
-
-
           #### The *Whose Streets? Our Streets! (Tech Edition)* final report
           includes:
 
@@ -164,14 +140,6 @@ sections:
           Data, and Uses; Build Our Collective Capacity to Evaluate How
           Technology Impacts Democracy*; and *Fortify Old and Build New
           Democratic Spaces*.
-
-
-          *Originally posted on The Perspectives on Public Purpose Blog hosted
-          by Harvard  Kennedy School Belfer Center’s Technology and Public
-          Purpose (TAPP)  Project: *[*Read
-          Online*](https://www.belfercenter.org/publication/whose-streets-our-streets-tech-edition)*
-          or *[*Download the
-          PDF*](https://www.belfercenter.org/sites/default/files/2021-08/WhoseStreets.pdf)
         content_align: left
         actions: []
         actions_align: left
