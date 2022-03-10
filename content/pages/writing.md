@@ -169,7 +169,7 @@ sections:
     background_color: none
     title: Blogging
 seo:
-  title: Blog | Rebecca Williams
+  title: Writing | Rebecca Williams
   description: 'This is a collection of Rebecca Williams'' writing. '
   extra:
     - name: 'og:type'
