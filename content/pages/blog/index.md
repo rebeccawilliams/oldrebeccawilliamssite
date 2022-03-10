@@ -115,31 +115,6 @@ sections:
       - title: Whose Streets? Our Steets! (Tech Edition)
         subtitle: lorem-ipsum
         title_align: left
-        content: >
-          #### The *Whose Streets? Our Streets! (Tech Edition)* final report
-          includes:
-
-
-          *   A look at how technology is affecting society through the lens of
-          *our streets*, which have historically been crucial commons for
-          convening democratic protests.
-
-
-          *   An outline of how “smart city” cameras, location trackers, and
-          sensors collect data that can identify, and target, individuals.
-
-
-          *   A framework of cautionary trends (*Totalitarianism, Panopticonism,
-          Discrimination, Privatization, and Solutionism*) with 50+ real-world
-          examples from 2020-21.
-
-
-          *   10 calls to action that summarize related 2020-21 regulatory
-          approaches to build on and communities to get involved with. These
-          calls to action ask that we *Stop Harmful “Smart City” Technology,
-          Data, and Uses; Build Our Collective Capacity to Evaluate How
-          Technology Impacts Democracy*; and *Fortify Old and Build New
-          Democratic Spaces*.
         content_align: left
         actions: []
         actions_align: left
