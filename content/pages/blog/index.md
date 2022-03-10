@@ -48,6 +48,27 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
+        content: >
+          ## A newsletter that documents the worst city investments in
+          blockchain.
+
+
+          Block 1 
+
+
+          > *A **city block**, **residential block**, **urban block,** or simply
+          **block** is a central element of *[*urban
+          planning*](https://en.wikipedia.org/wiki/Urban_planning)* and *[*urban
+          design*](https://en.wikipedia.org/wiki/Urban_design)*.*
+
+
+          Block 2
+
+
+          > *A **blockchain** is a growing list of
+          *[*records*](https://en.wikipedia.org/wiki/Record_\(computer_science\))*,
+          called blocks, that are linked together using
+          *[*cryptography*](https://en.wikipedia.org/wiki/Cryptography)*.*
       - title: Whose Streets? Our Streets! (Tech Edition)
         title_align: left
         content: >
