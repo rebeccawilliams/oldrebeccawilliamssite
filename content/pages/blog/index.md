@@ -12,7 +12,7 @@ sections:
     actions: []
     grid_items:
       - title: Civic Tech Studies
-        title_align: left
+        title_align: center
         content: >
           Critical studies of "civic tech" based on the science and technology
           studies academic discipline.
