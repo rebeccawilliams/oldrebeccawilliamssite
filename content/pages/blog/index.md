@@ -135,8 +135,7 @@ sections:
         subtitle: >-
           2020-21 “Smart City” Cautionary Trends & 10 Calls to Action to Protect
           and Promote Democracy
-      - subtitle: lorem-ipsum
-        title_align: left
+      - title_align: left
         content_align: left
         actions: []
         actions_align: left
