@@ -9,8 +9,8 @@ sections:
     features:
       - content: >
           **Rebecca Williams** is a researcher and writer with expertise in data
-          and technology policy. She has worked at all jurisdiction levels,
-          inside and outside of government, as a civil servant, consultant, and
+          and technology policy. She is currently the Data Governance Program Manager for the ACLU.
+          She has worked at all jurisdiction levels, inside and outside of government, as a civil servant, consultant, and
           advocate at Harvard, the Sunlight Foundation, the White House, and
           more. She holds a B.A. in Communication from the University of
           Massachusetts Amherst and a J.D. from Western New England University
